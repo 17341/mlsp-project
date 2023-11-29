@@ -1,4 +1,4 @@
-import training.cramming
+import UltraFastBERT.training.cramming
 from transformers import AutoModelForMaskedLM, AutoTokenizer
 import torch
 import time
@@ -17,12 +17,7 @@ def get_prediction(text):
     with torch.no_grad():
         predict = model(input_ids)['outputs']
 
-    predict_words = ultrafast_tokenizer.convert_ids_to_tokens(predict[mask_idx, :].topk(5).indices.tolist())
-    print(predict_words)
-    end_time = time.time()
-    elapsed_time = end_time - start_time
-    print(elapsed_time)
+    predict_words = ultrafast_tokenizer.convert_ids_to_tokens(predict[mask_idx, :].topk(2).indices.tolist())
+    if (predict_words[0] == "."):
+        return predict_words[1]
     return predict_words[0]
-
-pred = get_prediction("The examination and testimony of the experts enabled the Commission")
-print(pred)
