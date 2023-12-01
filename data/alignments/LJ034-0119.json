@@ -1,0 +1,175 @@
+{
+    "transcript": "Approximately 7 or 8 minutes later",
+    "words": [
+        {
+            "alignedWord": "approximately",
+            "case": "success",
+            "end": 0.86,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Approximately"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.21,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.35,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.86,
+            "startOffset": 14,
+            "word": "7"
+        },
+        {
+            "alignedWord": "or",
+            "case": "success",
+            "end": 1.35,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.21,
+            "startOffset": 16,
+            "word": "or"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.5799999999999998,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.2,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.38,
+            "startOffset": 19,
+            "word": "8"
+        },
+        {
+            "alignedWord": "minutes",
+            "case": "success",
+            "end": 2.04,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.62,
+            "startOffset": 21,
+            "word": "minutes"
+        },
+        {
+            "alignedWord": "later",
+            "case": "success",
+            "end": 2.4,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.04,
+            "startOffset": 29,
+            "word": "later"
+        }
+    ]
+}

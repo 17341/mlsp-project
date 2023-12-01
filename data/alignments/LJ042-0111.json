@@ -1,0 +1,164 @@
+{
+    "transcript": "Jeanne De Mohrenschildt another member of that group",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.44,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.43,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Jeanne"
+        },
+        {
+            "alignedWord": "de",
+            "case": "success",
+            "end": 0.54,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.46,
+            "startOffset": 7,
+            "word": "De"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.55,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 1.01,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.54,
+            "startOffset": 10,
+            "word": "Mohrenschildt"
+        },
+        {
+            "alignedWord": "another",
+            "case": "success",
+            "end": 2.19,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.79,
+            "startOffset": 24,
+            "word": "another"
+        },
+        {
+            "alignedWord": "member",
+            "case": "success",
+            "end": 2.57,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.19,
+            "startOffset": 32,
+            "word": "member"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 2.6999999999999997,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.57,
+            "startOffset": 39,
+            "word": "of"
+        },
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 2.91,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.02,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.7,
+            "startOffset": 42,
+            "word": "that"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 52,
+            "startOffset": 47,
+            "word": "group"
+        }
+    ]
+}

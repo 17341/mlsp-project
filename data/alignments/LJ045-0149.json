@@ -1,0 +1,74 @@
+{
+    "transcript": "She said quote",
+    "words": [
+        {
+            "alignedWord": "she",
+            "case": "success",
+            "end": 0.25,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.03,
+            "startOffset": 0,
+            "word": "She"
+        },
+        {
+            "alignedWord": "said",
+            "case": "success",
+            "end": 0.6599999999999999,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.25,
+            "startOffset": 4,
+            "word": "said"
+        },
+        {
+            "alignedWord": "quote",
+            "case": "success",
+            "end": 0.96,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.69,
+            "startOffset": 9,
+            "word": "quote"
+        }
+    ]
+}

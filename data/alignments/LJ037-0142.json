@@ -1,0 +1,86 @@
+{
+    "transcript": "serial number V510210.",
+    "words": [
+        {
+            "alignedWord": "serial",
+            "case": "success",
+            "end": 0.47,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "serial"
+        },
+        {
+            "alignedWord": "number",
+            "case": "success",
+            "end": 0.8,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.47,
+            "startOffset": 7,
+            "word": "number"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.24,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.44,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.8,
+            "startOffset": 14,
+            "word": "V510210"
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "transcript": "he did not see his brother Robert from Thanksgiving of 1962 until November 23 1963.",
+    "words": [
+        {
+            "alignedWord": "he",
+            "case": "success",
+            "end": 0.12,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "he"
+        },
+        {
+            "alignedWord": "did",
+            "case": "success",
+            "end": 0.27,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.12,
+            "startOffset": 3,
+            "word": "did"
+        },
+        {
+            "alignedWord": "not",
+            "case": "success",
+            "end": 0.53,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.27,
+            "startOffset": 7,
+            "word": "not"
+        },
+        {
+            "alignedWord": "see",
+            "case": "success",
+            "end": 0.74,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.53,
+            "startOffset": 11,
+            "word": "see"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 0.95,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.74,
+            "startOffset": 15,
+            "word": "his"
+        },
+        {
+            "alignedWord": "brother",
+            "case": "success",
+            "end": 1.39,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.96,
+            "startOffset": 19,
+            "word": "brother"
+        },
+        {
+            "alignedWord": "robert",
+            "case": "success",
+            "end": 2.03,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.39,
+            "startOffset": 27,
+            "word": "Robert"
+        },
+        {
+            "alignedWord": "from",
+            "case": "success",
+            "end": 2.61,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 2.38,
+            "startOffset": 34,
+            "word": "from"
+        },
+        {
+            "alignedWord": "thanksgiving",
+            "case": "success",
+            "end": 3.35,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "th_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ng_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 2.62,
+            "startOffset": 39,
+            "word": "Thanksgiving"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.48,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.35,
+            "startOffset": 52,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.9,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 1.42,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.48,
+            "startOffset": 55,
+            "word": "1962"
+        },
+        {
+            "alignedWord": "until",
+            "case": "success",
+            "end": 5.71,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 5.32,
+            "startOffset": 60,
+            "word": "until"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 6.23,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.71,
+            "startOffset": 66,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.29,
+            "endOffset": 77,
+            "phones": [
+                {
+                    "duration": 1.05,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.24,
+            "startOffset": 75,
+            "word": "23"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.9,
+            "endOffset": 82,
+            "phones": [
+                {
+                    "duration": 1.45,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.45,
+            "startOffset": 78,
+            "word": "1963"
+        }
+    ]
+}

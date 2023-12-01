@@ -1,0 +1,216 @@
+{
+    "transcript": "The rifle without the scope cost only $12.78.",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.28,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.15,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "rifle",
+            "case": "success",
+            "end": 0.68,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.28,
+            "startOffset": 4,
+            "word": "rifle"
+        },
+        {
+            "alignedWord": "without",
+            "case": "success",
+            "end": 1.02,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "th_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.68,
+            "startOffset": 10,
+            "word": "without"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.1300000000000001,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.02,
+            "startOffset": 18,
+            "word": "the"
+        },
+        {
+            "alignedWord": "scope",
+            "case": "success",
+            "end": 1.63,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 1.13,
+            "startOffset": 22,
+            "word": "scope"
+        },
+        {
+            "alignedWord": "cost",
+            "case": "success",
+            "end": 2.25,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.89,
+            "startOffset": 28,
+            "word": "cost"
+        },
+        {
+            "alignedWord": "only",
+            "case": "success",
+            "end": 2.68,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ow_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.25,
+            "startOffset": 33,
+            "word": "only"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.96,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.87,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.09,
+            "startOffset": 39,
+            "word": "12"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.11,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.9,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.21,
+            "startOffset": 42,
+            "word": "78"
+        }
+    ]
+}

@@ -1,0 +1,285 @@
+{
+    "transcript": "the second test \" at a \"\"fast walk\"\" took 1 minute\" 14 seconds.",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.11,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.06,
+            "startOffset": 0,
+            "word": "the"
+        },
+        {
+            "alignedWord": "second",
+            "case": "success",
+            "end": 0.48,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.11,
+            "startOffset": 4,
+            "word": "second"
+        },
+        {
+            "alignedWord": "test",
+            "case": "success",
+            "end": 1.01,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.48,
+            "startOffset": 11,
+            "word": "test"
+        },
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 1.39,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.22,
+            "startOffset": 18,
+            "word": "at"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 1.49,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ey_S"
+                }
+            ],
+            "start": 1.39,
+            "startOffset": 21,
+            "word": "a"
+        },
+        {
+            "alignedWord": "fast",
+            "case": "success",
+            "end": 2.09,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.59,
+            "startOffset": 25,
+            "word": "fast"
+        },
+        {
+            "alignedWord": "walk",
+            "case": "success",
+            "end": 2.58,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 2.09,
+            "startOffset": 30,
+            "word": "walk"
+        },
+        {
+            "alignedWord": "took",
+            "case": "success",
+            "end": 2.98,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 2.77,
+            "startOffset": 37,
+            "word": "took"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.23,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.25,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.98,
+            "startOffset": 42,
+            "word": "1"
+        },
+        {
+            "alignedWord": "minute",
+            "case": "success",
+            "end": 3.6,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.23,
+            "startOffset": 44,
+            "word": "minute"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.19,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.59,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.6,
+            "startOffset": 52,
+            "word": "14"
+        },
+        {
+            "alignedWord": "seconds",
+            "case": "success",
+            "end": 4.73,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.19,
+            "startOffset": 55,
+            "word": "seconds"
+        }
+    ]
+}

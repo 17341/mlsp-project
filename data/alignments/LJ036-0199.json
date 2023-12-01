@@ -1,0 +1,183 @@
+{
+    "transcript": "At about 12:44 p.m. on November 22",
+    "words": [
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 0.35,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.19,
+            "startOffset": 0,
+            "word": "At"
+        },
+        {
+            "alignedWord": "about",
+            "case": "success",
+            "end": 0.6699999999999999,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.35,
+            "startOffset": 3,
+            "word": "about"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 11,
+            "startOffset": 9,
+            "word": "12"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.6800000000000002,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 1.01,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.67,
+            "startOffset": 12,
+            "word": "44"
+        },
+        {
+            "alignedWord": "p",
+            "case": "success",
+            "end": 1.94,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.69,
+            "startOffset": 15,
+            "word": "p"
+        },
+        {
+            "alignedWord": "m",
+            "case": "success",
+            "end": 2.16,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 1.94,
+            "startOffset": 17,
+            "word": "m"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 2.2600000000000002,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.16,
+            "startOffset": 20,
+            "word": "on"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 2.74,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.27,
+            "startOffset": 23,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.41,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.66,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.75,
+            "startOffset": 32,
+            "word": "22"
+        }
+    ]
+}

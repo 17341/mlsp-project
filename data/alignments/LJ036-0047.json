@@ -1,0 +1,353 @@
+{
+    "transcript": "On November 22 Mrs. Bledsoe came downtown to watch the Presidential motorcade.",
+    "words": [
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.3,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.15,
+            "startOffset": 0,
+            "word": "On"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 0.69,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.3,
+            "startOffset": 3,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.27,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.58,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.69,
+            "startOffset": 12,
+            "word": "22"
+        },
+        {
+            "alignedWord": "mrs",
+            "case": "success",
+            "end": 1.72,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.31,
+            "startOffset": 15,
+            "word": "Mrs"
+        },
+        {
+            "alignedWord": "bledsoe",
+            "case": "success",
+            "end": 2.2199999999999998,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 1.72,
+            "startOffset": 20,
+            "word": "Bledsoe"
+        },
+        {
+            "alignedWord": "came",
+            "case": "success",
+            "end": 2.5300000000000002,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 2.22,
+            "startOffset": 28,
+            "word": "came"
+        },
+        {
+            "alignedWord": "downtown",
+            "case": "success",
+            "end": 3.1599999999999997,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.53,
+            "startOffset": 33,
+            "word": "downtown"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 3.3200000000000003,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 3.16,
+            "startOffset": 42,
+            "word": "to"
+        },
+        {
+            "alignedWord": "watch",
+            "case": "success",
+            "end": 3.63,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 3.32,
+            "startOffset": 45,
+            "word": "watch"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.73,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.63,
+            "startOffset": 51,
+            "word": "the"
+        },
+        {
+            "alignedWord": "presidential",
+            "case": "success",
+            "end": 4.41,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 3.73,
+            "startOffset": 55,
+            "word": "Presidential"
+        },
+        {
+            "alignedWord": "motorcade",
+            "case": "success",
+            "end": 5.05,
+            "endOffset": 77,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "ey_I"
+                }
+            ],
+            "start": 4.41,
+            "startOffset": 68,
+            "word": "motorcade"
+        }
+    ]
+}

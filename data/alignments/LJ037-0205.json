@@ -1,0 +1,490 @@
+{
+    "transcript": "The invoice was prepared on March 13 1963; the revolver was actually shipped on March 20 by Railway Express.",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.39,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.22,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "invoice",
+            "case": "success",
+            "end": 0.86,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "oy_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.39,
+            "startOffset": 4,
+            "word": "invoice"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 1.06,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.86,
+            "startOffset": 12,
+            "word": "was"
+        },
+        {
+            "alignedWord": "prepared",
+            "case": "success",
+            "end": 1.53,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.06,
+            "startOffset": 16,
+            "word": "prepared"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 1.7,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.53,
+            "startOffset": 25,
+            "word": "on"
+        },
+        {
+            "alignedWord": "march",
+            "case": "success",
+            "end": 2.02,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 1.7,
+            "startOffset": 28,
+            "word": "March"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.6999999999999997,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.67,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.03,
+            "startOffset": 34,
+            "word": "13"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.16,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 1.41,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.75,
+            "startOffset": 37,
+            "word": "1963"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.93,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.8,
+            "startOffset": 43,
+            "word": "the"
+        },
+        {
+            "alignedWord": "revolver",
+            "case": "success",
+            "end": 5.47,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.93,
+            "startOffset": 47,
+            "word": "revolver"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 5.6899999999999995,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 5.47,
+            "startOffset": 56,
+            "word": "was"
+        },
+        {
+            "alignedWord": "actually",
+            "case": "success",
+            "end": 6.25,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 5.71,
+            "startOffset": 60,
+            "word": "actually"
+        },
+        {
+            "alignedWord": "shipped",
+            "case": "success",
+            "end": 6.71,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 6.25,
+            "startOffset": 69,
+            "word": "shipped"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 6.97,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.75,
+            "startOffset": 77,
+            "word": "on"
+        },
+        {
+            "alignedWord": "march",
+            "case": "success",
+            "end": 7.25,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 6.97,
+            "startOffset": 80,
+            "word": "March"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.78,
+            "endOffset": 88,
+            "phones": [
+                {
+                    "duration": 0.5,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.28,
+            "startOffset": 86,
+            "word": "20"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 8.21,
+            "endOffset": 91,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 7.99,
+            "startOffset": 89,
+            "word": "by"
+        },
+        {
+            "alignedWord": "railway",
+            "case": "success",
+            "end": 8.74,
+            "endOffset": 99,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 8.21,
+            "startOffset": 92,
+            "word": "Railway"
+        },
+        {
+            "alignedWord": "express",
+            "case": "success",
+            "end": 9.290000000000001,
+            "endOffset": 107,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 8.74,
+            "startOffset": 100,
+            "word": "Express"
+        }
+    ]
+}

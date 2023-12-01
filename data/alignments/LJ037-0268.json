@@ -1,0 +1,508 @@
+{
+    "transcript": "(3) the revolver in Oswald's possession at the time of his arrest was purchased by and belonged to Oswald and (4)",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.51,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.37,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 1,
+            "word": "3"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.07,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.91,
+            "startOffset": 4,
+            "word": "the"
+        },
+        {
+            "alignedWord": "revolver",
+            "case": "success",
+            "end": 1.62,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.07,
+            "startOffset": 8,
+            "word": "revolver"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 1.8099999999999998,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.65,
+            "startOffset": 17,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.35,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.53,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.82,
+            "startOffset": 20,
+            "word": "Oswald's"
+        },
+        {
+            "alignedWord": "possession",
+            "case": "success",
+            "end": 2.9299999999999997,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.38,
+            "startOffset": 29,
+            "word": "possession"
+        },
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 3.12,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.97,
+            "startOffset": 40,
+            "word": "at"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.24,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.12,
+            "startOffset": 43,
+            "word": "the"
+        },
+        {
+            "alignedWord": "time",
+            "case": "success",
+            "end": 3.52,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 3.25,
+            "startOffset": 47,
+            "word": "time"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.64,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.52,
+            "startOffset": 52,
+            "word": "of"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 3.85,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.64,
+            "startOffset": 55,
+            "word": "his"
+        },
+        {
+            "alignedWord": "arrest",
+            "case": "success",
+            "end": 4.390000000000001,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "er_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.85,
+            "startOffset": 59,
+            "word": "arrest"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 4.890000000000001,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.66,
+            "startOffset": 66,
+            "word": "was"
+        },
+        {
+            "alignedWord": "purchased",
+            "case": "success",
+            "end": 5.34,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.89,
+            "startOffset": 70,
+            "word": "purchased"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 5.859999999999999,
+            "endOffset": 82,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.37,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 5.35,
+            "startOffset": 80,
+            "word": "by"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 6.17,
+            "endOffset": 86,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.97,
+            "startOffset": 83,
+            "word": "and"
+        },
+        {
+            "alignedWord": "belonged",
+            "case": "success",
+            "end": 6.68,
+            "endOffset": 95,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ng_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 6.17,
+            "startOffset": 87,
+            "word": "belonged"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 7.01,
+            "endOffset": 98,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 6.77,
+            "startOffset": 96,
+            "word": "to"
+        },
+        {
+            "alignedWord": "oswald",
+            "case": "success",
+            "end": 7.87,
+            "endOffset": 105,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.25,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 7.03,
+            "startOffset": 99,
+            "word": "Oswald"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 8.370000000000001,
+            "endOffset": 109,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 7.98,
+            "startOffset": 106,
+            "word": "and"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 9.010000000000002,
+            "endOffset": 112,
+            "phones": [
+                {
+                    "duration": 0.38,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 8.63,
+            "startOffset": 111,
+            "word": "4"
+        }
+    ]
+}

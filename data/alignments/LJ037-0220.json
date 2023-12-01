@@ -1,0 +1,379 @@
+{
+    "transcript": "Approximately 15 minutes before the shooting of Tippit Oswald was seen leaving his roominghouse.",
+    "words": [
+        {
+            "alignedWord": "approximately",
+            "case": "success",
+            "end": 0.81,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 0,
+            "word": "Approximately"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.28,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.46,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.82,
+            "startOffset": 14,
+            "word": "15"
+        },
+        {
+            "alignedWord": "minutes",
+            "case": "success",
+            "end": 1.65,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.29,
+            "startOffset": 17,
+            "word": "minutes"
+        },
+        {
+            "alignedWord": "before",
+            "case": "success",
+            "end": 1.99,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.65,
+            "startOffset": 25,
+            "word": "before"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.09,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.99,
+            "startOffset": 32,
+            "word": "the"
+        },
+        {
+            "alignedWord": "shooting",
+            "case": "success",
+            "end": 2.4899999999999998,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 2.09,
+            "startOffset": 36,
+            "word": "shooting"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 2.64,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.5,
+            "startOffset": 45,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.12,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.48,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.64,
+            "startOffset": 48,
+            "word": "Tippit"
+        },
+        {
+            "alignedWord": "oswald",
+            "case": "success",
+            "end": 4.17,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.66,
+            "startOffset": 55,
+            "word": "Oswald"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 4.32,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.17,
+            "startOffset": 62,
+            "word": "was"
+        },
+        {
+            "alignedWord": "seen",
+            "case": "success",
+            "end": 4.7,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.32,
+            "startOffset": 66,
+            "word": "seen"
+        },
+        {
+            "alignedWord": "leaving",
+            "case": "success",
+            "end": 4.99,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 4.7,
+            "startOffset": 71,
+            "word": "leaving"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 5.21,
+            "endOffset": 82,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.99,
+            "startOffset": 79,
+            "word": "his"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.88,
+            "endOffset": 95,
+            "phones": [
+                {
+                    "duration": 0.67,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.21,
+            "startOffset": 83,
+            "word": "roominghouse"
+        }
+    ]
+}

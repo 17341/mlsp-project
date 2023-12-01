@@ -1,0 +1,243 @@
+{
+    "transcript": "Post Office Box 2915 Dallas Texas on March 20 1963.",
+    "words": [
+        {
+            "alignedWord": "post",
+            "case": "success",
+            "end": 0.32,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "Post"
+        },
+        {
+            "alignedWord": "office",
+            "case": "success",
+            "end": 0.6699999999999999,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.32,
+            "startOffset": 5,
+            "word": "Office"
+        },
+        {
+            "alignedWord": "box",
+            "case": "success",
+            "end": 1.19,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.67,
+            "startOffset": 12,
+            "word": "Box"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.74,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 1.33,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.41,
+            "startOffset": 16,
+            "word": "2915"
+        },
+        {
+            "alignedWord": "dallas",
+            "case": "success",
+            "end": 3.5500000000000003,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.12,
+            "startOffset": 21,
+            "word": "Dallas"
+        },
+        {
+            "alignedWord": "texas",
+            "case": "success",
+            "end": 4.13,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.57,
+            "startOffset": 28,
+            "word": "Texas"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 4.79,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.55,
+            "startOffset": 34,
+            "word": "on"
+        },
+        {
+            "alignedWord": "march",
+            "case": "success",
+            "end": 5.14,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 4.79,
+            "startOffset": 37,
+            "word": "March"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.74,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.59,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.15,
+            "startOffset": 43,
+            "word": "20"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.13,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 1.14,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.99,
+            "startOffset": 46,
+            "word": "1963"
+        }
+    ]
+}

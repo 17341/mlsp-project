@@ -1,0 +1,329 @@
+{
+    "transcript": "Chapter 4. The Assassin: Part 4. Oswald's Actions in Building After Assassination.",
+    "words": [
+        {
+            "alignedWord": "chapter",
+            "case": "success",
+            "end": 0.36,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ch_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Chapter"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.9,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.54,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.36,
+            "startOffset": 8,
+            "word": "4"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.31,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.06,
+            "startOffset": 11,
+            "word": "The"
+        },
+        {
+            "alignedWord": "assassin",
+            "case": "success",
+            "end": 2.05,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.31,
+            "startOffset": 15,
+            "word": "Assassin"
+        },
+        {
+            "alignedWord": "part",
+            "case": "success",
+            "end": 2.65,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.34,
+            "startOffset": 25,
+            "word": "Part"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.0500000000000003,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.39,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.66,
+            "startOffset": 30,
+            "word": "4"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.3,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.59,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.71,
+            "startOffset": 33,
+            "word": "Oswald's"
+        },
+        {
+            "alignedWord": "actions",
+            "case": "success",
+            "end": 5.04,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.2,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.36,
+            "startOffset": 42,
+            "word": "Actions"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.27,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.05,
+            "startOffset": 50,
+            "word": "in"
+        },
+        {
+            "alignedWord": "building",
+            "case": "success",
+            "end": 5.77,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 5.27,
+            "startOffset": 53,
+            "word": "Building"
+        },
+        {
+            "alignedWord": "after",
+            "case": "success",
+            "end": 6.279999999999999,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.81,
+            "startOffset": 62,
+            "word": "After"
+        },
+        {
+            "alignedWord": "assassination",
+            "case": "success",
+            "end": 7.22,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.3,
+            "startOffset": 68,
+            "word": "Assassination"
+        }
+    ]
+}

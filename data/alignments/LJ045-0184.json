@@ -1,0 +1,167 @@
+{
+    "transcript": "Then on Thursday morning November 21",
+    "words": [
+        {
+            "alignedWord": "then",
+            "case": "success",
+            "end": 0.48,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "Then"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.99,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.79,
+            "startOffset": 5,
+            "word": "on"
+        },
+        {
+            "alignedWord": "thursday",
+            "case": "success",
+            "end": 1.56,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "th_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 0.99,
+            "startOffset": 8,
+            "word": "Thursday"
+        },
+        {
+            "alignedWord": "morning",
+            "case": "success",
+            "end": 1.99,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 1.56,
+            "startOffset": 17,
+            "word": "morning"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 2.4,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.99,
+            "startOffset": 25,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.01,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.61,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.4,
+            "startOffset": 34,
+            "word": "21"
+        }
+    ]
+}

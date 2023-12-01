@@ -1,0 +1,316 @@
+{
+    "transcript": "After familiarization with live ammunition in the .22 rifle and the .22 pistol",
+    "words": [
+        {
+            "alignedWord": "after",
+            "case": "success",
+            "end": 0.61,
+            "endOffset": 5,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.2,
+            "startOffset": 0,
+            "word": "After"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.6400000000000001,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 1.02,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.62,
+            "startOffset": 6,
+            "word": "familiarization"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 1.79,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 1.65,
+            "startOffset": 22,
+            "word": "with"
+        },
+        {
+            "alignedWord": "live",
+            "case": "success",
+            "end": 2.18,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.8,
+            "startOffset": 27,
+            "word": "live"
+        },
+        {
+            "alignedWord": "ammunition",
+            "case": "success",
+            "end": 2.92,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.18,
+            "startOffset": 32,
+            "word": "ammunition"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 3.0300000000000002,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.93,
+            "startOffset": 43,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.15,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.03,
+            "startOffset": 46,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.82,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.67,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.15,
+            "startOffset": 51,
+            "word": "22"
+        },
+        {
+            "alignedWord": "rifle",
+            "case": "success",
+            "end": 4.34,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 3.82,
+            "startOffset": 54,
+            "word": "rifle"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 4.47,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.34,
+            "startOffset": 60,
+            "word": "and"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.569999999999999,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.47,
+            "startOffset": 64,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.21,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.64,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.57,
+            "startOffset": 69,
+            "word": "22"
+        },
+        {
+            "alignedWord": "pistol",
+            "case": "success",
+            "end": 5.66,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 5.24,
+            "startOffset": 72,
+            "word": "pistol"
+        }
+    ]
+}

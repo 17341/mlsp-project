@@ -1,0 +1,186 @@
+{
+    "transcript": "prior to November 22 1963 were inadequate.",
+    "words": [
+        {
+            "alignedWord": "prior",
+            "case": "success",
+            "end": 0.4,
+            "endOffset": 5,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "prior"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 0.55,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 0.4,
+            "startOffset": 6,
+            "word": "to"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 0.97,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.55,
+            "startOffset": 9,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.29,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.31,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.98,
+            "startOffset": 18,
+            "word": "22"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.02,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 1.29,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.73,
+            "startOffset": 21,
+            "word": "1963"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 3.69,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.37,
+            "startOffset": 26,
+            "word": "were"
+        },
+        {
+            "alignedWord": "inadequate",
+            "case": "success",
+            "end": 4.42,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.7,
+            "startOffset": 31,
+            "word": "inadequate"
+        }
+    ]
+}

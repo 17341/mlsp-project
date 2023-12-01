@@ -1,0 +1,421 @@
+{
+    "transcript": "Mrs. Randle stated that on the morning of November 22 while her brother was eating breakfast",
+    "words": [
+        {
+            "alignedWord": "mrs",
+            "case": "success",
+            "end": 0.34,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Mrs"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.75,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.41,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.34,
+            "startOffset": 5,
+            "word": "Randle"
+        },
+        {
+            "alignedWord": "stated",
+            "case": "success",
+            "end": 1.28,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.76,
+            "startOffset": 12,
+            "word": "stated"
+        },
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 1.58,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.29,
+            "startOffset": 19,
+            "word": "that"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 1.7999999999999998,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.63,
+            "startOffset": 24,
+            "word": "on"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.8900000000000001,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.8,
+            "startOffset": 27,
+            "word": "the"
+        },
+        {
+            "alignedWord": "morning",
+            "case": "success",
+            "end": 2.28,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 1.89,
+            "startOffset": 31,
+            "word": "morning"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 2.42,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.28,
+            "startOffset": 39,
+            "word": "of"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 2.84,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.42,
+            "startOffset": 42,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.52,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.68,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.84,
+            "startOffset": 51,
+            "word": "22"
+        },
+        {
+            "alignedWord": "while",
+            "case": "success",
+            "end": 3.86,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 3.53,
+            "startOffset": 54,
+            "word": "while"
+        },
+        {
+            "alignedWord": "her",
+            "case": "success",
+            "end": 3.9899999999999998,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.86,
+            "startOffset": 60,
+            "word": "her"
+        },
+        {
+            "alignedWord": "brother",
+            "case": "success",
+            "end": 4.32,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.99,
+            "startOffset": 64,
+            "word": "brother"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 4.5200000000000005,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.32,
+            "startOffset": 72,
+            "word": "was"
+        },
+        {
+            "alignedWord": "eating",
+            "case": "success",
+            "end": 4.8999999999999995,
+            "endOffset": 82,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "iy_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 4.56,
+            "startOffset": 76,
+            "word": "eating"
+        },
+        {
+            "alignedWord": "breakfast",
+            "case": "success",
+            "end": 5.48,
+            "endOffset": 92,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.91,
+            "startOffset": 83,
+            "word": "breakfast"
+        }
+    ]
+}

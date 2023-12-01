@@ -1,0 +1,198 @@
+{
+    "transcript": "The window was approximately 120 feet away.",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.1,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.05,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "window",
+            "case": "success",
+            "end": 0.48,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 0.1,
+            "startOffset": 4,
+            "word": "window"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 0.7,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.48,
+            "startOffset": 11,
+            "word": "was"
+        },
+        {
+            "alignedWord": "approximately",
+            "case": "success",
+            "end": 1.4,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.7,
+            "startOffset": 15,
+            "word": "approximately"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.29,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.89,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.4,
+            "startOffset": 29,
+            "word": "120"
+        },
+        {
+            "alignedWord": "feet",
+            "case": "success",
+            "end": 2.5100000000000002,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.29,
+            "startOffset": 33,
+            "word": "feet"
+        },
+        {
+            "alignedWord": "away",
+            "case": "success",
+            "end": 2.71,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 2.51,
+            "startOffset": 38,
+            "word": "away"
+        }
+    ]
+}

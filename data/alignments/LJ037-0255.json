@@ -1,0 +1,455 @@
+{
+    "transcript": "testified that Commission Exhibit No. 162 was the jacket worn by the man they saw on November 22.",
+    "words": [
+        {
+            "alignedWord": "testified",
+            "case": "success",
+            "end": 0.68,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "testified"
+        },
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 0.9400000000000001,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.68,
+            "startOffset": 10,
+            "word": "that"
+        },
+        {
+            "alignedWord": "commission",
+            "case": "success",
+            "end": 1.39,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.97,
+            "startOffset": 15,
+            "word": "Commission"
+        },
+        {
+            "alignedWord": "exhibit",
+            "case": "success",
+            "end": 1.8599999999999999,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.39,
+            "startOffset": 26,
+            "word": "Exhibit"
+        },
+        {
+            "alignedWord": "no",
+            "case": "success",
+            "end": 1.9200000000000002,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 1.86,
+            "startOffset": 34,
+            "word": "No"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.0300000000000002,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 1.11,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.92,
+            "startOffset": 38,
+            "word": "162"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 3.37,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.04,
+            "startOffset": 42,
+            "word": "was"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.48,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.38,
+            "startOffset": 46,
+            "word": "the"
+        },
+        {
+            "alignedWord": "jacket",
+            "case": "success",
+            "end": 3.95,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.48,
+            "startOffset": 50,
+            "word": "jacket"
+        },
+        {
+            "alignedWord": "worn",
+            "case": "success",
+            "end": 4.31,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.96,
+            "startOffset": 57,
+            "word": "worn"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 4.44,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 4.32,
+            "startOffset": 62,
+            "word": "by"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.54,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.44,
+            "startOffset": 65,
+            "word": "the"
+        },
+        {
+            "alignedWord": "man",
+            "case": "success",
+            "end": 4.9,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.54,
+            "startOffset": 69,
+            "word": "man"
+        },
+        {
+            "alignedWord": "they",
+            "case": "success",
+            "end": 5.0600000000000005,
+            "endOffset": 77,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 4.9,
+            "startOffset": 73,
+            "word": "they"
+        },
+        {
+            "alignedWord": "saw",
+            "case": "success",
+            "end": 5.47,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "ao_E"
+                }
+            ],
+            "start": 5.06,
+            "startOffset": 78,
+            "word": "saw"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 5.68,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.5,
+            "startOffset": 82,
+            "word": "on"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 6.1,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.68,
+            "startOffset": 85,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.7299999999999995,
+            "endOffset": 96,
+            "phones": [
+                {
+                    "duration": 0.63,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.1,
+            "startOffset": 94,
+            "word": "22"
+        }
+    ]
+}

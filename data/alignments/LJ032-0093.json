@@ -1,0 +1,370 @@
+{
+    "transcript": "but Oswald had rented post office box 30061 in New Orleans on June 3 1963",
+    "words": [
+        {
+            "alignedWord": "but",
+            "case": "success",
+            "end": 0.1,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 0,
+            "word": "but"
+        },
+        {
+            "alignedWord": "oswald",
+            "case": "success",
+            "end": 0.64,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.16,
+            "startOffset": 4,
+            "word": "Oswald"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 0.81,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.64,
+            "startOffset": 11,
+            "word": "had"
+        },
+        {
+            "alignedWord": "rented",
+            "case": "success",
+            "end": 1.1800000000000002,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.81,
+            "startOffset": 15,
+            "word": "rented"
+        },
+        {
+            "alignedWord": "post",
+            "case": "success",
+            "end": 1.52,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.18,
+            "startOffset": 22,
+            "word": "post"
+        },
+        {
+            "alignedWord": "office",
+            "case": "success",
+            "end": 1.83,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.52,
+            "startOffset": 27,
+            "word": "office"
+        },
+        {
+            "alignedWord": "box",
+            "case": "success",
+            "end": 2.2600000000000002,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.83,
+            "startOffset": 34,
+            "word": "box"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.73,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 1.29,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.44,
+            "startOffset": 38,
+            "word": "30061"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.26,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.13,
+            "startOffset": 44,
+            "word": "in"
+        },
+        {
+            "alignedWord": "new",
+            "case": "success",
+            "end": 5.47,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 5.26,
+            "startOffset": 47,
+            "word": "New"
+        },
+        {
+            "alignedWord": "orleans",
+            "case": "success",
+            "end": 6.13,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 5.47,
+            "startOffset": 51,
+            "word": "Orleans"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 6.82,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.57,
+            "startOffset": 59,
+            "word": "on"
+        },
+        {
+            "alignedWord": "june",
+            "case": "success",
+            "end": 7.15,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.82,
+            "startOffset": 62,
+            "word": "June"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.67,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.52,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.15,
+            "startOffset": 67,
+            "word": "3"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 9.14,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 1.29,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.85,
+            "startOffset": 69,
+            "word": "1963"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "transcript": "measured 34.8 inches.",
+    "words": [
+        {
+            "alignedWord": "measured",
+            "case": "success",
+            "end": 0.39,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "zh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "measured"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.41,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.99,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.42,
+            "startOffset": 9,
+            "word": "34"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.69,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.25,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.44,
+            "startOffset": 12,
+            "word": "8"
+        },
+        {
+            "alignedWord": "inches",
+            "case": "success",
+            "end": 2.25,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.71,
+            "startOffset": 14,
+            "word": "inches"
+        }
+    ]
+}

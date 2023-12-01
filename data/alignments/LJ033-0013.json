@@ -1,0 +1,171 @@
+{
+    "transcript": "During October and November of 1963",
+    "words": [
+        {
+            "alignedWord": "during",
+            "case": "success",
+            "end": 0.33,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "During"
+        },
+        {
+            "alignedWord": "october",
+            "case": "success",
+            "end": 0.99,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.33,
+            "startOffset": 7,
+            "word": "October"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 1.16,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.0,
+            "startOffset": 15,
+            "word": "and"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 1.67,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.16,
+            "startOffset": 19,
+            "word": "November"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.81,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.67,
+            "startOffset": 28,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.83,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 1.02,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.81,
+            "startOffset": 31,
+            "word": "1963"
+        }
+    ]
+}

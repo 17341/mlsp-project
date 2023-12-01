@@ -1,0 +1,178 @@
+{
+    "transcript": "and (8) Oswald's capability with a rifle.",
+    "words": [
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 0.24000000000000002,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 0,
+            "word": "and"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.76,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.48,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.28,
+            "startOffset": 5,
+            "word": "8"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.73,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.54,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.19,
+            "startOffset": 8,
+            "word": "Oswald's"
+        },
+        {
+            "alignedWord": "capability",
+            "case": "success",
+            "end": 2.68,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.25,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.76,
+            "startOffset": 17,
+            "word": "capability"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 2.94,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 2.73,
+            "startOffset": 28,
+            "word": "with"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 2.9899999999999998,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 2.94,
+            "startOffset": 33,
+            "word": "a"
+        },
+        {
+            "alignedWord": "rifle",
+            "case": "success",
+            "end": 3.2700000000000005,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 2.99,
+            "startOffset": 35,
+            "word": "rifle"
+        }
+    ]
+}

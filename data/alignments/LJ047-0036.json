@@ -1,0 +1,347 @@
+{
+    "transcript": "It revealed his letter of January 30 1962 to Secretary of the Navy Connally",
+    "words": [
+        {
+            "alignedWord": "it",
+            "case": "success",
+            "end": 0.17,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "It"
+        },
+        {
+            "alignedWord": "revealed",
+            "case": "success",
+            "end": 0.68,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.17,
+            "startOffset": 3,
+            "word": "revealed"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 0.91,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.68,
+            "startOffset": 12,
+            "word": "his"
+        },
+        {
+            "alignedWord": "letter",
+            "case": "success",
+            "end": 1.25,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.91,
+            "startOffset": 16,
+            "word": "letter"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.45,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.29,
+            "startOffset": 23,
+            "word": "of"
+        },
+        {
+            "alignedWord": "january",
+            "case": "success",
+            "end": 2.08,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.45,
+            "startOffset": 26,
+            "word": "January"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.69,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.6,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.09,
+            "startOffset": 34,
+            "word": "30"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.74,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.95,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.79,
+            "startOffset": 37,
+            "word": "1962"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 4.23,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.36,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 3.74,
+            "startOffset": 42,
+            "word": "to"
+        },
+        {
+            "alignedWord": "secretary",
+            "case": "success",
+            "end": 5.43,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 4.77,
+            "startOffset": 45,
+            "word": "Secretary"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 5.58,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 5.43,
+            "startOffset": 55,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 5.67,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.02,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 5.58,
+            "startOffset": 58,
+            "word": "the"
+        },
+        {
+            "alignedWord": "navy",
+            "case": "success",
+            "end": 6.11,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 5.67,
+            "startOffset": 62,
+            "word": "Navy"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.75,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.6,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.15,
+            "startOffset": 67,
+            "word": "Connally"
+        }
+    ]
+}

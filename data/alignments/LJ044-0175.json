@@ -1,0 +1,377 @@
+{
+    "transcript": "Oswald left for Mexico City on September 25 1963 and arrived on September 27 1963.",
+    "words": [
+        {
+            "alignedWord": "oswald",
+            "case": "success",
+            "end": 0.61,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.16,
+            "startOffset": 0,
+            "word": "Oswald"
+        },
+        {
+            "alignedWord": "left",
+            "case": "success",
+            "end": 0.9299999999999999,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.61,
+            "startOffset": 7,
+            "word": "left"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 1.05,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.93,
+            "startOffset": 12,
+            "word": "for"
+        },
+        {
+            "alignedWord": "mexico",
+            "case": "success",
+            "end": 1.57,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 1.05,
+            "startOffset": 16,
+            "word": "Mexico"
+        },
+        {
+            "alignedWord": "city",
+            "case": "success",
+            "end": 2.06,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.57,
+            "startOffset": 23,
+            "word": "City"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 2.25,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.06,
+            "startOffset": 28,
+            "word": "on"
+        },
+        {
+            "alignedWord": "september",
+            "case": "success",
+            "end": 2.8699999999999997,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.28,
+            "startOffset": 31,
+            "word": "September"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.26,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 2.38,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.88,
+            "startOffset": 41,
+            "word": "25"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 48,
+            "startOffset": 44,
+            "word": "1963"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 5.590000000000001,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.4,
+            "startOffset": 49,
+            "word": "and"
+        },
+        {
+            "alignedWord": "arrived",
+            "case": "success",
+            "end": 6.1,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "er_B"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.6,
+            "startOffset": 53,
+            "word": "arrived"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 6.32,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.13,
+            "startOffset": 61,
+            "word": "on"
+        },
+        {
+            "alignedWord": "september",
+            "case": "success",
+            "end": 6.890000000000001,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 6.32,
+            "startOffset": 64,
+            "word": "September"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.880000000000001,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.98,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.9,
+            "startOffset": 74,
+            "word": "27"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.85,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.92,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.93,
+            "startOffset": 77,
+            "word": "1963"
+        }
+    ]
+}

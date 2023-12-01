@@ -1,0 +1,514 @@
+{
+    "transcript": "At approximately 1:20 p.m., Vice President Johnson was notified by O'Donnell that President Kennedy was dead.",
+    "words": [
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 0.12000000000000001,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 0,
+            "word": "At"
+        },
+        {
+            "alignedWord": "approximately",
+            "case": "success",
+            "end": 0.85,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.12,
+            "startOffset": 3,
+            "word": "approximately"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 18,
+            "startOffset": 17,
+            "word": "1"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.48,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.63,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.85,
+            "startOffset": 19,
+            "word": "20"
+        },
+        {
+            "alignedWord": "p",
+            "case": "success",
+            "end": 1.76,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.48,
+            "startOffset": 22,
+            "word": "p"
+        },
+        {
+            "alignedWord": "m",
+            "case": "success",
+            "end": 2.13,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 1.76,
+            "startOffset": 24,
+            "word": "m"
+        },
+        {
+            "alignedWord": "vice",
+            "case": "success",
+            "end": 3.01,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 2.71,
+            "startOffset": 28,
+            "word": "Vice"
+        },
+        {
+            "alignedWord": "president",
+            "case": "success",
+            "end": 3.4499999999999997,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.01,
+            "startOffset": 33,
+            "word": "President"
+        },
+        {
+            "alignedWord": "johnson",
+            "case": "success",
+            "end": 3.9000000000000004,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.45,
+            "startOffset": 43,
+            "word": "Johnson"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 4.06,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.9,
+            "startOffset": 51,
+            "word": "was"
+        },
+        {
+            "alignedWord": "notified",
+            "case": "success",
+            "end": 4.6,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.06,
+            "startOffset": 55,
+            "word": "notified"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 4.82,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 4.61,
+            "startOffset": 64,
+            "word": "by"
+        },
+        {
+            "alignedWord": "o'donnell",
+            "case": "success",
+            "end": 5.430000000000001,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ow_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 4.82,
+            "startOffset": 67,
+            "word": "O'Donnell"
+        },
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 5.89,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.71,
+            "startOffset": 77,
+            "word": "that"
+        },
+        {
+            "alignedWord": "president",
+            "case": "success",
+            "end": 6.359999999999999,
+            "endOffset": 91,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.89,
+            "startOffset": 82,
+            "word": "President"
+        },
+        {
+            "alignedWord": "kennedy",
+            "case": "success",
+            "end": 6.75,
+            "endOffset": 99,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 6.36,
+            "startOffset": 92,
+            "word": "Kennedy"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 7.0,
+            "endOffset": 103,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.75,
+            "startOffset": 100,
+            "word": "was"
+        },
+        {
+            "alignedWord": "dead",
+            "case": "success",
+            "end": 7.38,
+            "endOffset": 108,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 7.01,
+            "startOffset": 104,
+            "word": "dead"
+        }
+    ]
+}

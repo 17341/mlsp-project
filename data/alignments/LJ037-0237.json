@@ -1,0 +1,223 @@
+{
+    "transcript": "When interviewed by FBI agents on January 21 1964",
+    "words": [
+        {
+            "alignedWord": "when",
+            "case": "success",
+            "end": 0.16999999999999998,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.09,
+            "startOffset": 0,
+            "word": "When"
+        },
+        {
+            "alignedWord": "interviewed",
+            "case": "success",
+            "end": 0.8500000000000001,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.19,
+            "startOffset": 5,
+            "word": "interviewed"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 1.06,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 0.86,
+            "startOffset": 17,
+            "word": "by"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.71,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.6,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.11,
+            "startOffset": 20,
+            "word": "FBI"
+        },
+        {
+            "alignedWord": "agents",
+            "case": "success",
+            "end": 2.25,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "ey_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.71,
+            "startOffset": 24,
+            "word": "agents"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 2.43,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.25,
+            "startOffset": 31,
+            "word": "on"
+        },
+        {
+            "alignedWord": "january",
+            "case": "success",
+            "end": 3.0700000000000003,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.43,
+            "startOffset": 34,
+            "word": "January"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.029999999999999,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 1.96,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.07,
+            "startOffset": 42,
+            "word": "21"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 49,
+            "startOffset": 45,
+            "word": "1964"
+        }
+    ]
+}

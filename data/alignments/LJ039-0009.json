@@ -1,0 +1,343 @@
+{
+    "transcript": "When Marina Oswald testified before the Commission on February 3 to 6 1964",
+    "words": [
+        {
+            "alignedWord": "when",
+            "case": "success",
+            "end": 0.17,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "When"
+        },
+        {
+            "alignedWord": "marina",
+            "case": "success",
+            "end": 0.62,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.17,
+            "startOffset": 5,
+            "word": "Marina"
+        },
+        {
+            "alignedWord": "oswald",
+            "case": "success",
+            "end": 1.27,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.24,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.65,
+            "startOffset": 12,
+            "word": "Oswald"
+        },
+        {
+            "alignedWord": "testified",
+            "case": "success",
+            "end": 1.99,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.29,
+            "startOffset": 19,
+            "word": "testified"
+        },
+        {
+            "alignedWord": "before",
+            "case": "success",
+            "end": 2.33,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.99,
+            "startOffset": 29,
+            "word": "before"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.43,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.33,
+            "startOffset": 36,
+            "word": "the"
+        },
+        {
+            "alignedWord": "commission",
+            "case": "success",
+            "end": 3.08,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.43,
+            "startOffset": 40,
+            "word": "Commission"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 3.63,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.4,
+            "startOffset": 51,
+            "word": "on"
+        },
+        {
+            "alignedWord": "february",
+            "case": "success",
+            "end": 4.32,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.63,
+            "startOffset": 54,
+            "word": "February"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.83,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.5,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.33,
+            "startOffset": 63,
+            "word": "3"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 5.03,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 4.84,
+            "startOffset": 65,
+            "word": "to"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.949999999999999,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 1.9,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.05,
+            "startOffset": 68,
+            "word": "6"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 74,
+            "startOffset": 70,
+            "word": "1964"
+        }
+    ]
+}

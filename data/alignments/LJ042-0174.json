@@ -1,0 +1,435 @@
+{
+    "transcript": "No man having known having lived under the Russian Communist and American capitalist system",
+    "words": [
+        {
+            "alignedWord": "no",
+            "case": "success",
+            "end": 0.22,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "No"
+        },
+        {
+            "alignedWord": "man",
+            "case": "success",
+            "end": 0.72,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.28,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.22,
+            "startOffset": 3,
+            "word": "man"
+        },
+        {
+            "alignedWord": "having",
+            "case": "success",
+            "end": 1.0899999999999999,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.73,
+            "startOffset": 7,
+            "word": "having"
+        },
+        {
+            "alignedWord": "known",
+            "case": "success",
+            "end": 1.52,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.09,
+            "startOffset": 14,
+            "word": "known"
+        },
+        {
+            "alignedWord": "having",
+            "case": "success",
+            "end": 1.94,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 1.57,
+            "startOffset": 20,
+            "word": "having"
+        },
+        {
+            "alignedWord": "lived",
+            "case": "success",
+            "end": 2.37,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.94,
+            "startOffset": 27,
+            "word": "lived"
+        },
+        {
+            "alignedWord": "under",
+            "case": "success",
+            "end": 2.6500000000000004,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.43,
+            "startOffset": 33,
+            "word": "under"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.75,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.65,
+            "startOffset": 39,
+            "word": "the"
+        },
+        {
+            "alignedWord": "russian",
+            "case": "success",
+            "end": 3.21,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.75,
+            "startOffset": 43,
+            "word": "Russian"
+        },
+        {
+            "alignedWord": "communist",
+            "case": "success",
+            "end": 3.86,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.21,
+            "startOffset": 51,
+            "word": "Communist"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 4.1899999999999995,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.22,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.88,
+            "startOffset": 61,
+            "word": "and"
+        },
+        {
+            "alignedWord": "american",
+            "case": "success",
+            "end": 4.78,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.19,
+            "startOffset": 65,
+            "word": "American"
+        },
+        {
+            "alignedWord": "capitalist",
+            "case": "success",
+            "end": 5.4799999999999995,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.81,
+            "startOffset": 74,
+            "word": "capitalist"
+        },
+        {
+            "alignedWord": "system",
+            "case": "success",
+            "end": 5.9799999999999995,
+            "endOffset": 91,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 5.51,
+            "startOffset": 85,
+            "word": "system"
+        }
+    ]
+}

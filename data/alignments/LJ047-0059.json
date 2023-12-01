@@ -1,0 +1,454 @@
+{
+    "transcript": "However pursuant to a regular Bureau practice of interviewing certain immigrants from Iron Curtain countries",
+    "words": [
+        {
+            "alignedWord": "however",
+            "case": "success",
+            "end": 0.56,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "However"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.43,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.61,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.82,
+            "startOffset": 8,
+            "word": "pursuant"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 1.74,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 1.57,
+            "startOffset": 17,
+            "word": "to"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 1.84,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 1.74,
+            "startOffset": 20,
+            "word": "a"
+        },
+        {
+            "alignedWord": "regular",
+            "case": "success",
+            "end": 2.3000000000000003,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.84,
+            "startOffset": 22,
+            "word": "regular"
+        },
+        {
+            "alignedWord": "bureau",
+            "case": "success",
+            "end": 2.75,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 2.3,
+            "startOffset": 30,
+            "word": "Bureau"
+        },
+        {
+            "alignedWord": "practice",
+            "case": "success",
+            "end": 3.33,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 2.75,
+            "startOffset": 37,
+            "word": "practice"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.52,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.33,
+            "startOffset": 46,
+            "word": "of"
+        },
+        {
+            "alignedWord": "interviewing",
+            "case": "success",
+            "end": 4.22,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 3.53,
+            "startOffset": 49,
+            "word": "interviewing"
+        },
+        {
+            "alignedWord": "certain",
+            "case": "success",
+            "end": 4.609999999999999,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.22,
+            "startOffset": 62,
+            "word": "certain"
+        },
+        {
+            "alignedWord": "immigrants",
+            "case": "success",
+            "end": 5.23,
+            "endOffset": 80,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.65,
+            "startOffset": 70,
+            "word": "immigrants"
+        },
+        {
+            "alignedWord": "from",
+            "case": "success",
+            "end": 5.48,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 5.25,
+            "startOffset": 81,
+            "word": "from"
+        },
+        {
+            "alignedWord": "iron",
+            "case": "success",
+            "end": 5.91,
+            "endOffset": 90,
+            "phones": [
+                {
+                    "duration": 0.22,
+                    "phone": "ay_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.5,
+            "startOffset": 86,
+            "word": "Iron"
+        },
+        {
+            "alignedWord": "curtain",
+            "case": "success",
+            "end": 6.26,
+            "endOffset": 98,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.91,
+            "startOffset": 91,
+            "word": "Curtain"
+        },
+        {
+            "alignedWord": "countries",
+            "case": "success",
+            "end": 6.87,
+            "endOffset": 108,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.28,
+            "startOffset": 99,
+            "word": "countries"
+        }
+    ]
+}

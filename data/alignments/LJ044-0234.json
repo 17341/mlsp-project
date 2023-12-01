@@ -1,0 +1,223 @@
+{
+    "transcript": "$170 in a wallet in his wife's room in Irving.",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.64,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 1.44,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.2,
+            "startOffset": 1,
+            "word": "170"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 2.15,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.98,
+            "startOffset": 5,
+            "word": "in"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 2.2199999999999998,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 2.15,
+            "startOffset": 8,
+            "word": "a"
+        },
+        {
+            "alignedWord": "wallet",
+            "case": "success",
+            "end": 2.68,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.22,
+            "startOffset": 10,
+            "word": "wallet"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 2.88,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.71,
+            "startOffset": 17,
+            "word": "in"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 3.11,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.88,
+            "startOffset": 20,
+            "word": "his"
+        },
+        {
+            "alignedWord": "wife's",
+            "case": "success",
+            "end": 3.53,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.11,
+            "startOffset": 24,
+            "word": "wife's"
+        },
+        {
+            "alignedWord": "room",
+            "case": "success",
+            "end": 3.9,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 3.53,
+            "startOffset": 31,
+            "word": "room"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 4.08,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.9,
+            "startOffset": 36,
+            "word": "in"
+        },
+        {
+            "alignedWord": "irving",
+            "case": "success",
+            "end": 4.44,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.23,
+                    "phone": "er_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 4.12,
+            "startOffset": 39,
+            "word": "Irving"
+        }
+    ]
+}

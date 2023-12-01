@@ -1,0 +1,458 @@
+{
+    "transcript": "rather it has devoted its time and resources to those broader aspects of Presidential protection",
+    "words": [
+        {
+            "alignedWord": "rather",
+            "case": "success",
+            "end": 0.54,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "rather"
+        },
+        {
+            "alignedWord": "it",
+            "case": "success",
+            "end": 0.96,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.82,
+            "startOffset": 7,
+            "word": "it"
+        },
+        {
+            "alignedWord": "has",
+            "case": "success",
+            "end": 1.23,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.96,
+            "startOffset": 10,
+            "word": "has"
+        },
+        {
+            "alignedWord": "devoted",
+            "case": "success",
+            "end": 1.71,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.24,
+            "startOffset": 14,
+            "word": "devoted"
+        },
+        {
+            "alignedWord": "its",
+            "case": "success",
+            "end": 2.01,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.73,
+            "startOffset": 22,
+            "word": "its"
+        },
+        {
+            "alignedWord": "time",
+            "case": "success",
+            "end": 2.34,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 2.01,
+            "startOffset": 26,
+            "word": "time"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 2.52,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.34,
+            "startOffset": 31,
+            "word": "and"
+        },
+        {
+            "alignedWord": "resources",
+            "case": "success",
+            "end": 3.33,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.52,
+            "startOffset": 35,
+            "word": "resources"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 3.8400000000000003,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 3.7,
+            "startOffset": 45,
+            "word": "to"
+        },
+        {
+            "alignedWord": "those",
+            "case": "success",
+            "end": 4.14,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.84,
+            "startOffset": 48,
+            "word": "those"
+        },
+        {
+            "alignedWord": "broader",
+            "case": "success",
+            "end": 4.640000000000001,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.15,
+            "startOffset": 54,
+            "word": "broader"
+        },
+        {
+            "alignedWord": "aspects",
+            "case": "success",
+            "end": 5.26,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.68,
+            "startOffset": 62,
+            "word": "aspects"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 5.41,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 5.26,
+            "startOffset": 70,
+            "word": "of"
+        },
+        {
+            "alignedWord": "presidential",
+            "case": "success",
+            "end": 6.09,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 5.42,
+            "startOffset": 73,
+            "word": "Presidential"
+        },
+        {
+            "alignedWord": "protection",
+            "case": "success",
+            "end": 6.7,
+            "endOffset": 96,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.09,
+            "startOffset": 86,
+            "word": "protection"
+        }
+    ]
+}

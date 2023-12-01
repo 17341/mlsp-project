@@ -1,0 +1,322 @@
+{
+    "transcript": "which was berthed at the Dumaine Street wharf in New Orleans on June 16 1963.",
+    "words": [
+        {
+            "alignedWord": "which",
+            "case": "success",
+            "end": 0.18000000000000002,
+            "endOffset": 5,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "which"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 0.42,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.18,
+            "startOffset": 6,
+            "word": "was"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.89,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.46,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.43,
+            "startOffset": 10,
+            "word": "berthed"
+        },
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 1.13,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.96,
+            "startOffset": 18,
+            "word": "at"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.2599999999999998,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.13,
+            "startOffset": 21,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.82,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.56,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.26,
+            "startOffset": 25,
+            "word": "Dumaine"
+        },
+        {
+            "alignedWord": "street",
+            "case": "success",
+            "end": 2.35,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.83,
+            "startOffset": 33,
+            "word": "Street"
+        },
+        {
+            "alignedWord": "wharf",
+            "case": "success",
+            "end": 2.9,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "f_E"
+                }
+            ],
+            "start": 2.36,
+            "startOffset": 40,
+            "word": "wharf"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 3.1500000000000004,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.95,
+            "startOffset": 46,
+            "word": "in"
+        },
+        {
+            "alignedWord": "new",
+            "case": "success",
+            "end": 3.25,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 3.15,
+            "startOffset": 49,
+            "word": "New"
+        },
+        {
+            "alignedWord": "orleans",
+            "case": "success",
+            "end": 3.81,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.25,
+            "startOffset": 53,
+            "word": "Orleans"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 4.3500000000000005,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.12,
+            "startOffset": 61,
+            "word": "on"
+        },
+        {
+            "alignedWord": "june",
+            "case": "success",
+            "end": 4.64,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.35,
+            "startOffset": 64,
+            "word": "June"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.43,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.79,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.64,
+            "startOffset": 69,
+            "word": "16"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.77,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 1.26,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.51,
+            "startOffset": 72,
+            "word": "1963"
+        }
+    ]
+}

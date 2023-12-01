@@ -1,0 +1,82 @@
+{
+    "transcript": "In September 1963",
+    "words": [
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 0.18,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "In"
+        },
+        {
+            "alignedWord": "september",
+            "case": "success",
+            "end": 0.76,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.18,
+            "startOffset": 3,
+            "word": "September"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.82,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 1.06,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.76,
+            "startOffset": 13,
+            "word": "1963"
+        }
+    ]
+}

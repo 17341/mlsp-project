@@ -1,0 +1,198 @@
+{
+    "transcript": "(2) the photographs found among Oswald's possessions",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.53,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.52,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 1,
+            "word": "2"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.08,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.94,
+            "startOffset": 4,
+            "word": "the"
+        },
+        {
+            "alignedWord": "photographs",
+            "case": "success",
+            "end": 1.85,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.08,
+            "startOffset": 8,
+            "word": "photographs"
+        },
+        {
+            "alignedWord": "found",
+            "case": "success",
+            "end": 2.21,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.85,
+            "startOffset": 20,
+            "word": "found"
+        },
+        {
+            "alignedWord": "among",
+            "case": "success",
+            "end": 2.53,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 2.21,
+            "startOffset": 26,
+            "word": "among"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.19,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.6,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.59,
+            "startOffset": 32,
+            "word": "Oswald's"
+        },
+        {
+            "alignedWord": "possessions",
+            "case": "success",
+            "end": 3.99,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.22,
+            "startOffset": 41,
+            "word": "possessions"
+        }
+    ]
+}

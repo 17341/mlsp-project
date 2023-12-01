@@ -1,0 +1,223 @@
+{
+    "transcript": "On September 30 1952 Lee enrolled in P.S. 117",
+    "words": [
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.18,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.11,
+            "startOffset": 0,
+            "word": "On"
+        },
+        {
+            "alignedWord": "september",
+            "case": "success",
+            "end": 0.81,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.18,
+            "startOffset": 3,
+            "word": "September"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.3399999999999999,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.47,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.87,
+            "startOffset": 13,
+            "word": "30"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.84,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 1.41,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.43,
+            "startOffset": 16,
+            "word": "1952"
+        },
+        {
+            "alignedWord": "lee",
+            "case": "success",
+            "end": 3.82,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.51,
+            "startOffset": 21,
+            "word": "Lee"
+        },
+        {
+            "alignedWord": "enrolled",
+            "case": "success",
+            "end": 4.359999999999999,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.84,
+            "startOffset": 25,
+            "word": "enrolled"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 4.57,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.38,
+            "startOffset": 34,
+            "word": "in"
+        },
+        {
+            "alignedWord": "p",
+            "case": "success",
+            "end": 4.8100000000000005,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 4.57,
+            "startOffset": 37,
+            "word": "P"
+        },
+        {
+            "alignedWord": "s",
+            "case": "success",
+            "end": 5.0,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.81,
+            "startOffset": 39,
+            "word": "S"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.069999999999999,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.02,
+            "startOffset": 42,
+            "word": "117"
+        }
+    ]
+}

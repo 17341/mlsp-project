@@ -1,0 +1,263 @@
+{
+    "transcript": "approximately 20 or 25 minutes after the shots were fired.",
+    "words": [
+        {
+            "alignedWord": "approximately",
+            "case": "success",
+            "end": 0.79,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "approximately"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.32,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.53,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.79,
+            "startOffset": 14,
+            "word": "20"
+        },
+        {
+            "alignedWord": "or",
+            "case": "success",
+            "end": 1.68,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.51,
+            "startOffset": 17,
+            "word": "or"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.29,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.61,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.68,
+            "startOffset": 20,
+            "word": "25"
+        },
+        {
+            "alignedWord": "minutes",
+            "case": "success",
+            "end": 2.7600000000000002,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 2.31,
+            "startOffset": 23,
+            "word": "minutes"
+        },
+        {
+            "alignedWord": "after",
+            "case": "success",
+            "end": 3.52,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.16,
+            "startOffset": 31,
+            "word": "after"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.6,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.52,
+            "startOffset": 37,
+            "word": "the"
+        },
+        {
+            "alignedWord": "shots",
+            "case": "success",
+            "end": 4.0200000000000005,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.6,
+            "startOffset": 41,
+            "word": "shots"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 4.17,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.02,
+            "startOffset": 47,
+            "word": "were"
+        },
+        {
+            "alignedWord": "fired",
+            "case": "success",
+            "end": 4.63,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_I"
+                }
+            ],
+            "start": 4.18,
+            "startOffset": 52,
+            "word": "fired"
+        }
+    ]
+}

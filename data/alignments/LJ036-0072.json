@@ -1,0 +1,334 @@
+{
+    "transcript": "to Murphy and Elm three times averaging 6.5 minutes for the three trips.",
+    "words": [
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 0.17,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "to"
+        },
+        {
+            "alignedWord": "murphy",
+            "case": "success",
+            "end": 0.64,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.17,
+            "startOffset": 3,
+            "word": "Murphy"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 0.8300000000000001,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.64,
+            "startOffset": 10,
+            "word": "and"
+        },
+        {
+            "alignedWord": "elm",
+            "case": "success",
+            "end": 1.28,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 0.84,
+            "startOffset": 14,
+            "word": "Elm"
+        },
+        {
+            "alignedWord": "three",
+            "case": "success",
+            "end": 1.94,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "th_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.58,
+            "startOffset": 18,
+            "word": "three"
+        },
+        {
+            "alignedWord": "times",
+            "case": "success",
+            "end": 2.53,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.27,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.94,
+            "startOffset": 24,
+            "word": "times"
+        },
+        {
+            "alignedWord": "averaging",
+            "case": "success",
+            "end": 3.56,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 2.92,
+            "startOffset": 30,
+            "word": "averaging"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.54,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.97,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.57,
+            "startOffset": 40,
+            "word": "6"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 43,
+            "startOffset": 42,
+            "word": "5"
+        },
+        {
+            "alignedWord": "minutes",
+            "case": "success",
+            "end": 5.05,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.55,
+            "startOffset": 44,
+            "word": "minutes"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 5.22,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.06,
+            "startOffset": 52,
+            "word": "for"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 5.36,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 5.23,
+            "startOffset": 56,
+            "word": "the"
+        },
+        {
+            "alignedWord": "three",
+            "case": "success",
+            "end": 5.71,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "th_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 5.36,
+            "startOffset": 60,
+            "word": "three"
+        },
+        {
+            "alignedWord": "trips",
+            "case": "success",
+            "end": 6.26,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 5.71,
+            "startOffset": 66,
+            "word": "trips"
+        }
+    ]
+}

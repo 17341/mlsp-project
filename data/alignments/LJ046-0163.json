@@ -1,0 +1,221 @@
+{
+    "transcript": "During the period November 1961 to November 1963",
+    "words": [
+        {
+            "alignedWord": "during",
+            "case": "success",
+            "end": 0.48,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "During"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.57,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.48,
+            "startOffset": 7,
+            "word": "the"
+        },
+        {
+            "alignedWord": "period",
+            "case": "success",
+            "end": 1.0499999999999998,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.57,
+            "startOffset": 11,
+            "word": "period"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 1.59,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.05,
+            "startOffset": 18,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.96,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 1.36,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.6,
+            "startOffset": 27,
+            "word": "1961"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 3.58,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 3.43,
+            "startOffset": 32,
+            "word": "to"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 4.12,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.58,
+            "startOffset": 35,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.04,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.92,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.12,
+            "startOffset": 44,
+            "word": "1963"
+        }
+    ]
+}

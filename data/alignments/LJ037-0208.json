@@ -1,0 +1,293 @@
+{
+    "transcript": "$19.95 plus $1.27 shipping charge had been collected from the consignee Hidell.",
+    "words": [
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 3,
+            "startOffset": 1,
+            "word": "19"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.87,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 1.86,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 4,
+            "word": "95"
+        },
+        {
+            "alignedWord": "plus",
+            "case": "success",
+            "end": 2.32,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.92,
+            "startOffset": 7,
+            "word": "plus"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 14,
+            "startOffset": 13,
+            "word": "1"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.18,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 1.54,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.64,
+            "startOffset": 15,
+            "word": "27"
+        },
+        {
+            "alignedWord": "shipping",
+            "case": "success",
+            "end": 4.680000000000001,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.22,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 4.19,
+            "startOffset": 18,
+            "word": "shipping"
+        },
+        {
+            "alignedWord": "charge",
+            "case": "success",
+            "end": 5.22,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ch_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "jh_E"
+                }
+            ],
+            "start": 4.68,
+            "startOffset": 27,
+            "word": "charge"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 5.69,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.48,
+            "startOffset": 34,
+            "word": "had"
+        },
+        {
+            "alignedWord": "been",
+            "case": "success",
+            "end": 5.9,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.69,
+            "startOffset": 38,
+            "word": "been"
+        },
+        {
+            "alignedWord": "collected",
+            "case": "success",
+            "end": 6.42,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.9,
+            "startOffset": 43,
+            "word": "collected"
+        },
+        {
+            "alignedWord": "from",
+            "case": "success",
+            "end": 6.59,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 6.42,
+            "startOffset": 53,
+            "word": "from"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 6.7299999999999995,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 6.59,
+            "startOffset": 58,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.58,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.85,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.73,
+            "startOffset": 62,
+            "word": "consignee"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.22,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.48,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.74,
+            "startOffset": 72,
+            "word": "Hidell"
+        }
+    ]
+}

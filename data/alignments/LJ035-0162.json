@@ -1,0 +1,372 @@
+{
+    "transcript": "approximately 30 to 45 seconds after Oswald's lunchroom encounter with Baker and Truly.",
+    "words": [
+        {
+            "alignedWord": "approximately",
+            "case": "success",
+            "end": 0.8400000000000001,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 0,
+            "word": "approximately"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.31,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.47,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.84,
+            "startOffset": 14,
+            "word": "30"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 1.51,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.34,
+            "startOffset": 17,
+            "word": "to"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.21,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.7,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.51,
+            "startOffset": 20,
+            "word": "45"
+        },
+        {
+            "alignedWord": "seconds",
+            "case": "success",
+            "end": 2.81,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.22,
+            "startOffset": 23,
+            "word": "seconds"
+        },
+        {
+            "alignedWord": "after",
+            "case": "success",
+            "end": 3.67,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.2,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.19,
+            "startOffset": 31,
+            "word": "after"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.26,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.54,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.72,
+            "startOffset": 37,
+            "word": "Oswald's"
+        },
+        {
+            "alignedWord": "lunchroom",
+            "case": "success",
+            "end": 4.83,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 4.27,
+            "startOffset": 46,
+            "word": "lunchroom"
+        },
+        {
+            "alignedWord": "encounter",
+            "case": "success",
+            "end": 5.58,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.86,
+            "startOffset": 56,
+            "word": "encounter"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 6.0600000000000005,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 5.83,
+            "startOffset": 66,
+            "word": "with"
+        },
+        {
+            "alignedWord": "baker",
+            "case": "success",
+            "end": 6.46,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 6.06,
+            "startOffset": 71,
+            "word": "Baker"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 6.64,
+            "endOffset": 80,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 6.46,
+            "startOffset": 77,
+            "word": "and"
+        },
+        {
+            "alignedWord": "truly",
+            "case": "success",
+            "end": 7.05,
+            "endOffset": 86,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 6.64,
+            "startOffset": 81,
+            "word": "Truly"
+        }
+    ]
+}

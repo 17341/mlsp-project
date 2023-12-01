@@ -1,0 +1,362 @@
+{
+    "transcript": "This occurred 2 months before Lee was born in New Orleans on October 18 1939.",
+    "words": [
+        {
+            "alignedWord": "this",
+            "case": "success",
+            "end": 0.22000000000000003,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 0,
+            "word": "This"
+        },
+        {
+            "alignedWord": "occurred",
+            "case": "success",
+            "end": 0.7999999999999999,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.22,
+            "startOffset": 5,
+            "word": "occurred"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.18,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.24,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.94,
+            "startOffset": 14,
+            "word": "2"
+        },
+        {
+            "alignedWord": "months",
+            "case": "success",
+            "end": 1.56,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "th_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.19,
+            "startOffset": 16,
+            "word": "months"
+        },
+        {
+            "alignedWord": "before",
+            "case": "success",
+            "end": 2.04,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.56,
+            "startOffset": 23,
+            "word": "before"
+        },
+        {
+            "alignedWord": "lee",
+            "case": "success",
+            "end": 2.21,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.04,
+            "startOffset": 30,
+            "word": "Lee"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 2.44,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.21,
+            "startOffset": 34,
+            "word": "was"
+        },
+        {
+            "alignedWord": "born",
+            "case": "success",
+            "end": 2.94,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.44,
+            "startOffset": 38,
+            "word": "born"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 3.12,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.97,
+            "startOffset": 43,
+            "word": "in"
+        },
+        {
+            "alignedWord": "new",
+            "case": "success",
+            "end": 3.27,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 3.12,
+            "startOffset": 46,
+            "word": "New"
+        },
+        {
+            "alignedWord": "orleans",
+            "case": "success",
+            "end": 3.8200000000000003,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.27,
+            "startOffset": 50,
+            "word": "Orleans"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 3.9699999999999998,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.82,
+            "startOffset": 58,
+            "word": "on"
+        },
+        {
+            "alignedWord": "october",
+            "case": "success",
+            "end": 4.44,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.97,
+            "startOffset": 61,
+            "word": "October"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.069999999999999,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.6,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.47,
+            "startOffset": 69,
+            "word": "18"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.5200000000000005,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 1.28,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.24,
+            "startOffset": 72,
+            "word": "1939"
+        }
+    ]
+}

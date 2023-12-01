@@ -1,0 +1,173 @@
+{
+    "transcript": "and actually had only 1,000 printed.",
+    "words": [
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 0.13999999999999999,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.02,
+            "startOffset": 0,
+            "word": "and"
+        },
+        {
+            "alignedWord": "actually",
+            "case": "success",
+            "end": 0.83,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 4,
+            "word": "actually"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 1.24,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.99,
+            "startOffset": 13,
+            "word": "had"
+        },
+        {
+            "alignedWord": "only",
+            "case": "success",
+            "end": 1.56,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ow_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.24,
+            "startOffset": 17,
+            "word": "only"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.37,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.81,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.56,
+            "startOffset": 22,
+            "word": "1"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 27,
+            "startOffset": 24,
+            "word": "000"
+        },
+        {
+            "alignedWord": "printed",
+            "case": "success",
+            "end": 2.8600000000000003,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.41,
+            "startOffset": 28,
+            "word": "printed"
+        }
+    ]
+}

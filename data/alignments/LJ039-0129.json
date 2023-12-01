@@ -1,0 +1,120 @@
+{
+    "transcript": "firing it with 10 rounds.",
+    "words": [
+        {
+            "alignedWord": "firing",
+            "case": "success",
+            "end": 0.51,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "firing"
+        },
+        {
+            "alignedWord": "it",
+            "case": "success",
+            "end": 0.68,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.51,
+            "startOffset": 7,
+            "word": "it"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 1.02,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 0.7,
+            "startOffset": 10,
+            "word": "with"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.36,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.24,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.12,
+            "startOffset": 15,
+            "word": "10"
+        },
+        {
+            "alignedWord": "rounds",
+            "case": "success",
+            "end": 1.81,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.36,
+            "startOffset": 18,
+            "word": "rounds"
+        }
+    ]
+}

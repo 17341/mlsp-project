@@ -1,0 +1,414 @@
+{
+    "transcript": "when it was transported from New Orleans and November 22 the day of the assassination.",
+    "words": [
+        {
+            "alignedWord": "when",
+            "case": "success",
+            "end": 0.14,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "when"
+        },
+        {
+            "alignedWord": "it",
+            "case": "success",
+            "end": 0.28,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 5,
+            "word": "it"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 0.42000000000000004,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.28,
+            "startOffset": 8,
+            "word": "was"
+        },
+        {
+            "alignedWord": "transported",
+            "case": "success",
+            "end": 1.18,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.42,
+            "startOffset": 12,
+            "word": "transported"
+        },
+        {
+            "alignedWord": "from",
+            "case": "success",
+            "end": 1.42,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 1.18,
+            "startOffset": 24,
+            "word": "from"
+        },
+        {
+            "alignedWord": "new",
+            "case": "success",
+            "end": 1.5799999999999998,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 1.42,
+            "startOffset": 29,
+            "word": "New"
+        },
+        {
+            "alignedWord": "orleans",
+            "case": "success",
+            "end": 2.12,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.58,
+            "startOffset": 33,
+            "word": "Orleans"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 2.7399999999999998,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.55,
+            "startOffset": 41,
+            "word": "and"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 3.24,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.74,
+            "startOffset": 45,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.68,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.44,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.24,
+            "startOffset": 54,
+            "word": "22"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.55,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.43,
+            "startOffset": 57,
+            "word": "the"
+        },
+        {
+            "alignedWord": "day",
+            "case": "success",
+            "end": 4.8,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 4.55,
+            "startOffset": 61,
+            "word": "day"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 4.91,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.8,
+            "startOffset": 65,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 5.0200000000000005,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 4.91,
+            "startOffset": 68,
+            "word": "the"
+        },
+        {
+            "alignedWord": "assassination",
+            "case": "success",
+            "end": 5.859999999999999,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.02,
+            "startOffset": 72,
+            "word": "assassination"
+        }
+    ]
+}
