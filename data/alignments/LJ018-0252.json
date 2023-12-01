@@ -1,0 +1,208 @@
+{
+    "transcript": "to deeds involving on the whole some \u00a3350 000.",
+    "words": [
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 0.14,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "to"
+        },
+        {
+            "alignedWord": "deeds",
+            "case": "success",
+            "end": 0.5900000000000001,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 3,
+            "word": "deeds"
+        },
+        {
+            "alignedWord": "involving",
+            "case": "success",
+            "end": 1.25,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.61,
+            "startOffset": 9,
+            "word": "involving"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 1.3900000000000001,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.25,
+            "startOffset": 19,
+            "word": "on"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.48,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.39,
+            "startOffset": 22,
+            "word": "the"
+        },
+        {
+            "alignedWord": "whole",
+            "case": "success",
+            "end": 1.98,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.31,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 1.48,
+            "startOffset": 26,
+            "word": "whole"
+        },
+        {
+            "alignedWord": "some",
+            "case": "success",
+            "end": 2.63,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 2.34,
+            "startOffset": 32,
+            "word": "some"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.43,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 1.8,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.63,
+            "startOffset": 38,
+            "word": "350"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.1,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.64,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.46,
+            "startOffset": 42,
+            "word": "000"
+        }
+    ]
+}

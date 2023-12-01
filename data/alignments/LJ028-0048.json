@@ -1,0 +1,77 @@
+{
+    "transcript": "In 626 Assurbanipal died,",
+    "words": [
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 0.17,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "In"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.2999999999999998,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 1.13,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.17,
+            "startOffset": 3,
+            "word": "626"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.7,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 1.04,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.66,
+            "startOffset": 7,
+            "word": "Assurbanipal"
+        },
+        {
+            "alignedWord": "died",
+            "case": "success",
+            "end": 3.1900000000000004,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.32,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.74,
+            "startOffset": 20,
+            "word": "died"
+        }
+    ]
+}

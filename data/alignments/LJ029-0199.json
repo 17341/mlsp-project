@@ -1,0 +1,598 @@
+{
+    "transcript": "On November 18 the Dallas City Council adopted a new city ordinance prohibiting interference with attendance at lawful assemblies.",
+    "words": [
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.38,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.17,
+            "startOffset": 0,
+            "word": "On"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 0.81,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.38,
+            "startOffset": 3,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.39,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.57,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.82,
+            "startOffset": 12,
+            "word": "18"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.54,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.41,
+            "startOffset": 15,
+            "word": "the"
+        },
+        {
+            "alignedWord": "dallas",
+            "case": "success",
+            "end": 1.96,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.54,
+            "startOffset": 19,
+            "word": "Dallas"
+        },
+        {
+            "alignedWord": "city",
+            "case": "success",
+            "end": 2.25,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.97,
+            "startOffset": 26,
+            "word": "City"
+        },
+        {
+            "alignedWord": "council",
+            "case": "success",
+            "end": 2.79,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 2.25,
+            "startOffset": 31,
+            "word": "Council"
+        },
+        {
+            "alignedWord": "adopted",
+            "case": "success",
+            "end": 3.32,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.82,
+            "startOffset": 39,
+            "word": "adopted"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 3.3699999999999997,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 3.32,
+            "startOffset": 47,
+            "word": "a"
+        },
+        {
+            "alignedWord": "new",
+            "case": "success",
+            "end": 3.67,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 3.37,
+            "startOffset": 49,
+            "word": "new"
+        },
+        {
+            "alignedWord": "city",
+            "case": "success",
+            "end": 4.0200000000000005,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.68,
+            "startOffset": 53,
+            "word": "city"
+        },
+        {
+            "alignedWord": "ordinance",
+            "case": "success",
+            "end": 4.67,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.07,
+            "startOffset": 58,
+            "word": "ordinance"
+        },
+        {
+            "alignedWord": "prohibiting",
+            "case": "success",
+            "end": 5.63,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "hh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 5.02,
+            "startOffset": 68,
+            "word": "prohibiting"
+        },
+        {
+            "alignedWord": "interference",
+            "case": "success",
+            "end": 6.43,
+            "endOffset": 92,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 5.64,
+            "startOffset": 80,
+            "word": "interference"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 6.569999999999999,
+            "endOffset": 97,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "dh_E"
+                }
+            ],
+            "start": 6.43,
+            "startOffset": 93,
+            "word": "with"
+        },
+        {
+            "alignedWord": "attendance",
+            "case": "success",
+            "end": 7.17,
+            "endOffset": 108,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 6.57,
+            "startOffset": 98,
+            "word": "attendance"
+        },
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 7.33,
+            "endOffset": 111,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 7.17,
+            "startOffset": 109,
+            "word": "at"
+        },
+        {
+            "alignedWord": "lawful",
+            "case": "success",
+            "end": 7.7700000000000005,
+            "endOffset": 118,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 7.33,
+            "startOffset": 112,
+            "word": "lawful"
+        },
+        {
+            "alignedWord": "assemblies",
+            "case": "success",
+            "end": 8.459999999999999,
+            "endOffset": 129,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 7.77,
+            "startOffset": 119,
+            "word": "assemblies"
+        }
+    ]
+}

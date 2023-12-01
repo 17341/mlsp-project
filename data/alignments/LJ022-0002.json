@@ -1,0 +1,66 @@
+{
+    "transcript": "April 28 1935.",
+    "words": [
+        {
+            "alignedWord": "april",
+            "case": "success",
+            "end": 1.06,
+            "endOffset": 5,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "ey_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.83,
+            "startOffset": 0,
+            "word": "April"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.1700000000000002,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.06,
+            "startOffset": 6,
+            "word": "28"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.52,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 1.19,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.33,
+            "startOffset": 9,
+            "word": "1935"
+        }
+    ]
+}

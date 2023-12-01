@@ -1,0 +1,466 @@
+{
+    "transcript": "Jeffrey who murdered his own child an infant of six by hanging him in a cellar in Seven Dials",
+    "words": [
+        {
+            "alignedWord": "jeffrey",
+            "case": "success",
+            "end": 0.51,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Jeffrey"
+        },
+        {
+            "alignedWord": "who",
+            "case": "success",
+            "end": 0.66,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 0.52,
+            "startOffset": 8,
+            "word": "who"
+        },
+        {
+            "alignedWord": "murdered",
+            "case": "success",
+            "end": 1.04,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.66,
+            "startOffset": 12,
+            "word": "murdered"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 1.22,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.04,
+            "startOffset": 21,
+            "word": "his"
+        },
+        {
+            "alignedWord": "own",
+            "case": "success",
+            "end": 1.42,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ow_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.22,
+            "startOffset": 25,
+            "word": "own"
+        },
+        {
+            "alignedWord": "child",
+            "case": "success",
+            "end": 2.06,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ch_B"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.43,
+            "startOffset": 29,
+            "word": "child"
+        },
+        {
+            "alignedWord": "an",
+            "case": "success",
+            "end": 2.52,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.32,
+            "startOffset": 35,
+            "word": "an"
+        },
+        {
+            "alignedWord": "infant",
+            "case": "success",
+            "end": 3.04,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.55,
+            "startOffset": 38,
+            "word": "infant"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.19,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.04,
+            "startOffset": 45,
+            "word": "of"
+        },
+        {
+            "alignedWord": "six",
+            "case": "success",
+            "end": 3.78,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.19,
+            "startOffset": 48,
+            "word": "six"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 4.3500000000000005,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 4.12,
+            "startOffset": 52,
+            "word": "by"
+        },
+        {
+            "alignedWord": "hanging",
+            "case": "success",
+            "end": 4.84,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ng_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 4.35,
+            "startOffset": 55,
+            "word": "hanging"
+        },
+        {
+            "alignedWord": "him",
+            "case": "success",
+            "end": 5.09,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 4.84,
+            "startOffset": 63,
+            "word": "him"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.26,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.1,
+            "startOffset": 67,
+            "word": "in"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 5.359999999999999,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 5.26,
+            "startOffset": 70,
+            "word": "a"
+        },
+        {
+            "alignedWord": "cellar",
+            "case": "success",
+            "end": 5.9,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.42,
+            "startOffset": 72,
+            "word": "cellar"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 6.11,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.9,
+            "startOffset": 79,
+            "word": "in"
+        },
+        {
+            "alignedWord": "seven",
+            "case": "success",
+            "end": 6.51,
+            "endOffset": 87,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.12,
+            "startOffset": 82,
+            "word": "Seven"
+        },
+        {
+            "alignedWord": "dials",
+            "case": "success",
+            "end": 7.109999999999999,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.29,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.51,
+            "startOffset": 88,
+            "word": "Dials"
+        }
+    ]
+}

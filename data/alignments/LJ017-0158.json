@@ -1,0 +1,257 @@
+{
+    "transcript": "She had a little fortune of her own some \u00a31700 or \u00a31800",
+    "words": [
+        {
+            "alignedWord": "she",
+            "case": "success",
+            "end": 0.3,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.05,
+            "startOffset": 0,
+            "word": "She"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 0.59,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.3,
+            "startOffset": 4,
+            "word": "had"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 0.64,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 0.59,
+            "startOffset": 8,
+            "word": "a"
+        },
+        {
+            "alignedWord": "little",
+            "case": "success",
+            "end": 0.96,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.64,
+            "startOffset": 10,
+            "word": "little"
+        },
+        {
+            "alignedWord": "fortune",
+            "case": "success",
+            "end": 1.45,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.97,
+            "startOffset": 17,
+            "word": "fortune"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.58,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.45,
+            "startOffset": 25,
+            "word": "of"
+        },
+        {
+            "alignedWord": "her",
+            "case": "success",
+            "end": 1.77,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.58,
+            "startOffset": 28,
+            "word": "her"
+        },
+        {
+            "alignedWord": "own",
+            "case": "success",
+            "end": 2.21,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 0.22,
+                    "phone": "ow_B"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.77,
+            "startOffset": 32,
+            "word": "own"
+        },
+        {
+            "alignedWord": "some",
+            "case": "success",
+            "end": 3.01,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 2.53,
+            "startOffset": 36,
+            "word": "some"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.06,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 1.93,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.13,
+            "startOffset": 42,
+            "word": "1700"
+        },
+        {
+            "alignedWord": "or",
+            "case": "success",
+            "end": 5.25,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 5.06,
+            "startOffset": 47,
+            "word": "or"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.71,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 1.46,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.25,
+            "startOffset": 51,
+            "word": "1800"
+        }
+    ]
+}

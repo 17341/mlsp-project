@@ -1,0 +1,346 @@
+{
+    "transcript": "That same year when Darius Hystaspes came to the Persian throne the Babylonians openly rebelled.",
+    "words": [
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 0.25,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "That"
+        },
+        {
+            "alignedWord": "same",
+            "case": "success",
+            "end": 0.6,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 0.25,
+            "startOffset": 5,
+            "word": "same"
+        },
+        {
+            "alignedWord": "year",
+            "case": "success",
+            "end": 1.0,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "y_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.6,
+            "startOffset": 10,
+            "word": "year"
+        },
+        {
+            "alignedWord": "when",
+            "case": "success",
+            "end": 1.24,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.02,
+            "startOffset": 15,
+            "word": "when"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.73,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.49,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.24,
+            "startOffset": 20,
+            "word": "Darius"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.6,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.81,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.79,
+            "startOffset": 27,
+            "word": "Hystaspes"
+        },
+        {
+            "alignedWord": "came",
+            "case": "success",
+            "end": 2.93,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 2.64,
+            "startOffset": 37,
+            "word": "came"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 3.0300000000000002,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 2.93,
+            "startOffset": 42,
+            "word": "to"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.13,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.03,
+            "startOffset": 45,
+            "word": "the"
+        },
+        {
+            "alignedWord": "persian",
+            "case": "success",
+            "end": 3.52,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "zh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.13,
+            "startOffset": 49,
+            "word": "Persian"
+        },
+        {
+            "alignedWord": "throne",
+            "case": "success",
+            "end": 4.05,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "th_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.52,
+            "startOffset": 57,
+            "word": "throne"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.66,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.51,
+            "startOffset": 64,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.3100000000000005,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.65,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.66,
+            "startOffset": 68,
+            "word": "Babylonians"
+        },
+        {
+            "alignedWord": "openly",
+            "case": "success",
+            "end": 5.84,
+            "endOffset": 86,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "ow_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 5.36,
+            "startOffset": 80,
+            "word": "openly"
+        },
+        {
+            "alignedWord": "rebelled",
+            "case": "success",
+            "end": 6.359999999999999,
+            "endOffset": 95,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "l_I"
+                }
+            ],
+            "start": 5.84,
+            "startOffset": 87,
+            "word": "rebelled"
+        }
+    ]
+}

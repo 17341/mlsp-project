@@ -1,0 +1,151 @@
+{
+    "transcript": "1. The projects should be useful.",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.4,
+            "endOffset": 1,
+            "phones": [
+                {
+                    "duration": 0.26,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 0,
+            "word": "1"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.01,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.89,
+            "startOffset": 3,
+            "word": "The"
+        },
+        {
+            "alignedWord": "projects",
+            "case": "success",
+            "end": 1.74,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.01,
+            "startOffset": 7,
+            "word": "projects"
+        },
+        {
+            "alignedWord": "should",
+            "case": "success",
+            "end": 2.1500000000000004,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.87,
+            "startOffset": 16,
+            "word": "should"
+        },
+        {
+            "alignedWord": "be",
+            "case": "success",
+            "end": 2.25,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.15,
+            "startOffset": 23,
+            "word": "be"
+        },
+        {
+            "alignedWord": "useful",
+            "case": "success",
+            "end": 2.7199999999999998,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "y_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                }
+            ],
+            "start": 2.25,
+            "startOffset": 26,
+            "word": "useful"
+        }
+    ]
+}

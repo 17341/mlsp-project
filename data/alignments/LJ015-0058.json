@@ -1,0 +1,205 @@
+{
+    "transcript": "Bates the least guilty was pardoned in 1858.",
+    "words": [
+        {
+            "alignedWord": "bates",
+            "case": "success",
+            "end": 0.58,
+            "endOffset": 5,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.25,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.15,
+            "startOffset": 0,
+            "word": "Bates"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.8200000000000001,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.68,
+            "startOffset": 6,
+            "word": "the"
+        },
+        {
+            "alignedWord": "least",
+            "case": "success",
+            "end": 1.17,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.82,
+            "startOffset": 10,
+            "word": "least"
+        },
+        {
+            "alignedWord": "guilty",
+            "case": "success",
+            "end": 1.75,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.2,
+            "startOffset": 16,
+            "word": "guilty"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 2.33,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.07,
+            "startOffset": 23,
+            "word": "was"
+        },
+        {
+            "alignedWord": "pardoned",
+            "case": "success",
+            "end": 2.92,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.34,
+            "startOffset": 27,
+            "word": "pardoned"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 3.1700000000000004,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.97,
+            "startOffset": 36,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.17,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 1.0,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.17,
+            "startOffset": 39,
+            "word": "1858"
+        }
+    ]
+}

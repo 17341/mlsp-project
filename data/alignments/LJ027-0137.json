@@ -1,0 +1,142 @@
+{
+    "transcript": "\"\"It is an observable fact\" says Romanes,",
+    "words": [
+        {
+            "alignedWord": "it",
+            "case": "success",
+            "end": 0.12000000000000001,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 2,
+            "word": "It"
+        },
+        {
+            "alignedWord": "is",
+            "case": "success",
+            "end": 0.25,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.12,
+            "startOffset": 5,
+            "word": "is"
+        },
+        {
+            "alignedWord": "an",
+            "case": "success",
+            "end": 0.41000000000000003,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.25,
+            "startOffset": 8,
+            "word": "an"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.14,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.69,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.45,
+            "startOffset": 11,
+            "word": "observable"
+        },
+        {
+            "alignedWord": "fact",
+            "case": "success",
+            "end": 1.6099999999999999,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.14,
+            "startOffset": 22,
+            "word": "fact"
+        },
+        {
+            "alignedWord": "says",
+            "case": "success",
+            "end": 1.85,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.61,
+            "startOffset": 28,
+            "word": "says"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.46,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.61,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.85,
+            "startOffset": 33,
+            "word": "Romanes"
+        }
+    ]
+}

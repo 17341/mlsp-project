@@ -1,0 +1,505 @@
+{
+    "transcript": "Maltby who had bolted was pursued and arrested to end his life miserably by committing suicide in a Newgate cell.",
+    "words": [
+        {
+            "alignedWord": "maltby",
+            "case": "success",
+            "end": 0.73,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.31,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.24,
+            "startOffset": 0,
+            "word": "Maltby"
+        },
+        {
+            "alignedWord": "who",
+            "case": "success",
+            "end": 1.0,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 0.81,
+            "startOffset": 7,
+            "word": "who"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 1.21,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.01,
+            "startOffset": 11,
+            "word": "had"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.81,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.6,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.21,
+            "startOffset": 15,
+            "word": "bolted"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 2.3499999999999996,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.11,
+            "startOffset": 22,
+            "word": "was"
+        },
+        {
+            "alignedWord": "pursued",
+            "case": "success",
+            "end": 2.96,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.35,
+            "startOffset": 26,
+            "word": "pursued"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 3.2399999999999998,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.01,
+            "startOffset": 34,
+            "word": "and"
+        },
+        {
+            "alignedWord": "arrested",
+            "case": "success",
+            "end": 3.8800000000000003,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "er_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.24,
+            "startOffset": 38,
+            "word": "arrested"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 4.3999999999999995,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 4.26,
+            "startOffset": 47,
+            "word": "to"
+        },
+        {
+            "alignedWord": "end",
+            "case": "success",
+            "end": 4.699999999999999,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.43,
+            "startOffset": 50,
+            "word": "end"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 4.91,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.7,
+            "startOffset": 54,
+            "word": "his"
+        },
+        {
+            "alignedWord": "life",
+            "case": "success",
+            "end": 5.260000000000001,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_E"
+                }
+            ],
+            "start": 4.94,
+            "startOffset": 58,
+            "word": "life"
+        },
+        {
+            "alignedWord": "miserably",
+            "case": "success",
+            "end": 6.01,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 5.26,
+            "startOffset": 63,
+            "word": "miserably"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 6.42,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 6.24,
+            "startOffset": 73,
+            "word": "by"
+        },
+        {
+            "alignedWord": "committing",
+            "case": "success",
+            "end": 6.92,
+            "endOffset": 86,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 6.42,
+            "startOffset": 76,
+            "word": "committing"
+        },
+        {
+            "alignedWord": "suicide",
+            "case": "success",
+            "end": 7.59,
+            "endOffset": 94,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 6.92,
+            "startOffset": 87,
+            "word": "suicide"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 7.75,
+            "endOffset": 97,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 7.62,
+            "startOffset": 95,
+            "word": "in"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 7.76,
+            "endOffset": 99,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 7.75,
+            "startOffset": 98,
+            "word": "a"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.37,
+            "endOffset": 107,
+            "phones": [
+                {
+                    "duration": 0.61,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.76,
+            "startOffset": 100,
+            "word": "Newgate"
+        },
+        {
+            "alignedWord": "cell",
+            "case": "success",
+            "end": 8.64,
+            "endOffset": 112,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 8.38,
+            "startOffset": 108,
+            "word": "cell"
+        }
+    ]
+}

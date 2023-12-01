@@ -1,0 +1,335 @@
+{
+    "transcript": "Now therefore if there be no failure on thy part we shall take Babylon.",
+    "words": [
+        {
+            "alignedWord": "now",
+            "case": "success",
+            "end": 0.43,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.33,
+                    "phone": "aw_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Now"
+        },
+        {
+            "alignedWord": "therefore",
+            "case": "success",
+            "end": 1.21,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.45,
+            "startOffset": 4,
+            "word": "therefore"
+        },
+        {
+            "alignedWord": "if",
+            "case": "success",
+            "end": 1.65,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "f_E"
+                }
+            ],
+            "start": 1.43,
+            "startOffset": 14,
+            "word": "if"
+        },
+        {
+            "alignedWord": "there",
+            "case": "success",
+            "end": 1.8199999999999998,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.65,
+            "startOffset": 17,
+            "word": "there"
+        },
+        {
+            "alignedWord": "be",
+            "case": "success",
+            "end": 1.97,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.82,
+            "startOffset": 23,
+            "word": "be"
+        },
+        {
+            "alignedWord": "no",
+            "case": "success",
+            "end": 2.16,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 1.97,
+            "startOffset": 26,
+            "word": "no"
+        },
+        {
+            "alignedWord": "failure",
+            "case": "success",
+            "end": 2.72,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.16,
+            "startOffset": 29,
+            "word": "failure"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 2.8600000000000003,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.72,
+            "startOffset": 37,
+            "word": "on"
+        },
+        {
+            "alignedWord": "thy",
+            "case": "success",
+            "end": 3.0900000000000003,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 2.87,
+            "startOffset": 40,
+            "word": "thy"
+        },
+        {
+            "alignedWord": "part",
+            "case": "success",
+            "end": 3.5599999999999996,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.09,
+            "startOffset": 44,
+            "word": "part"
+        },
+        {
+            "alignedWord": "we",
+            "case": "success",
+            "end": 4.09,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.81,
+            "startOffset": 49,
+            "word": "we"
+        },
+        {
+            "alignedWord": "shall",
+            "case": "success",
+            "end": 4.45,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 4.09,
+            "startOffset": 52,
+            "word": "shall"
+        },
+        {
+            "alignedWord": "take",
+            "case": "success",
+            "end": 4.73,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 4.45,
+            "startOffset": 58,
+            "word": "take"
+        },
+        {
+            "alignedWord": "babylon",
+            "case": "success",
+            "end": 5.28,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "aa_I"
+                }
+            ],
+            "start": 4.74,
+            "startOffset": 63,
+            "word": "Babylon"
+        }
+    ]
+}

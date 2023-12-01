@@ -1,0 +1,154 @@
+{
+    "transcript": "Section 10. March 9, 1937. Part 2.",
+    "words": [
+        {
+            "alignedWord": "section",
+            "case": "success",
+            "end": 1.02,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.79,
+            "startOffset": 0,
+            "word": "Section"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.32,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.31,
+            "startOffset": 8,
+            "word": "10"
+        },
+        {
+            "alignedWord": "march",
+            "case": "success",
+            "end": 1.79,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 1.32,
+            "startOffset": 12,
+            "word": "March"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.3600000000000003,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.56,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.8,
+            "startOffset": 18,
+            "word": "9"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.5100000000000002,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.93,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.58,
+            "startOffset": 21,
+            "word": "1937"
+        },
+        {
+            "alignedWord": "part",
+            "case": "success",
+            "end": 4.66,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.32,
+            "startOffset": 27,
+            "word": "Part"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.01,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.25,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.76,
+            "startOffset": 32,
+            "word": "2"
+        }
+    ]
+}

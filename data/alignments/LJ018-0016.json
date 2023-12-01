@@ -1,0 +1,158 @@
+{
+    "transcript": "T. Briggs Esq. Robarts & Co. Lombard Street.",
+    "words": [
+        {
+            "alignedWord": "t",
+            "case": "success",
+            "end": 0.35,
+            "endOffset": 1,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "T"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.86,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.48,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.38,
+            "startOffset": 3,
+            "word": "Briggs"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.77,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.81,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.96,
+            "startOffset": 10,
+            "word": "Esq"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.29,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 1.38,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.91,
+            "startOffset": 15,
+            "word": "Robarts"
+        },
+        {
+            "alignedWord": "co",
+            "case": "success",
+            "end": 3.31,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 3.29,
+            "startOffset": 25,
+            "word": "Co"
+        },
+        {
+            "alignedWord": "lombard",
+            "case": "success",
+            "end": 4.21,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.64,
+            "startOffset": 29,
+            "word": "Lombard"
+        },
+        {
+            "alignedWord": "street",
+            "case": "success",
+            "end": 4.6899999999999995,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.22,
+            "startOffset": 37,
+            "word": "Street"
+        }
+    ]
+}

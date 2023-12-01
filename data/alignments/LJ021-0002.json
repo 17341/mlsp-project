@@ -1,0 +1,78 @@
+{
+    "transcript": "September 30 1934.",
+    "words": [
+        {
+            "alignedWord": "september",
+            "case": "success",
+            "end": 0.62,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "September"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.1400000000000001,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.52,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.62,
+            "startOffset": 10,
+            "word": "30"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.5700000000000003,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 1.06,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.51,
+            "startOffset": 13,
+            "word": "1934"
+        }
+    ]
+}

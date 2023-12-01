@@ -1,0 +1,39 @@
+{
+    "transcript": "In 1855",
+    "words": [
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 0.76,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.66,
+            "startOffset": 0,
+            "word": "In"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.58,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.82,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.76,
+            "startOffset": 3,
+            "word": "1855"
+        }
+    ]
+}

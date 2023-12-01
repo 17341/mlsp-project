@@ -1,0 +1,462 @@
+{
+    "transcript": "She was tried in April 1862 on suspicion of having attempted to poison a neighbor with oil of vitriol.",
+    "words": [
+        {
+            "alignedWord": "she",
+            "case": "success",
+            "end": 0.23,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "She"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 0.43000000000000005,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.23,
+            "startOffset": 4,
+            "word": "was"
+        },
+        {
+            "alignedWord": "tried",
+            "case": "success",
+            "end": 0.95,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.43,
+            "startOffset": 8,
+            "word": "tried"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 1.0999999999999999,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.95,
+            "startOffset": 14,
+            "word": "in"
+        },
+        {
+            "alignedWord": "april",
+            "case": "success",
+            "end": 1.6,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "ey_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 1.11,
+            "startOffset": 17,
+            "word": "April"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.11,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 1.48,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.63,
+            "startOffset": 23,
+            "word": "1862"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 3.58,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.35,
+            "startOffset": 28,
+            "word": "on"
+        },
+        {
+            "alignedWord": "suspicion",
+            "case": "success",
+            "end": 4.2,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.58,
+            "startOffset": 31,
+            "word": "suspicion"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 4.32,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.2,
+            "startOffset": 41,
+            "word": "of"
+        },
+        {
+            "alignedWord": "having",
+            "case": "success",
+            "end": 4.65,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 4.32,
+            "startOffset": 44,
+            "word": "having"
+        },
+        {
+            "alignedWord": "attempted",
+            "case": "success",
+            "end": 5.2,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.65,
+            "startOffset": 51,
+            "word": "attempted"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 5.3100000000000005,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 5.2,
+            "startOffset": 61,
+            "word": "to"
+        },
+        {
+            "alignedWord": "poison",
+            "case": "success",
+            "end": 5.779999999999999,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "oy_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.31,
+            "startOffset": 64,
+            "word": "poison"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 5.87,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 5.78,
+            "startOffset": 71,
+            "word": "a"
+        },
+        {
+            "alignedWord": "neighbor",
+            "case": "success",
+            "end": 6.44,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.87,
+            "startOffset": 73,
+            "word": "neighbor"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 6.93,
+            "endOffset": 86,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 6.71,
+            "startOffset": 82,
+            "word": "with"
+        },
+        {
+            "alignedWord": "oil",
+            "case": "success",
+            "end": 7.48,
+            "endOffset": 90,
+            "phones": [
+                {
+                    "duration": 0.39,
+                    "phone": "oy_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 6.96,
+            "startOffset": 87,
+            "word": "oil"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 7.65,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 7.48,
+            "startOffset": 91,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.15,
+            "endOffset": 101,
+            "phones": [
+                {
+                    "duration": 0.5,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.65,
+            "startOffset": 94,
+            "word": "vitriol"
+        }
+    ]
+}

@@ -1,0 +1,486 @@
+{
+    "transcript": "Clause 92, Schedule 1 of that act authorized the use of plank beds, which were adopted in many prisons.",
+    "words": [
+        {
+            "alignedWord": "clause",
+            "case": "success",
+            "end": 0.3,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.08,
+            "startOffset": 0,
+            "word": "Clause"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.12,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.79,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.33,
+            "startOffset": 7,
+            "word": "92"
+        },
+        {
+            "alignedWord": "schedule",
+            "case": "success",
+            "end": 1.6700000000000002,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 1.12,
+            "startOffset": 11,
+            "word": "Schedule"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.01,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.34,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.67,
+            "startOffset": 20,
+            "word": "1"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 2.25,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.05,
+            "startOffset": 22,
+            "word": "of"
+        },
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 2.49,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.02,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.25,
+            "startOffset": 25,
+            "word": "that"
+        },
+        {
+            "alignedWord": "act",
+            "case": "success",
+            "end": 2.9799999999999995,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.23,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.51,
+            "startOffset": 30,
+            "word": "act"
+        },
+        {
+            "alignedWord": "authorized",
+            "case": "success",
+            "end": 3.9099999999999997,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "th_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.28,
+            "startOffset": 34,
+            "word": "authorized"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.07,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.95,
+            "startOffset": 45,
+            "word": "the"
+        },
+        {
+            "alignedWord": "use",
+            "case": "success",
+            "end": 4.36,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "y_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.07,
+            "startOffset": 49,
+            "word": "use"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 4.51,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.39,
+            "startOffset": 53,
+            "word": "of"
+        },
+        {
+            "alignedWord": "plank",
+            "case": "success",
+            "end": 4.88,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ng_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 4.54,
+            "startOffset": 56,
+            "word": "plank"
+        },
+        {
+            "alignedWord": "beds",
+            "case": "success",
+            "end": 5.41,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.96,
+            "startOffset": 62,
+            "word": "beds"
+        },
+        {
+            "alignedWord": "which",
+            "case": "success",
+            "end": 5.88,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 5.64,
+            "startOffset": 68,
+            "word": "which"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 6.0,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.88,
+            "startOffset": 74,
+            "word": "were"
+        },
+        {
+            "alignedWord": "adopted",
+            "case": "success",
+            "end": 6.57,
+            "endOffset": 86,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 6.03,
+            "startOffset": 79,
+            "word": "adopted"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 6.74,
+            "endOffset": 89,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.57,
+            "startOffset": 87,
+            "word": "in"
+        },
+        {
+            "alignedWord": "many",
+            "case": "success",
+            "end": 6.98,
+            "endOffset": 94,
+            "phones": [
+                {
+                    "duration": 0.02,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 6.74,
+            "startOffset": 90,
+            "word": "many"
+        },
+        {
+            "alignedWord": "prisons",
+            "case": "success",
+            "end": 7.6000000000000005,
+            "endOffset": 102,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.98,
+            "startOffset": 95,
+            "word": "prisons"
+        }
+    ]
+}

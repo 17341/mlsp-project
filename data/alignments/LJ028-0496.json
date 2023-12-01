@@ -1,0 +1,235 @@
+{
+    "transcript": "rising higher and higher like a great terraced turreted mountain.",
+    "words": [
+        {
+            "alignedWord": "rising",
+            "case": "success",
+            "end": 0.51,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "rising"
+        },
+        {
+            "alignedWord": "higher",
+            "case": "success",
+            "end": 1.0,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.51,
+            "startOffset": 7,
+            "word": "higher"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 1.23,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.0,
+            "startOffset": 14,
+            "word": "and"
+        },
+        {
+            "alignedWord": "higher",
+            "case": "success",
+            "end": 1.77,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.25,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.24,
+            "startOffset": 18,
+            "word": "higher"
+        },
+        {
+            "alignedWord": "like",
+            "case": "success",
+            "end": 2.2800000000000002,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 2.02,
+            "startOffset": 25,
+            "word": "like"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 2.3499999999999996,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 2.28,
+            "startOffset": 30,
+            "word": "a"
+        },
+        {
+            "alignedWord": "great",
+            "case": "success",
+            "end": 2.87,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.35,
+            "startOffset": 32,
+            "word": "great"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.69,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.64,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.05,
+            "startOffset": 38,
+            "word": "terraced"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.43,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.53,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.9,
+            "startOffset": 47,
+            "word": "turreted"
+        },
+        {
+            "alignedWord": "mountain",
+            "case": "success",
+            "end": 4.86,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.44,
+            "startOffset": 56,
+            "word": "mountain"
+        }
+    ]
+}
