@@ -1,0 +1,580 @@
+{
+    "transcript": "Already the severity of our criminal code and the number of capital felonies upon the statute book had brought a reaction;",
+    "words": [
+        {
+            "alignedWord": "already",
+            "case": "success",
+            "end": 0.55,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.1,
+            "startOffset": 0,
+            "word": "Already"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.7100000000000001,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.56,
+            "startOffset": 8,
+            "word": "the"
+        },
+        {
+            "alignedWord": "severity",
+            "case": "success",
+            "end": 1.2999999999999998,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.71,
+            "startOffset": 12,
+            "word": "severity"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.4300000000000002,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.3,
+            "startOffset": 21,
+            "word": "of"
+        },
+        {
+            "alignedWord": "our",
+            "case": "success",
+            "end": 1.64,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "aw_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.43,
+            "startOffset": 24,
+            "word": "our"
+        },
+        {
+            "alignedWord": "criminal",
+            "case": "success",
+            "end": 2.12,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 1.64,
+            "startOffset": 28,
+            "word": "criminal"
+        },
+        {
+            "alignedWord": "code",
+            "case": "success",
+            "end": 2.63,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.13,
+            "startOffset": 37,
+            "word": "code"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 3.25,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.07,
+            "startOffset": 42,
+            "word": "and"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.32,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.25,
+            "startOffset": 46,
+            "word": "the"
+        },
+        {
+            "alignedWord": "number",
+            "case": "success",
+            "end": 3.65,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.32,
+            "startOffset": 50,
+            "word": "number"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.8,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.65,
+            "startOffset": 57,
+            "word": "of"
+        },
+        {
+            "alignedWord": "capital",
+            "case": "success",
+            "end": 4.279999999999999,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 3.8,
+            "startOffset": 60,
+            "word": "capital"
+        },
+        {
+            "alignedWord": "felonies",
+            "case": "success",
+            "end": 4.89,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.29,
+            "startOffset": 68,
+            "word": "felonies"
+        },
+        {
+            "alignedWord": "upon",
+            "case": "success",
+            "end": 5.16,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.9,
+            "startOffset": 77,
+            "word": "upon"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 5.26,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 5.16,
+            "startOffset": 82,
+            "word": "the"
+        },
+        {
+            "alignedWord": "statute",
+            "case": "success",
+            "end": 5.859999999999999,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.26,
+            "startOffset": 86,
+            "word": "statute"
+        },
+        {
+            "alignedWord": "book",
+            "case": "success",
+            "end": 6.340000000000001,
+            "endOffset": 98,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 5.9,
+            "startOffset": 94,
+            "word": "book"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 6.92,
+            "endOffset": 102,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 6.71,
+            "startOffset": 99,
+            "word": "had"
+        },
+        {
+            "alignedWord": "brought",
+            "case": "success",
+            "end": 7.1899999999999995,
+            "endOffset": 110,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 6.92,
+            "startOffset": 103,
+            "word": "brought"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 7.3,
+            "endOffset": 112,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 7.21,
+            "startOffset": 111,
+            "word": "a"
+        },
+        {
+            "alignedWord": "reaction",
+            "case": "success",
+            "end": 7.9399999999999995,
+            "endOffset": 121,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                }
+            ],
+            "start": 7.3,
+            "startOffset": 113,
+            "word": "reaction"
+        }
+    ]
+}

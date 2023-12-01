@@ -1,0 +1,400 @@
+{
+    "transcript": "The court of the Marshalsea was instituted by Charles I. in the sixth year of his reign",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.1,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "court",
+            "case": "success",
+            "end": 0.47,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.1,
+            "startOffset": 4,
+            "word": "court"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 0.65,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 0.49,
+            "startOffset": 10,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.72,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.65,
+            "startOffset": 13,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.6,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.88,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.72,
+            "startOffset": 17,
+            "word": "Marshalsea"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 2.08,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.86,
+            "startOffset": 28,
+            "word": "was"
+        },
+        {
+            "alignedWord": "instituted",
+            "case": "success",
+            "end": 2.83,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.1,
+            "startOffset": 32,
+            "word": "instituted"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 3.0100000000000002,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 2.83,
+            "startOffset": 43,
+            "word": "by"
+        },
+        {
+            "alignedWord": "charles",
+            "case": "success",
+            "end": 3.4099999999999997,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ch_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.03,
+            "startOffset": 46,
+            "word": "Charles"
+        },
+        {
+            "alignedWord": "i",
+            "case": "success",
+            "end": 3.4299999999999997,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ay_S"
+                }
+            ],
+            "start": 3.42,
+            "startOffset": 54,
+            "word": "I"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 3.45,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.43,
+            "startOffset": 57,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.5500000000000003,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.45,
+            "startOffset": 60,
+            "word": "the"
+        },
+        {
+            "alignedWord": "sixth",
+            "case": "success",
+            "end": 5.0200000000000005,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 4.65,
+            "startOffset": 64,
+            "word": "sixth"
+        },
+        {
+            "alignedWord": "year",
+            "case": "success",
+            "end": 5.37,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "y_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 5.05,
+            "startOffset": 70,
+            "word": "year"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 5.51,
+            "endOffset": 77,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 5.37,
+            "startOffset": 75,
+            "word": "of"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 5.72,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 5.51,
+            "startOffset": 78,
+            "word": "his"
+        },
+        {
+            "alignedWord": "reign",
+            "case": "success",
+            "end": 6.12,
+            "endOffset": 87,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.72,
+            "startOffset": 82,
+            "word": "reign"
+        }
+    ]
+}

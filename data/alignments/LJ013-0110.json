@@ -1,0 +1,412 @@
+{
+    "transcript": "but four hundred sovereigns were found on Elder while two hundred more were found in Burgess' effects.",
+    "words": [
+        {
+            "alignedWord": "but",
+            "case": "success",
+            "end": 0.45999999999999996,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.09,
+            "startOffset": 0,
+            "word": "but"
+        },
+        {
+            "alignedWord": "four",
+            "case": "success",
+            "end": 0.97,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.66,
+            "startOffset": 4,
+            "word": "four"
+        },
+        {
+            "alignedWord": "hundred",
+            "case": "success",
+            "end": 1.4,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.97,
+            "startOffset": 9,
+            "word": "hundred"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.08,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.66,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.42,
+            "startOffset": 17,
+            "word": "sovereigns"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 2.27,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.1,
+            "startOffset": 28,
+            "word": "were"
+        },
+        {
+            "alignedWord": "found",
+            "case": "success",
+            "end": 2.65,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.27,
+            "startOffset": 33,
+            "word": "found"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 2.85,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.65,
+            "startOffset": 39,
+            "word": "on"
+        },
+        {
+            "alignedWord": "elder",
+            "case": "success",
+            "end": 3.42,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.88,
+            "startOffset": 42,
+            "word": "Elder"
+        },
+        {
+            "alignedWord": "while",
+            "case": "success",
+            "end": 4.06,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 3.69,
+            "startOffset": 48,
+            "word": "while"
+        },
+        {
+            "alignedWord": "two",
+            "case": "success",
+            "end": 4.33,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 4.06,
+            "startOffset": 54,
+            "word": "two"
+        },
+        {
+            "alignedWord": "hundred",
+            "case": "success",
+            "end": 4.71,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.33,
+            "startOffset": 58,
+            "word": "hundred"
+        },
+        {
+            "alignedWord": "more",
+            "case": "success",
+            "end": 5.04,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 4.71,
+            "startOffset": 66,
+            "word": "more"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 5.22,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.05,
+            "startOffset": 71,
+            "word": "were"
+        },
+        {
+            "alignedWord": "found",
+            "case": "success",
+            "end": 5.6,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.22,
+            "startOffset": 76,
+            "word": "found"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.77,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.6,
+            "startOffset": 82,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.359999999999999,
+            "endOffset": 92,
+            "phones": [
+                {
+                    "duration": 0.59,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.77,
+            "startOffset": 85,
+            "word": "Burgess"
+        },
+        {
+            "alignedWord": "effects",
+            "case": "success",
+            "end": 7.07,
+            "endOffset": 101,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 6.41,
+            "startOffset": 94,
+            "word": "effects"
+        }
+    ]
+}

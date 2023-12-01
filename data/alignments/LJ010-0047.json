@@ -1,0 +1,384 @@
+{
+    "transcript": "while in 1850 Her Majesty was the victim of another outrage at the hands of one Pate.",
+    "words": [
+        {
+            "alignedWord": "while",
+            "case": "success",
+            "end": 0.24000000000000002,
+            "endOffset": 5,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "while"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 0.4,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.24,
+            "startOffset": 6,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.54,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.63,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.91,
+            "startOffset": 9,
+            "word": "1850"
+        },
+        {
+            "alignedWord": "her",
+            "case": "success",
+            "end": 2.0,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.79,
+            "startOffset": 14,
+            "word": "Her"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.55,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.55,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.0,
+            "startOffset": 18,
+            "word": "Majesty"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 2.89,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.58,
+            "startOffset": 26,
+            "word": "was"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.99,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.89,
+            "startOffset": 30,
+            "word": "the"
+        },
+        {
+            "alignedWord": "victim",
+            "case": "success",
+            "end": 3.41,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 2.99,
+            "startOffset": 34,
+            "word": "victim"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.62,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.45,
+            "startOffset": 41,
+            "word": "of"
+        },
+        {
+            "alignedWord": "another",
+            "case": "success",
+            "end": 4.01,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.62,
+            "startOffset": 44,
+            "word": "another"
+        },
+        {
+            "alignedWord": "outrage",
+            "case": "success",
+            "end": 4.720000000000001,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "aw_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "jh_E"
+                }
+            ],
+            "start": 4.03,
+            "startOffset": 52,
+            "word": "outrage"
+        },
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 4.91,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.74,
+            "startOffset": 60,
+            "word": "at"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 5.03,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.91,
+            "startOffset": 63,
+            "word": "the"
+        },
+        {
+            "alignedWord": "hands",
+            "case": "success",
+            "end": 5.41,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 5.03,
+            "startOffset": 67,
+            "word": "hands"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 5.59,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 5.41,
+            "startOffset": 73,
+            "word": "of"
+        },
+        {
+            "alignedWord": "one",
+            "case": "success",
+            "end": 5.92,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.6,
+            "startOffset": 76,
+            "word": "one"
+        },
+        {
+            "alignedWord": "pate",
+            "case": "success",
+            "end": 6.49,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 6.05,
+            "startOffset": 80,
+            "word": "Pate"
+        }
+    ]
+}

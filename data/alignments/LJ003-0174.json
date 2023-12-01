@@ -1,0 +1,421 @@
+{
+    "transcript": "Mr. Davison sent to Newgate for embezzlement and whose case is given in the preceding chapter",
+    "words": [
+        {
+            "alignedWord": "mr",
+            "case": "success",
+            "end": 0.32,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.05,
+            "startOffset": 0,
+            "word": "Mr"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.09,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.77,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.32,
+            "startOffset": 4,
+            "word": "Davison"
+        },
+        {
+            "alignedWord": "sent",
+            "case": "success",
+            "end": 1.7400000000000002,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.36,
+            "startOffset": 12,
+            "word": "sent"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 1.9200000000000002,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 1.82,
+            "startOffset": 17,
+            "word": "to"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.4899999999999998,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.57,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.92,
+            "startOffset": 20,
+            "word": "Newgate"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 2.67,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 2.5,
+            "startOffset": 28,
+            "word": "for"
+        },
+        {
+            "alignedWord": "embezzlement",
+            "case": "success",
+            "end": 3.5900000000000003,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.7,
+            "startOffset": 32,
+            "word": "embezzlement"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 3.9899999999999998,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.76,
+            "startOffset": 45,
+            "word": "and"
+        },
+        {
+            "alignedWord": "whose",
+            "case": "success",
+            "end": 4.25,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.99,
+            "startOffset": 49,
+            "word": "whose"
+        },
+        {
+            "alignedWord": "case",
+            "case": "success",
+            "end": 4.56,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.25,
+            "startOffset": 55,
+            "word": "case"
+        },
+        {
+            "alignedWord": "is",
+            "case": "success",
+            "end": 4.7299999999999995,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.56,
+            "startOffset": 60,
+            "word": "is"
+        },
+        {
+            "alignedWord": "given",
+            "case": "success",
+            "end": 4.99,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.73,
+            "startOffset": 63,
+            "word": "given"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.08,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.99,
+            "startOffset": 69,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 5.18,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 5.08,
+            "startOffset": 72,
+            "word": "the"
+        },
+        {
+            "alignedWord": "preceding",
+            "case": "success",
+            "end": 5.84,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 5.18,
+            "startOffset": 76,
+            "word": "preceding"
+        },
+        {
+            "alignedWord": "chapter",
+            "case": "success",
+            "end": 6.26,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ch_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.84,
+            "startOffset": 86,
+            "word": "chapter"
+        }
+    ]
+}

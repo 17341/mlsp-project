@@ -1,0 +1,402 @@
+{
+    "transcript": "Mr. Gee of Bishop Stortford who administered the estate of a certain Mr. Canning deceased.",
+    "words": [
+        {
+            "alignedWord": "mr",
+            "case": "success",
+            "end": 0.53,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Mr"
+        },
+        {
+            "alignedWord": "gee",
+            "case": "success",
+            "end": 1.08,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.38,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.54,
+            "startOffset": 4,
+            "word": "Gee"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.3499999999999999,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.2,
+            "startOffset": 8,
+            "word": "of"
+        },
+        {
+            "alignedWord": "bishop",
+            "case": "success",
+            "end": 1.65,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 1.4,
+            "startOffset": 11,
+            "word": "Bishop"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.51,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.86,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.65,
+            "startOffset": 18,
+            "word": "Stortford"
+        },
+        {
+            "alignedWord": "who",
+            "case": "success",
+            "end": 2.94,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 2.8,
+            "startOffset": 28,
+            "word": "who"
+        },
+        {
+            "alignedWord": "administered",
+            "case": "success",
+            "end": 3.63,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.94,
+            "startOffset": 32,
+            "word": "administered"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.7399999999999998,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.63,
+            "startOffset": 45,
+            "word": "the"
+        },
+        {
+            "alignedWord": "estate",
+            "case": "success",
+            "end": 4.15,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.74,
+            "startOffset": 49,
+            "word": "estate"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 4.319999999999999,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.18,
+            "startOffset": 56,
+            "word": "of"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 4.4,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 4.32,
+            "startOffset": 59,
+            "word": "a"
+        },
+        {
+            "alignedWord": "certain",
+            "case": "success",
+            "end": 4.8100000000000005,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.4,
+            "startOffset": 61,
+            "word": "certain"
+        },
+        {
+            "alignedWord": "mr",
+            "case": "success",
+            "end": 5.16,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.82,
+            "startOffset": 69,
+            "word": "Mr"
+        },
+        {
+            "alignedWord": "canning",
+            "case": "success",
+            "end": 5.75,
+            "endOffset": 80,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 5.16,
+            "startOffset": 73,
+            "word": "Canning"
+        },
+        {
+            "alignedWord": "deceased",
+            "case": "success",
+            "end": 6.34,
+            "endOffset": 89,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.76,
+            "startOffset": 81,
+            "word": "deceased"
+        }
+    ]
+}

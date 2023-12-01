@@ -1,0 +1,247 @@
+{
+    "transcript": "vaunting his own adventures or listening to those of others;",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.52,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.51,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "vaunting"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 0.76,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.53,
+            "startOffset": 9,
+            "word": "his"
+        },
+        {
+            "alignedWord": "own",
+            "case": "success",
+            "end": 1.02,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "ow_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.78,
+            "startOffset": 13,
+            "word": "own"
+        },
+        {
+            "alignedWord": "adventures",
+            "case": "success",
+            "end": 1.78,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.02,
+            "startOffset": 17,
+            "word": "adventures"
+        },
+        {
+            "alignedWord": "or",
+            "case": "success",
+            "end": 2.2199999999999998,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.2,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.93,
+            "startOffset": 28,
+            "word": "or"
+        },
+        {
+            "alignedWord": "listening",
+            "case": "success",
+            "end": 2.64,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 2.22,
+            "startOffset": 31,
+            "word": "listening"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 2.7800000000000002,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 2.64,
+            "startOffset": 41,
+            "word": "to"
+        },
+        {
+            "alignedWord": "those",
+            "case": "success",
+            "end": 3.0599999999999996,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.78,
+            "startOffset": 44,
+            "word": "those"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.2,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.06,
+            "startOffset": 50,
+            "word": "of"
+        },
+        {
+            "alignedWord": "others",
+            "case": "success",
+            "end": 3.74,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.22,
+            "startOffset": 53,
+            "word": "others"
+        }
+    ]
+}

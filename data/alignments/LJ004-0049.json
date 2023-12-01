@@ -1,0 +1,476 @@
+{
+    "transcript": "Mr. Gurney Mr. Fry Messrs. Forster and Mr. T. F. Buxton the coadjutor of Wilberforce in the great anti-slavery struggle.",
+    "words": [
+        {
+            "alignedWord": "mr",
+            "case": "success",
+            "end": 0.28,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Mr"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.8800000000000001,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.56,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.32,
+            "startOffset": 4,
+            "word": "Gurney"
+        },
+        {
+            "alignedWord": "mr",
+            "case": "success",
+            "end": 1.22,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.89,
+            "startOffset": 11,
+            "word": "Mr"
+        },
+        {
+            "alignedWord": "fry",
+            "case": "success",
+            "end": 1.81,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.37,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 1.22,
+            "startOffset": 15,
+            "word": "Fry"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.62,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.76,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.86,
+            "startOffset": 19,
+            "word": "Messrs"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.9699999999999998,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.96,
+            "startOffset": 27,
+            "word": "Forster"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 3.32,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.98,
+            "startOffset": 35,
+            "word": "and"
+        },
+        {
+            "alignedWord": "mr",
+            "case": "success",
+            "end": 3.65,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.33,
+            "startOffset": 39,
+            "word": "Mr"
+        },
+        {
+            "alignedWord": "t",
+            "case": "success",
+            "end": 3.89,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.66,
+            "startOffset": 43,
+            "word": "T"
+        },
+        {
+            "alignedWord": "f",
+            "case": "success",
+            "end": 4.03,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "f_E"
+                }
+            ],
+            "start": 3.89,
+            "startOffset": 46,
+            "word": "F"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.53,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.45,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.08,
+            "startOffset": 49,
+            "word": "Buxton"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 5.17,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 5.03,
+            "startOffset": 56,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.99,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.55,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.44,
+            "startOffset": 60,
+            "word": "coadjutor"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 6.12,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 5.99,
+            "startOffset": 70,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.029999999999999,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.89,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.14,
+            "startOffset": 73,
+            "word": "Wilberforce"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 7.75,
+            "endOffset": 87,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 7.59,
+            "startOffset": 85,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 7.83,
+            "endOffset": 91,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 7.75,
+            "startOffset": 88,
+            "word": "the"
+        },
+        {
+            "alignedWord": "great",
+            "case": "success",
+            "end": 8.17,
+            "endOffset": 97,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 7.83,
+            "startOffset": 92,
+            "word": "great"
+        },
+        {
+            "alignedWord": "anti",
+            "case": "success",
+            "end": 8.559999999999999,
+            "endOffset": 102,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 8.2,
+            "startOffset": 98,
+            "word": "anti"
+        },
+        {
+            "alignedWord": "slavery",
+            "case": "success",
+            "end": 9.119999,
+            "endOffset": 110,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 8.559999,
+            "startOffset": 103,
+            "word": "slavery"
+        },
+        {
+            "alignedWord": "struggle",
+            "case": "success",
+            "end": 9.53,
+            "endOffset": 119,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 9.12,
+            "startOffset": 111,
+            "word": "struggle"
+        }
+    ]
+}

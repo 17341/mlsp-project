@@ -1,0 +1,528 @@
+{
+    "transcript": "At Jarrow Stake where the Durham murderer's body was exposed there were similar scenes mingled with compassion for the culprit's family",
+    "words": [
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 0.43,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.19,
+            "startOffset": 0,
+            "word": "At"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.8999999999999999,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.47,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.43,
+            "startOffset": 3,
+            "word": "Jarrow"
+        },
+        {
+            "alignedWord": "stake",
+            "case": "success",
+            "end": 1.4700000000000002,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 0.91,
+            "startOffset": 10,
+            "word": "Stake"
+        },
+        {
+            "alignedWord": "where",
+            "case": "success",
+            "end": 1.8299999999999998,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.67,
+            "startOffset": 16,
+            "word": "where"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.9500000000000002,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.83,
+            "startOffset": 22,
+            "word": "the"
+        },
+        {
+            "alignedWord": "durham",
+            "case": "success",
+            "end": 2.35,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 1.96,
+            "startOffset": 26,
+            "word": "Durham"
+        },
+        {
+            "alignedWord": "murderer's",
+            "case": "success",
+            "end": 2.9000000000000004,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.35,
+            "startOffset": 33,
+            "word": "murderer's"
+        },
+        {
+            "alignedWord": "body",
+            "case": "success",
+            "end": 3.3,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.94,
+            "startOffset": 44,
+            "word": "body"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 3.4899999999999998,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.3,
+            "startOffset": 49,
+            "word": "was"
+        },
+        {
+            "alignedWord": "exposed",
+            "case": "success",
+            "end": 4.3100000000000005,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.25,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.49,
+            "startOffset": 53,
+            "word": "exposed"
+        },
+        {
+            "alignedWord": "there",
+            "case": "success",
+            "end": 4.83,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 4.68,
+            "startOffset": 61,
+            "word": "there"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 4.96,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.83,
+            "startOffset": 67,
+            "word": "were"
+        },
+        {
+            "alignedWord": "similar",
+            "case": "success",
+            "end": 5.48,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.96,
+            "startOffset": 72,
+            "word": "similar"
+        },
+        {
+            "alignedWord": "scenes",
+            "case": "success",
+            "end": 6.0200000000000005,
+            "endOffset": 86,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 5.48,
+            "startOffset": 80,
+            "word": "scenes"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.77,
+            "endOffset": 94,
+            "phones": [
+                {
+                    "duration": 0.42,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.35,
+            "startOffset": 87,
+            "word": "mingled"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 6.94,
+            "endOffset": 99,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 6.78,
+            "startOffset": 95,
+            "word": "with"
+        },
+        {
+            "alignedWord": "compassion",
+            "case": "success",
+            "end": 7.67,
+            "endOffset": 110,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.97,
+            "startOffset": 100,
+            "word": "compassion"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 7.81,
+            "endOffset": 114,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 7.68,
+            "startOffset": 111,
+            "word": "for"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 7.909999999999999,
+            "endOffset": 118,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 7.81,
+            "startOffset": 115,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.14,
+            "endOffset": 128,
+            "phones": [
+                {
+                    "duration": 0.23,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.91,
+            "startOffset": 119,
+            "word": "culprit's"
+        },
+        {
+            "alignedWord": "family",
+            "case": "success",
+            "end": 8.88,
+            "endOffset": 135,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                }
+            ],
+            "start": 8.4,
+            "startOffset": 129,
+            "word": "family"
+        }
+    ]
+}

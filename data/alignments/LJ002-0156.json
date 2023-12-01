@@ -1,0 +1,326 @@
+{
+    "transcript": "Thomas Dobson, on 22nd August, 1799, for 1 shilling, with costs of 8 shillings, 10 pence.",
+    "words": [
+        {
+            "alignedWord": "thomas",
+            "case": "success",
+            "end": 0.46,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "Thomas"
+        },
+        {
+            "alignedWord": "dobson",
+            "case": "success",
+            "end": 1.1,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.46,
+            "startOffset": 7,
+            "word": "Dobson"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 1.44,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.29,
+            "startOffset": 15,
+            "word": "on"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.33,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.88,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.45,
+            "startOffset": 18,
+            "word": "22nd"
+        },
+        {
+            "alignedWord": "august",
+            "case": "success",
+            "end": 2.8499999999999996,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.38,
+            "startOffset": 23,
+            "word": "August"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.45,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 1.54,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.91,
+            "startOffset": 31,
+            "word": "1799"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 4.960000000000001,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 4.73,
+            "startOffset": 37,
+            "word": "for"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.29,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.32,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.97,
+            "startOffset": 41,
+            "word": "1"
+        },
+        {
+            "alignedWord": "shilling",
+            "case": "success",
+            "end": 5.81,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 5.3,
+            "startOffset": 43,
+            "word": "shilling"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 6.529999999999999,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 6.31,
+            "startOffset": 53,
+            "word": "with"
+        },
+        {
+            "alignedWord": "costs",
+            "case": "success",
+            "end": 7.08,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 6.53,
+            "startOffset": 58,
+            "word": "costs"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 7.26,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 7.08,
+            "startOffset": 64,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.76,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 1.43,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.33,
+            "startOffset": 67,
+            "word": "8"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 78,
+            "startOffset": 69,
+            "word": "shillings"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 82,
+            "startOffset": 80,
+            "word": "10"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 88,
+            "startOffset": 83,
+            "word": "pence"
+        }
+    ]
+}

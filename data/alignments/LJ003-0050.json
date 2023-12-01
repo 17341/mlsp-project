@@ -1,0 +1,105 @@
+{
+    "transcript": "(1) those awaiting trial;",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.55,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.4,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.15,
+            "startOffset": 1,
+            "word": "1"
+        },
+        {
+            "alignedWord": "those",
+            "case": "success",
+            "end": 1.25,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.91,
+            "startOffset": 4,
+            "word": "those"
+        },
+        {
+            "alignedWord": "awaiting",
+            "case": "success",
+            "end": 1.73,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 1.25,
+            "startOffset": 10,
+            "word": "awaiting"
+        },
+        {
+            "alignedWord": "trial",
+            "case": "success",
+            "end": 2.29,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.26,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 1.73,
+            "startOffset": 19,
+            "word": "trial"
+        }
+    ]
+}

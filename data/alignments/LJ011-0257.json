@@ -1,0 +1,287 @@
+{
+    "transcript": "Howard was secured given into custody and committed to Newgate.",
+    "words": [
+        {
+            "alignedWord": "howard",
+            "case": "success",
+            "end": 0.38,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Howard"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 0.55,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.38,
+            "startOffset": 7,
+            "word": "was"
+        },
+        {
+            "alignedWord": "secured",
+            "case": "success",
+            "end": 1.28,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.55,
+            "startOffset": 11,
+            "word": "secured"
+        },
+        {
+            "alignedWord": "given",
+            "case": "success",
+            "end": 1.74,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.48,
+            "startOffset": 19,
+            "word": "given"
+        },
+        {
+            "alignedWord": "into",
+            "case": "success",
+            "end": 1.97,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.74,
+            "startOffset": 25,
+            "word": "into"
+        },
+        {
+            "alignedWord": "custody",
+            "case": "success",
+            "end": 2.63,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.99,
+            "startOffset": 30,
+            "word": "custody"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 2.96,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.8,
+            "startOffset": 38,
+            "word": "and"
+        },
+        {
+            "alignedWord": "committed",
+            "case": "success",
+            "end": 3.42,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.96,
+            "startOffset": 42,
+            "word": "committed"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 3.55,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 3.42,
+            "startOffset": 52,
+            "word": "to"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.97,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.41,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.56,
+            "startOffset": 55,
+            "word": "Newgate"
+        }
+    ]
+}

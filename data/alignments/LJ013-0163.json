@@ -1,0 +1,279 @@
+{
+    "transcript": "The housemaid summoned the cook and both went to call the valet Courvoisier",
+    "words": [
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 3,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.7,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.61,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.09,
+            "startOffset": 4,
+            "word": "housemaid"
+        },
+        {
+            "alignedWord": "summoned",
+            "case": "success",
+            "end": 1.1099999999999999,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.71,
+            "startOffset": 14,
+            "word": "summoned"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.25,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.12,
+            "startOffset": 23,
+            "word": "the"
+        },
+        {
+            "alignedWord": "cook",
+            "case": "success",
+            "end": 1.74,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.26,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 1.25,
+            "startOffset": 27,
+            "word": "cook"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 2.1,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.89,
+            "startOffset": 32,
+            "word": "and"
+        },
+        {
+            "alignedWord": "both",
+            "case": "success",
+            "end": 2.4,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 2.1,
+            "startOffset": 36,
+            "word": "both"
+        },
+        {
+            "alignedWord": "went",
+            "case": "success",
+            "end": 2.81,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.43,
+            "startOffset": 41,
+            "word": "went"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 2.99,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.87,
+            "startOffset": 46,
+            "word": "to"
+        },
+        {
+            "alignedWord": "call",
+            "case": "success",
+            "end": 3.2700000000000005,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 2.99,
+            "startOffset": 49,
+            "word": "call"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.3899999999999997,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.28,
+            "startOffset": 54,
+            "word": "the"
+        },
+        {
+            "alignedWord": "valet",
+            "case": "success",
+            "end": 4.0600000000000005,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.39,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 3.39,
+            "startOffset": 58,
+            "word": "valet"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.32,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.9,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.42,
+            "startOffset": 64,
+            "word": "Courvoisier"
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+{
+    "transcript": "300 debtors and 900 criminals in Newgate or twelve hundred prisoners in all.",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.8,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.79,
+            "startOffset": 0,
+            "word": "300"
+        },
+        {
+            "alignedWord": "debtors",
+            "case": "success",
+            "end": 1.31,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.8,
+            "startOffset": 4,
+            "word": "debtors"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 1.8199999999999998,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.63,
+            "startOffset": 12,
+            "word": "and"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.5399999999999996,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.53,
+            "startOffset": 16,
+            "word": "900"
+        },
+        {
+            "alignedWord": "criminals",
+            "case": "success",
+            "end": 3.04,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.54,
+            "startOffset": 20,
+            "word": "criminals"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 3.17,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.04,
+            "startOffset": 30,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.72,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.54,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.18,
+            "startOffset": 33,
+            "word": "Newgate"
+        },
+        {
+            "alignedWord": "or",
+            "case": "success",
+            "end": 4.19,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 4.0,
+            "startOffset": 41,
+            "word": "or"
+        },
+        {
+            "alignedWord": "twelve",
+            "case": "success",
+            "end": 4.53,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.19,
+            "startOffset": 44,
+            "word": "twelve"
+        },
+        {
+            "alignedWord": "hundred",
+            "case": "success",
+            "end": 4.91,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.53,
+            "startOffset": 51,
+            "word": "hundred"
+        },
+        {
+            "alignedWord": "prisoners",
+            "case": "success",
+            "end": 5.46,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.91,
+            "startOffset": 59,
+            "word": "prisoners"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.62,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.46,
+            "startOffset": 69,
+            "word": "in"
+        },
+        {
+            "alignedWord": "all",
+            "case": "success",
+            "end": 5.79,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 5.62,
+            "startOffset": 72,
+            "word": "all"
+        }
+    ]
+}

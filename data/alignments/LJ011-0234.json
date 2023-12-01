@@ -1,0 +1,221 @@
+{
+    "transcript": "Bigger \"\"jobs\"\" than ever were planned and attempted\" \"",
+    "words": [
+        {
+            "alignedWord": "bigger",
+            "case": "success",
+            "end": 0.25,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 0,
+            "word": "Bigger"
+        },
+        {
+            "alignedWord": "jobs",
+            "case": "success",
+            "end": 0.8,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.25,
+            "startOffset": 9,
+            "word": "jobs"
+        },
+        {
+            "alignedWord": "than",
+            "case": "success",
+            "end": 0.9500000000000001,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.8,
+            "startOffset": 16,
+            "word": "than"
+        },
+        {
+            "alignedWord": "ever",
+            "case": "success",
+            "end": 1.22,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.95,
+            "startOffset": 21,
+            "word": "ever"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 1.38,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.22,
+            "startOffset": 26,
+            "word": "were"
+        },
+        {
+            "alignedWord": "planned",
+            "case": "success",
+            "end": 1.8399999999999999,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.38,
+            "startOffset": 31,
+            "word": "planned"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 2.0100000000000002,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.84,
+            "startOffset": 39,
+            "word": "and"
+        },
+        {
+            "alignedWord": "attempted",
+            "case": "success",
+            "end": 2.3299999999999996,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.01,
+            "startOffset": 43,
+            "word": "attempted"
+        }
+    ]
+}

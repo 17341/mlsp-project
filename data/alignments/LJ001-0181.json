@@ -1,0 +1,331 @@
+{
+    "transcript": "When as is most often the case there is actual beauty in the cuts",
+    "words": [
+        {
+            "alignedWord": "when",
+            "case": "success",
+            "end": 0.51,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.26,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "When"
+        },
+        {
+            "alignedWord": "as",
+            "case": "success",
+            "end": 0.86,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.63,
+            "startOffset": 5,
+            "word": "as"
+        },
+        {
+            "alignedWord": "is",
+            "case": "success",
+            "end": 1.06,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.86,
+            "startOffset": 8,
+            "word": "is"
+        },
+        {
+            "alignedWord": "most",
+            "case": "success",
+            "end": 1.35,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.06,
+            "startOffset": 11,
+            "word": "most"
+        },
+        {
+            "alignedWord": "often",
+            "case": "success",
+            "end": 1.6300000000000001,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.35,
+            "startOffset": 16,
+            "word": "often"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.74,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.64,
+            "startOffset": 22,
+            "word": "the"
+        },
+        {
+            "alignedWord": "case",
+            "case": "success",
+            "end": 2.2199999999999998,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.74,
+            "startOffset": 26,
+            "word": "case"
+        },
+        {
+            "alignedWord": "there",
+            "case": "success",
+            "end": 2.67,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 2.46,
+            "startOffset": 31,
+            "word": "there"
+        },
+        {
+            "alignedWord": "is",
+            "case": "success",
+            "end": 2.81,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.67,
+            "startOffset": 37,
+            "word": "is"
+        },
+        {
+            "alignedWord": "actual",
+            "case": "success",
+            "end": 3.3600000000000003,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 2.83,
+            "startOffset": 40,
+            "word": "actual"
+        },
+        {
+            "alignedWord": "beauty",
+            "case": "success",
+            "end": 3.78,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.38,
+            "startOffset": 47,
+            "word": "beauty"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 3.8899999999999997,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.78,
+            "startOffset": 54,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.99,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.89,
+            "startOffset": 57,
+            "word": "the"
+        },
+        {
+            "alignedWord": "cuts",
+            "case": "success",
+            "end": 4.45,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.99,
+            "startOffset": 61,
+            "word": "cuts"
+        }
+    ]
+}

@@ -1,0 +1,493 @@
+{
+    "transcript": "4 pounds 12 shillings; and finally the funeral cart coffin and other petty expenses amounting to seven pounds 10",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.32,
+            "endOffset": 1,
+            "phones": [
+                {
+                    "duration": 0.31,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "4"
+        },
+        {
+            "alignedWord": "pounds",
+            "case": "success",
+            "end": 0.8200000000000001,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.32,
+            "startOffset": 2,
+            "word": "pounds"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 11,
+            "startOffset": 9,
+            "word": "12"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.9,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 1.05,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.85,
+            "startOffset": 12,
+            "word": "shillings"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 2.59,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.28,
+            "startOffset": 23,
+            "word": "and"
+        },
+        {
+            "alignedWord": "finally",
+            "case": "success",
+            "end": 3.09,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.59,
+            "startOffset": 27,
+            "word": "finally"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.2199999999999998,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.09,
+            "startOffset": 35,
+            "word": "the"
+        },
+        {
+            "alignedWord": "funeral",
+            "case": "success",
+            "end": 3.9000000000000004,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 3.22,
+            "startOffset": 39,
+            "word": "funeral"
+        },
+        {
+            "alignedWord": "cart",
+            "case": "success",
+            "end": 4.83,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.26,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.24,
+            "startOffset": 47,
+            "word": "cart"
+        },
+        {
+            "alignedWord": "coffin",
+            "case": "success",
+            "end": 5.78,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.21,
+            "startOffset": 52,
+            "word": "coffin"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 6.03,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.79,
+            "startOffset": 59,
+            "word": "and"
+        },
+        {
+            "alignedWord": "other",
+            "case": "success",
+            "end": 6.3,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 6.05,
+            "startOffset": 63,
+            "word": "other"
+        },
+        {
+            "alignedWord": "petty",
+            "case": "success",
+            "end": 6.64,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 6.3,
+            "startOffset": 69,
+            "word": "petty"
+        },
+        {
+            "alignedWord": "expenses",
+            "case": "success",
+            "end": 7.489999999999999,
+            "endOffset": 83,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.64,
+            "startOffset": 75,
+            "word": "expenses"
+        },
+        {
+            "alignedWord": "amounting",
+            "case": "success",
+            "end": 8.4,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 7.8,
+            "startOffset": 84,
+            "word": "amounting"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 8.55,
+            "endOffset": 96,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 8.4,
+            "startOffset": 94,
+            "word": "to"
+        },
+        {
+            "alignedWord": "seven",
+            "case": "success",
+            "end": 8.999998999999999,
+            "endOffset": 102,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 8.559999,
+            "startOffset": 97,
+            "word": "seven"
+        },
+        {
+            "alignedWord": "pounds",
+            "case": "success",
+            "end": 9.4,
+            "endOffset": 109,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 9.0,
+            "startOffset": 103,
+            "word": "pounds"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 9.809999999999999,
+            "endOffset": 112,
+            "phones": [
+                {
+                    "duration": 0.36,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 9.45,
+            "startOffset": 110,
+            "word": "10"
+        }
+    ]
+}

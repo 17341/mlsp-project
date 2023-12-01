@@ -1,0 +1,268 @@
+{
+    "transcript": "Jenson however had many contemporaries who used beautiful type",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.52,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.51,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Jenson"
+        },
+        {
+            "alignedWord": "however",
+            "case": "success",
+            "end": 1.1400000000000001,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.54,
+            "startOffset": 7,
+            "word": "however"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 1.64,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.39,
+            "startOffset": 15,
+            "word": "had"
+        },
+        {
+            "alignedWord": "many",
+            "case": "success",
+            "end": 1.91,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.64,
+            "startOffset": 19,
+            "word": "many"
+        },
+        {
+            "alignedWord": "contemporaries",
+            "case": "success",
+            "end": 2.8499999999999996,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.91,
+            "startOffset": 24,
+            "word": "contemporaries"
+        },
+        {
+            "alignedWord": "who",
+            "case": "success",
+            "end": 3.0100000000000002,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 2.85,
+            "startOffset": 39,
+            "word": "who"
+        },
+        {
+            "alignedWord": "used",
+            "case": "success",
+            "end": 3.38,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "y_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.01,
+            "startOffset": 43,
+            "word": "used"
+        },
+        {
+            "alignedWord": "beautiful",
+            "case": "success",
+            "end": 3.8899999999999997,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.02,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 3.38,
+            "startOffset": 48,
+            "word": "beautiful"
+        },
+        {
+            "alignedWord": "type",
+            "case": "success",
+            "end": 4.17,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_I"
+                }
+            ],
+            "start": 3.89,
+            "startOffset": 58,
+            "word": "type"
+        }
+    ]
+}

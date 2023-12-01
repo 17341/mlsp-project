@@ -1,0 +1,529 @@
+{
+    "transcript": "\"\"Disease\" cold famine nakedness \" and contagious and polluted air are not lawful punishments in the hands of the civil magistrates;",
+    "words": [
+        {
+            "alignedWord": "disease",
+            "case": "success",
+            "end": 0.71,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.32,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 2,
+            "word": "Disease"
+        },
+        {
+            "alignedWord": "cold",
+            "case": "success",
+            "end": 1.62,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.96,
+            "startOffset": 11,
+            "word": "cold"
+        },
+        {
+            "alignedWord": "famine",
+            "case": "success",
+            "end": 2.59,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.93,
+            "startOffset": 16,
+            "word": "famine"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.67,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.77,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.9,
+            "startOffset": 23,
+            "word": "nakedness"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 3.9400000000000004,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.72,
+            "startOffset": 35,
+            "word": "and"
+        },
+        {
+            "alignedWord": "contagious",
+            "case": "success",
+            "end": 4.6,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.94,
+            "startOffset": 39,
+            "word": "contagious"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 5.01,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.81,
+            "startOffset": 50,
+            "word": "and"
+        },
+        {
+            "alignedWord": "polluted",
+            "case": "success",
+            "end": 5.4799999999999995,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.01,
+            "startOffset": 54,
+            "word": "polluted"
+        },
+        {
+            "alignedWord": "air",
+            "case": "success",
+            "end": 5.779999999999999,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.2,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 5.51,
+            "startOffset": 63,
+            "word": "air"
+        },
+        {
+            "alignedWord": "are",
+            "case": "success",
+            "end": 5.93,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 5.81,
+            "startOffset": 67,
+            "word": "are"
+        },
+        {
+            "alignedWord": "not",
+            "case": "success",
+            "end": 6.239999999999999,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.93,
+            "startOffset": 71,
+            "word": "not"
+        },
+        {
+            "alignedWord": "lawful",
+            "case": "success",
+            "end": 6.66,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 6.25,
+            "startOffset": 75,
+            "word": "lawful"
+        },
+        {
+            "alignedWord": "punishments",
+            "case": "success",
+            "end": 7.3,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 6.66,
+            "startOffset": 82,
+            "word": "punishments"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 7.489999999999999,
+            "endOffset": 96,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 7.35,
+            "startOffset": 94,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 7.58,
+            "endOffset": 100,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 7.49,
+            "startOffset": 97,
+            "word": "the"
+        },
+        {
+            "alignedWord": "hands",
+            "case": "success",
+            "end": 7.96,
+            "endOffset": 106,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 7.58,
+            "startOffset": 101,
+            "word": "hands"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 8.16,
+            "endOffset": 109,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 8.0,
+            "startOffset": 107,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 8.25,
+            "endOffset": 113,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 8.16,
+            "startOffset": 110,
+            "word": "the"
+        },
+        {
+            "alignedWord": "civil",
+            "case": "success",
+            "end": 8.58,
+            "endOffset": 119,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 8.25,
+            "startOffset": 114,
+            "word": "civil"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 9.35,
+            "endOffset": 131,
+            "phones": [
+                {
+                    "duration": 0.77,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 8.58,
+            "startOffset": 120,
+            "word": "magistrates"
+        }
+    ]
+}

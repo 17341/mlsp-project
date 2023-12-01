@@ -1,0 +1,409 @@
+{
+    "transcript": "Having brought down the records of great frauds forgeries and thefts from about 1825 to 1840",
+    "words": [
+        {
+            "alignedWord": "having",
+            "case": "success",
+            "end": 0.37,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Having"
+        },
+        {
+            "alignedWord": "brought",
+            "case": "success",
+            "end": 0.65,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.37,
+            "startOffset": 7,
+            "word": "brought"
+        },
+        {
+            "alignedWord": "down",
+            "case": "success",
+            "end": 0.94,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.65,
+            "startOffset": 15,
+            "word": "down"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.05,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.94,
+            "startOffset": 20,
+            "word": "the"
+        },
+        {
+            "alignedWord": "records",
+            "case": "success",
+            "end": 1.47,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.05,
+            "startOffset": 24,
+            "word": "records"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.65,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.47,
+            "startOffset": 32,
+            "word": "of"
+        },
+        {
+            "alignedWord": "great",
+            "case": "success",
+            "end": 1.98,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.65,
+            "startOffset": 35,
+            "word": "great"
+        },
+        {
+            "alignedWord": "frauds",
+            "case": "success",
+            "end": 2.7199999999999998,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.25,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.98,
+            "startOffset": 41,
+            "word": "frauds"
+        },
+        {
+            "alignedWord": "forgeries",
+            "case": "success",
+            "end": 3.54,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.75,
+            "startOffset": 48,
+            "word": "forgeries"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 3.7800000000000002,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.54,
+            "startOffset": 58,
+            "word": "and"
+        },
+        {
+            "alignedWord": "thefts",
+            "case": "success",
+            "end": 4.37,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "th_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.79,
+            "startOffset": 62,
+            "word": "thefts"
+        },
+        {
+            "alignedWord": "from",
+            "case": "success",
+            "end": 4.57,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 4.38,
+            "startOffset": 69,
+            "word": "from"
+        },
+        {
+            "alignedWord": "about",
+            "case": "success",
+            "end": 4.86,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.57,
+            "startOffset": 74,
+            "word": "about"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.09,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 1.21,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.88,
+            "startOffset": 80,
+            "word": "1825"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 6.260000000000001,
+            "endOffset": 87,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 6.11,
+            "startOffset": 85,
+            "word": "to"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.23,
+            "endOffset": 92,
+            "phones": [
+                {
+                    "duration": 0.95,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.28,
+            "startOffset": 88,
+            "word": "1840"
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+{
+    "transcript": "detained for 1 shilling 9 pence, with costs of 5 shillings.",
+    "words": [
+        {
+            "alignedWord": "detained",
+            "case": "success",
+            "end": 0.53,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "detained"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 0.8500000000000001,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.54,
+            "startOffset": 9,
+            "word": "for"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.21,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.35,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.86,
+            "startOffset": 13,
+            "word": "1"
+        },
+        {
+            "alignedWord": "shilling",
+            "case": "success",
+            "end": 1.66,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 1.22,
+            "startOffset": 15,
+            "word": "shilling"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.38,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.71,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.67,
+            "startOffset": 24,
+            "word": "9"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 31,
+            "startOffset": 26,
+            "word": "pence"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 2.88,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 2.65,
+            "startOffset": 33,
+            "word": "with"
+        },
+        {
+            "alignedWord": "costs",
+            "case": "success",
+            "end": 3.41,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 2.91,
+            "startOffset": 38,
+            "word": "costs"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.49,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.41,
+            "startOffset": 44,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.9200000000000004,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.43,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.49,
+            "startOffset": 47,
+            "word": "5"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.47,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.46,
+            "startOffset": 49,
+            "word": "shillings"
+        }
+    ]
+}

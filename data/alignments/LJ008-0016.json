@@ -1,0 +1,474 @@
+{
+    "transcript": "Lawrence Jones a burglar was in 1793 ordered for execution in Hatton Garden near the house he had robbed;",
+    "words": [
+        {
+            "alignedWord": "lawrence",
+            "case": "success",
+            "end": 0.41000000000000003,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 0,
+            "word": "Lawrence"
+        },
+        {
+            "alignedWord": "jones",
+            "case": "success",
+            "end": 1.16,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.44,
+            "startOffset": 9,
+            "word": "Jones"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 1.33,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 1.22,
+            "startOffset": 15,
+            "word": "a"
+        },
+        {
+            "alignedWord": "burglar",
+            "case": "success",
+            "end": 2.06,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.33,
+            "startOffset": 17,
+            "word": "burglar"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 2.6999999999999997,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.38,
+            "startOffset": 25,
+            "word": "was"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 2.89,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.7,
+            "startOffset": 29,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.46,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 1.57,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.89,
+            "startOffset": 32,
+            "word": "1793"
+        },
+        {
+            "alignedWord": "ordered",
+            "case": "success",
+            "end": 5.220000000000001,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.82,
+            "startOffset": 37,
+            "word": "ordered"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 5.39,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.22,
+            "startOffset": 45,
+            "word": "for"
+        },
+        {
+            "alignedWord": "execution",
+            "case": "success",
+            "end": 6.22,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.39,
+            "startOffset": 49,
+            "word": "execution"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 6.430000000000001,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.23,
+            "startOffset": 59,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.92,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.48,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.44,
+            "startOffset": 62,
+            "word": "Hatton"
+        },
+        {
+            "alignedWord": "garden",
+            "case": "success",
+            "end": 7.49,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.93,
+            "startOffset": 69,
+            "word": "Garden"
+        },
+        {
+            "alignedWord": "near",
+            "case": "success",
+            "end": 8.19,
+            "endOffset": 80,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 7.88,
+            "startOffset": 76,
+            "word": "near"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 8.29,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 8.19,
+            "startOffset": 81,
+            "word": "the"
+        },
+        {
+            "alignedWord": "house",
+            "case": "success",
+            "end": 8.649999999999999,
+            "endOffset": 90,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 8.29,
+            "startOffset": 85,
+            "word": "house"
+        },
+        {
+            "alignedWord": "he",
+            "case": "success",
+            "end": 8.85,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 8.65,
+            "startOffset": 91,
+            "word": "he"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 9.009999,
+            "endOffset": 97,
+            "phones": [
+                {
+                    "duration": 0.02,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 8.849999,
+            "startOffset": 94,
+            "word": "had"
+        },
+        {
+            "alignedWord": "robbed",
+            "case": "success",
+            "end": 9.53,
+            "endOffset": 104,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 9.01,
+            "startOffset": 98,
+            "word": "robbed"
+        }
+    ]
+}

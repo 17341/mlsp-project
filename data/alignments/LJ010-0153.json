@@ -1,0 +1,377 @@
+{
+    "transcript": "William IV. was also the victim of a murderous outrage on Ascot race-course in 1832,",
+    "words": [
+        {
+            "alignedWord": "william",
+            "case": "success",
+            "end": 0.37,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 0.04,
+            "startOffset": 0,
+            "word": "William"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.98,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.61,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.37,
+            "startOffset": 8,
+            "word": "IV"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 1.19,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.0,
+            "startOffset": 12,
+            "word": "was"
+        },
+        {
+            "alignedWord": "also",
+            "case": "success",
+            "end": 1.6,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 1.2,
+            "startOffset": 16,
+            "word": "also"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.73,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.6,
+            "startOffset": 21,
+            "word": "the"
+        },
+        {
+            "alignedWord": "victim",
+            "case": "success",
+            "end": 2.17,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 1.73,
+            "startOffset": 25,
+            "word": "victim"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 2.31,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.17,
+            "startOffset": 32,
+            "word": "of"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 2.37,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 2.31,
+            "startOffset": 35,
+            "word": "a"
+        },
+        {
+            "alignedWord": "murderous",
+            "case": "success",
+            "end": 2.99,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 2.37,
+            "startOffset": 37,
+            "word": "murderous"
+        },
+        {
+            "alignedWord": "outrage",
+            "case": "success",
+            "end": 3.8200000000000003,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "aw_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "jh_E"
+                }
+            ],
+            "start": 3.06,
+            "startOffset": 47,
+            "word": "outrage"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 4.33,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.11,
+            "startOffset": 55,
+            "word": "on"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.65,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.25,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.4,
+            "startOffset": 58,
+            "word": "Ascot"
+        },
+        {
+            "alignedWord": "race",
+            "case": "success",
+            "end": 5.28,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.9,
+            "startOffset": 64,
+            "word": "race"
+        },
+        {
+            "alignedWord": "course",
+            "case": "success",
+            "end": 5.67,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 5.28,
+            "startOffset": 69,
+            "word": "course"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.859999999999999,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.68,
+            "startOffset": 76,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.16,
+            "endOffset": 83,
+            "phones": [
+                {
+                    "duration": 1.28,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.88,
+            "startOffset": 79,
+            "word": "1832"
+        }
+    ]
+}

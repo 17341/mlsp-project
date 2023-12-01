@@ -1,0 +1,322 @@
+{
+    "transcript": "and John Lancaster for 1 shilling, 8 pence, with costs of 7 shillings, 6 pence. Quote.",
+    "words": [
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 0.16,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "and"
+        },
+        {
+            "alignedWord": "john",
+            "case": "success",
+            "end": 0.5,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.16,
+            "startOffset": 4,
+            "word": "John"
+        },
+        {
+            "alignedWord": "lancaster",
+            "case": "success",
+            "end": 1.3,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ng_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.5,
+            "startOffset": 9,
+            "word": "Lancaster"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 1.84,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.62,
+            "startOffset": 19,
+            "word": "for"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.12,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.28,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.84,
+            "startOffset": 23,
+            "word": "1"
+        },
+        {
+            "alignedWord": "shilling",
+            "case": "success",
+            "end": 2.6500000000000004,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 2.14,
+            "startOffset": 25,
+            "word": "shilling"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.2700000000000005,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.55,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.72,
+            "startOffset": 35,
+            "word": "8"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 42,
+            "startOffset": 37,
+            "word": "pence"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 3.64,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 3.43,
+            "startOffset": 44,
+            "word": "with"
+        },
+        {
+            "alignedWord": "costs",
+            "case": "success",
+            "end": 4.05,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.64,
+            "startOffset": 49,
+            "word": "costs"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 4.16,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.05,
+            "startOffset": 55,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.61,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.45,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.16,
+            "startOffset": 58,
+            "word": "7"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 69,
+            "startOffset": 60,
+            "word": "shillings"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 72,
+            "startOffset": 71,
+            "word": "6"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.8,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.75,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.05,
+            "startOffset": 73,
+            "word": "pence"
+        },
+        {
+            "alignedWord": "quote",
+            "case": "success",
+            "end": 6.92,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 6.55,
+            "startOffset": 80,
+            "word": "Quote"
+        }
+    ]
+}

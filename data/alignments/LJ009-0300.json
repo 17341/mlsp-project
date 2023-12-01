@@ -1,0 +1,445 @@
+{
+    "transcript": "Traveling expenses of these agents cost \u00a315 and another \u00a310 were spent in the hire of a Shropshire man",
+    "words": [
+        {
+            "alignedWord": "traveling",
+            "case": "success",
+            "end": 0.66,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.16,
+            "startOffset": 0,
+            "word": "Traveling"
+        },
+        {
+            "alignedWord": "expenses",
+            "case": "success",
+            "end": 1.27,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.66,
+            "startOffset": 10,
+            "word": "expenses"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.4100000000000001,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.27,
+            "startOffset": 19,
+            "word": "of"
+        },
+        {
+            "alignedWord": "these",
+            "case": "success",
+            "end": 1.74,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.41,
+            "startOffset": 22,
+            "word": "these"
+        },
+        {
+            "alignedWord": "agents",
+            "case": "success",
+            "end": 2.26,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.21,
+                    "phone": "ey_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.75,
+            "startOffset": 28,
+            "word": "agents"
+        },
+        {
+            "alignedWord": "cost",
+            "case": "success",
+            "end": 2.59,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.26,
+            "startOffset": 35,
+            "word": "cost"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.71,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.54,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.17,
+            "startOffset": 41,
+            "word": "15"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 4.21,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.04,
+            "startOffset": 44,
+            "word": "and"
+        },
+        {
+            "alignedWord": "another",
+            "case": "success",
+            "end": 4.56,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.21,
+            "startOffset": 48,
+            "word": "another"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.26,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.67,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.59,
+            "startOffset": 57,
+            "word": "10"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 5.409999999999999,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.27,
+            "startOffset": 60,
+            "word": "were"
+        },
+        {
+            "alignedWord": "spent",
+            "case": "success",
+            "end": 5.78,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.41,
+            "startOffset": 65,
+            "word": "spent"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.88,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.78,
+            "startOffset": 71,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 5.97,
+            "endOffset": 77,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 5.88,
+            "startOffset": 74,
+            "word": "the"
+        },
+        {
+            "alignedWord": "hire",
+            "case": "success",
+            "end": 6.34,
+            "endOffset": 82,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.97,
+            "startOffset": 78,
+            "word": "hire"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 6.4799999999999995,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 6.34,
+            "startOffset": 83,
+            "word": "of"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 6.53,
+            "endOffset": 87,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 6.48,
+            "startOffset": 86,
+            "word": "a"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.29,
+            "endOffset": 98,
+            "phones": [
+                {
+                    "duration": 0.76,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.53,
+            "startOffset": 88,
+            "word": "Shropshire"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 102,
+            "startOffset": 99,
+            "word": "man"
+        }
+    ]
+}

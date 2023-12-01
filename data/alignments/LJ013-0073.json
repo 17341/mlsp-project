@@ -1,0 +1,340 @@
+{
+    "transcript": "as its signature was dated 1829 whereas Mrs. Hunt actually died in 1806.",
+    "words": [
+        {
+            "alignedWord": "as",
+            "case": "success",
+            "end": 0.32,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.13,
+            "startOffset": 0,
+            "word": "as"
+        },
+        {
+            "alignedWord": "its",
+            "case": "success",
+            "end": 0.52,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.32,
+            "startOffset": 3,
+            "word": "its"
+        },
+        {
+            "alignedWord": "signature",
+            "case": "success",
+            "end": 1.08,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.52,
+            "startOffset": 7,
+            "word": "signature"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 1.29,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.08,
+            "startOffset": 17,
+            "word": "was"
+        },
+        {
+            "alignedWord": "dated",
+            "case": "success",
+            "end": 1.71,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.29,
+            "startOffset": 21,
+            "word": "dated"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.2199999999999998,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 1.46,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.76,
+            "startOffset": 27,
+            "word": "1829"
+        },
+        {
+            "alignedWord": "whereas",
+            "case": "success",
+            "end": 4.24,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.55,
+            "startOffset": 32,
+            "word": "whereas"
+        },
+        {
+            "alignedWord": "mrs",
+            "case": "success",
+            "end": 4.6000000000000005,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.24,
+            "startOffset": 40,
+            "word": "Mrs"
+        },
+        {
+            "alignedWord": "hunt",
+            "case": "success",
+            "end": 4.92,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.6,
+            "startOffset": 45,
+            "word": "Hunt"
+        },
+        {
+            "alignedWord": "actually",
+            "case": "success",
+            "end": 5.57,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 4.94,
+            "startOffset": 50,
+            "word": "actually"
+        },
+        {
+            "alignedWord": "died",
+            "case": "success",
+            "end": 5.96,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.57,
+            "startOffset": 59,
+            "word": "died"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 6.15,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.96,
+            "startOffset": 64,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.42,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 1.27,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.15,
+            "startOffset": 67,
+            "word": "1806"
+        }
+    ]
+}

@@ -1,0 +1,487 @@
+{
+    "transcript": "A second will also forged was propounded at Doctors Commons as that of a Mrs. Hunt of Bristol.",
+    "words": [
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 0.34,
+            "endOffset": 1,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 0.23,
+            "startOffset": 0,
+            "word": "A"
+        },
+        {
+            "alignedWord": "second",
+            "case": "success",
+            "end": 0.81,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.34,
+            "startOffset": 2,
+            "word": "second"
+        },
+        {
+            "alignedWord": "will",
+            "case": "success",
+            "end": 1.26,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.81,
+            "startOffset": 9,
+            "word": "will"
+        },
+        {
+            "alignedWord": "also",
+            "case": "success",
+            "end": 1.83,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 1.35,
+            "startOffset": 14,
+            "word": "also"
+        },
+        {
+            "alignedWord": "forged",
+            "case": "success",
+            "end": 2.52,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.83,
+            "startOffset": 19,
+            "word": "forged"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 3.0700000000000003,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.81,
+            "startOffset": 26,
+            "word": "was"
+        },
+        {
+            "alignedWord": "propounded",
+            "case": "success",
+            "end": 3.76,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.11,
+            "startOffset": 30,
+            "word": "propounded"
+        },
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 3.88,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.76,
+            "startOffset": 41,
+            "word": "at"
+        },
+        {
+            "alignedWord": "doctors",
+            "case": "success",
+            "end": 4.4,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.88,
+            "startOffset": 44,
+            "word": "Doctors"
+        },
+        {
+            "alignedWord": "commons",
+            "case": "success",
+            "end": 5.0,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.4,
+            "startOffset": 52,
+            "word": "Commons"
+        },
+        {
+            "alignedWord": "as",
+            "case": "success",
+            "end": 5.47,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 5.27,
+            "startOffset": 60,
+            "word": "as"
+        },
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 5.66,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.47,
+            "startOffset": 63,
+            "word": "that"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 5.78,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 5.66,
+            "startOffset": 68,
+            "word": "of"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 5.88,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ey_S"
+                }
+            ],
+            "start": 5.78,
+            "startOffset": 71,
+            "word": "a"
+        },
+        {
+            "alignedWord": "mrs",
+            "case": "success",
+            "end": 6.27,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 5.89,
+            "startOffset": 73,
+            "word": "Mrs"
+        },
+        {
+            "alignedWord": "hunt",
+            "case": "success",
+            "end": 6.66,
+            "endOffset": 82,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 6.28,
+            "startOffset": 78,
+            "word": "Hunt"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 6.95,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 6.74,
+            "startOffset": 83,
+            "word": "of"
+        },
+        {
+            "alignedWord": "bristol",
+            "case": "success",
+            "end": 7.26,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 6.96,
+            "startOffset": 86,
+            "word": "Bristol"
+        }
+    ]
+}
