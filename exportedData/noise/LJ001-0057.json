@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 26,
+    "words_to_predict": "art",
+    "model_prediction": false,
+    "time_to_predict": 15.177808046340942
+}

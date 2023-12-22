@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 4,
+    "words_to_predict": "modern",
+    "model_prediction": false,
+    "time_to_predict": 0.8785769939422607
+}

@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 9,
+    "words_to_predict": "printing",
+    "model_prediction": false,
+    "time_to_predict": 2.9365391731262207
+}

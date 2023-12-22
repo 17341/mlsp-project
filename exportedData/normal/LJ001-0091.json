@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 18,
+    "words_to_predict": "paper",
+    "model_prediction": false,
+    "time_to_predict": 4.32496190071106
+}

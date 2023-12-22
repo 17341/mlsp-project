@@ -1,0 +1,14 @@
+{
+  "total_audio": 100,
+  "total_time": 853.5583832263947,
+  "15_words_or_less": {
+    "nb": 37,
+    "average_time": 6.03404494878408,
+    "ratio_predicted": 0.40540540540540543
+  },
+  "more_than_15_words": {
+    "nb": 63,
+    "average_time": 10.004741589228312,
+    "ratio_predicted": 0.38095238095238093
+  }
+}

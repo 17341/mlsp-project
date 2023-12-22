@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 24,
+    "words_to_predict": "process",
+    "model_prediction": true,
+    "time_to_predict": 11.286022186279297
+}

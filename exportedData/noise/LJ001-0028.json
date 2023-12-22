@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 11,
+    "words_to_predict": "Paris",
+    "model_prediction": false,
+    "time_to_predict": 3.472719192504883
+}

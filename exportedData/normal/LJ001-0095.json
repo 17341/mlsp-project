@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 11,
+    "words_to_predict": "cast",
+    "model_prediction": true,
+    "time_to_predict": 2.769497871398926
+}

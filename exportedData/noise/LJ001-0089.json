@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 23,
+    "words_to_predict": "either",
+    "model_prediction": false,
+    "time_to_predict": 11.835840940475464
+}

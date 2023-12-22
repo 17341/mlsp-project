@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 19,
+    "words_to_predict": "Peter",
+    "model_prediction": false,
+    "time_to_predict": 7.215449094772339
+}

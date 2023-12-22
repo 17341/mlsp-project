@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 17,
+    "words_to_predict": "occupied",
+    "model_prediction": false,
+    "time_to_predict": 7.1932432651519775
+}

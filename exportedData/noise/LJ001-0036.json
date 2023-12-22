@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 18,
+    "words_to_predict": "Strasburg",
+    "model_prediction": false,
+    "time_to_predict": 7.182610988616943
+}

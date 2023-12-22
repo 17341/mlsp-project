@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 24,
+    "words_to_predict": "ugly",
+    "model_prediction": false,
+    "time_to_predict": 11.934884071350098
+}

@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 15,
+    "words_to_predict": "still",
+    "model_prediction": false,
+    "time_to_predict": 3.7414419651031494
+}

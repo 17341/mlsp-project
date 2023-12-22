@@ -1,0 +1,6 @@
+{
+    "audio_words_length": 28,
+    "words_to_predict": "england",
+    "model_prediction": false,
+    "time_to_predict": 8.326178073883057
+}
