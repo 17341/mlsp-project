@@ -1,0 +1,335 @@
+{
+    "transcript": "5. The master felons' side. 6. The female felons' side. 7. The state side.",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.51,
+            "endOffset": 1,
+            "phones": [
+                {
+                    "duration": 0.5,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "5"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.89,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.76,
+            "startOffset": 3,
+            "word": "The"
+        },
+        {
+            "alignedWord": "master",
+            "case": "success",
+            "end": 1.47,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.89,
+            "startOffset": 7,
+            "word": "master"
+        },
+        {
+            "alignedWord": "felons",
+            "case": "success",
+            "end": 2.07,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.47,
+            "startOffset": 14,
+            "word": "felons"
+        },
+        {
+            "alignedWord": "side",
+            "case": "success",
+            "end": 2.7800000000000002,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.33,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.08,
+            "startOffset": 22,
+            "word": "side"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.86,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.6,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.26,
+            "startOffset": 28,
+            "word": "6"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.22,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.06,
+            "startOffset": 31,
+            "word": "The"
+        },
+        {
+            "alignedWord": "female",
+            "case": "success",
+            "end": 4.87,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 4.22,
+            "startOffset": 35,
+            "word": "female"
+        },
+        {
+            "alignedWord": "felons",
+            "case": "success",
+            "end": 5.5,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.91,
+            "startOffset": 42,
+            "word": "felons"
+        },
+        {
+            "alignedWord": "side",
+            "case": "success",
+            "end": 6.17,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.34,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.51,
+            "startOffset": 50,
+            "word": "side"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.38,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.62,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.76,
+            "startOffset": 56,
+            "word": "7"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 7.62,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 7.49,
+            "startOffset": 59,
+            "word": "The"
+        },
+        {
+            "alignedWord": "state",
+            "case": "success",
+            "end": 8.11,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 7.62,
+            "startOffset": 63,
+            "word": "state"
+        },
+        {
+            "alignedWord": "side",
+            "case": "success",
+            "end": 8.629999999999999,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.35,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 8.11,
+            "startOffset": 69,
+            "word": "side"
+        }
+    ]
+}

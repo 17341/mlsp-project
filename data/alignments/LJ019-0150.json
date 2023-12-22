@@ -1,0 +1,530 @@
+{
+    "transcript": "Captain Williams who was the inspector of prisons for the home district in succession to Messrs. Crawford and Russell",
+    "words": [
+        {
+            "alignedWord": "captain",
+            "case": "success",
+            "end": 0.42000000000000004,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.02,
+            "startOffset": 0,
+            "word": "Captain"
+        },
+        {
+            "alignedWord": "williams",
+            "case": "success",
+            "end": 1.04,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.42,
+            "startOffset": 8,
+            "word": "Williams"
+        },
+        {
+            "alignedWord": "who",
+            "case": "success",
+            "end": 1.1800000000000002,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 1.04,
+            "startOffset": 17,
+            "word": "who"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 1.41,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.18,
+            "startOffset": 21,
+            "word": "was"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.5299999999999998,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.41,
+            "startOffset": 25,
+            "word": "the"
+        },
+        {
+            "alignedWord": "inspector",
+            "case": "success",
+            "end": 2.14,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.53,
+            "startOffset": 29,
+            "word": "inspector"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 2.2800000000000002,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.14,
+            "startOffset": 39,
+            "word": "of"
+        },
+        {
+            "alignedWord": "prisons",
+            "case": "success",
+            "end": 2.75,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.28,
+            "startOffset": 42,
+            "word": "prisons"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 2.9,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.76,
+            "startOffset": 50,
+            "word": "for"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.9899999999999998,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.9,
+            "startOffset": 54,
+            "word": "the"
+        },
+        {
+            "alignedWord": "home",
+            "case": "success",
+            "end": 3.2600000000000002,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 2.99,
+            "startOffset": 58,
+            "word": "home"
+        },
+        {
+            "alignedWord": "district",
+            "case": "success",
+            "end": 3.78,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.26,
+            "startOffset": 63,
+            "word": "district"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 4.03,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.82,
+            "startOffset": 72,
+            "word": "in"
+        },
+        {
+            "alignedWord": "succession",
+            "case": "success",
+            "end": 4.63,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.03,
+            "startOffset": 75,
+            "word": "succession"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 4.84,
+            "endOffset": 88,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 4.63,
+            "startOffset": 86,
+            "word": "to"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.25,
+            "endOffset": 95,
+            "phones": [
+                {
+                    "duration": 0.39,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.86,
+            "startOffset": 89,
+            "word": "Messrs"
+        },
+        {
+            "alignedWord": "crawford",
+            "case": "success",
+            "end": 5.84,
+            "endOffset": 105,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.29,
+            "startOffset": 97,
+            "word": "Crawford"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 6.07,
+            "endOffset": 109,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.87,
+            "startOffset": 106,
+            "word": "and"
+        },
+        {
+            "alignedWord": "russell",
+            "case": "success",
+            "end": 6.33,
+            "endOffset": 117,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 6.07,
+            "startOffset": 110,
+            "word": "Russell"
+        }
+    ]
+}

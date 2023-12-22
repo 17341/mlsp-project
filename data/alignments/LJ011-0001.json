@@ -1,0 +1,353 @@
+{
+    "transcript": "The Chronicles of Newgate Volume 2. By Arthur Griffiths. Section 14: Newgate notorieties part 1",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.07,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "chronicles",
+            "case": "success",
+            "end": 0.6799999999999999,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 4,
+            "word": "Chronicles"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 0.83,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 0.69,
+            "startOffset": 15,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.31,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.45,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.86,
+            "startOffset": 18,
+            "word": "Newgate"
+        },
+        {
+            "alignedWord": "volume",
+            "case": "success",
+            "end": 1.79,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 1.34,
+            "startOffset": 26,
+            "word": "Volume"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.26,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.47,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.79,
+            "startOffset": 33,
+            "word": "2"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 2.7,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 2.5,
+            "startOffset": 36,
+            "word": "By"
+        },
+        {
+            "alignedWord": "arthur",
+            "case": "success",
+            "end": 3.1,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "th_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.74,
+            "startOffset": 39,
+            "word": "Arthur"
+        },
+        {
+            "alignedWord": "griffiths",
+            "case": "success",
+            "end": 3.7800000000000002,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "th_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.1,
+            "startOffset": 46,
+            "word": "Griffiths"
+        },
+        {
+            "alignedWord": "section",
+            "case": "success",
+            "end": 4.59,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.14,
+            "startOffset": 57,
+            "word": "Section"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.5,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.9,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.6,
+            "startOffset": 65,
+            "word": "14"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.27,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 1.55,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.72,
+            "startOffset": 69,
+            "word": "Newgate"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 88,
+            "startOffset": 77,
+            "word": "notorieties"
+        },
+        {
+            "alignedWord": "part",
+            "case": "success",
+            "end": 7.82,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 7.53,
+            "startOffset": 89,
+            "word": "part"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.17,
+            "endOffset": 95,
+            "phones": [
+                {
+                    "duration": 0.34,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.83,
+            "startOffset": 94,
+            "word": "1"
+        }
+    ]
+}

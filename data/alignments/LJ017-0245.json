@@ -1,0 +1,259 @@
+{
+    "transcript": "On the 2nd October they sighted land, ten miles distant;",
+    "words": [
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.17,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.13,
+            "startOffset": 0,
+            "word": "On"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.28,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.17,
+            "startOffset": 3,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.72,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.44,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.28,
+            "startOffset": 7,
+            "word": "2nd"
+        },
+        {
+            "alignedWord": "october",
+            "case": "success",
+            "end": 1.3900000000000001,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.72,
+            "startOffset": 11,
+            "word": "October"
+        },
+        {
+            "alignedWord": "they",
+            "case": "success",
+            "end": 1.5799999999999998,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 1.39,
+            "startOffset": 19,
+            "word": "they"
+        },
+        {
+            "alignedWord": "sighted",
+            "case": "success",
+            "end": 2.0700000000000003,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.58,
+            "startOffset": 24,
+            "word": "sighted"
+        },
+        {
+            "alignedWord": "land",
+            "case": "success",
+            "end": 2.6399999999999997,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.07,
+            "startOffset": 32,
+            "word": "land"
+        },
+        {
+            "alignedWord": "ten",
+            "case": "success",
+            "end": 3.1599999999999997,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.86,
+            "startOffset": 38,
+            "word": "ten"
+        },
+        {
+            "alignedWord": "miles",
+            "case": "success",
+            "end": 3.6,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.16,
+            "startOffset": 42,
+            "word": "miles"
+        },
+        {
+            "alignedWord": "distant",
+            "case": "success",
+            "end": 4.0200000000000005,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.6,
+            "startOffset": 48,
+            "word": "distant"
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "transcript": "The 500 block of North Beckley is five blocks south of the roominghouse.",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.33999999999999997,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.18,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.98,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.64,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.34,
+            "startOffset": 4,
+            "word": "500"
+        },
+        {
+            "alignedWord": "block",
+            "case": "success",
+            "end": 1.3399999999999999,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 0.99,
+            "startOffset": 8,
+            "word": "block"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.51,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.35,
+            "startOffset": 14,
+            "word": "of"
+        },
+        {
+            "alignedWord": "north",
+            "case": "success",
+            "end": 1.83,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 1.51,
+            "startOffset": 17,
+            "word": "North"
+        },
+        {
+            "alignedWord": "beckley",
+            "case": "success",
+            "end": 2.42,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.83,
+            "startOffset": 23,
+            "word": "Beckley"
+        },
+        {
+            "alignedWord": "is",
+            "case": "success",
+            "end": 3.0199999999999996,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.78,
+            "startOffset": 31,
+            "word": "is"
+        },
+        {
+            "alignedWord": "five",
+            "case": "success",
+            "end": 3.37,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.02,
+            "startOffset": 34,
+            "word": "five"
+        },
+        {
+            "alignedWord": "blocks",
+            "case": "success",
+            "end": 3.87,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.39,
+            "startOffset": 39,
+            "word": "blocks"
+        },
+        {
+            "alignedWord": "south",
+            "case": "success",
+            "end": 4.33,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 3.91,
+            "startOffset": 46,
+            "word": "south"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 4.46,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.33,
+            "startOffset": 52,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.62,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.47,
+            "startOffset": 55,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.08,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.46,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.62,
+            "startOffset": 59,
+            "word": "roominghouse"
+        }
+    ]
+}

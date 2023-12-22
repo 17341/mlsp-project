@@ -1,0 +1,362 @@
+{
+    "transcript": "Tippit patroled district No. 78 in the Oak Cliff area of Dallas during daylight hours.",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.54,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.34,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.2,
+            "startOffset": 0,
+            "word": "Tippit"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.24,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.66,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.58,
+            "startOffset": 7,
+            "word": "patroled"
+        },
+        {
+            "alignedWord": "district",
+            "case": "success",
+            "end": 1.77,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.25,
+            "startOffset": 16,
+            "word": "district"
+        },
+        {
+            "alignedWord": "no",
+            "case": "success",
+            "end": 1.79,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 1.77,
+            "startOffset": 25,
+            "word": "No"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.9299999999999997,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 1.14,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.79,
+            "startOffset": 29,
+            "word": "78"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 3.49,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.37,
+            "startOffset": 32,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.64,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.49,
+            "startOffset": 35,
+            "word": "the"
+        },
+        {
+            "alignedWord": "oak",
+            "case": "success",
+            "end": 3.93,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "ow_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 3.64,
+            "startOffset": 39,
+            "word": "Oak"
+        },
+        {
+            "alignedWord": "cliff",
+            "case": "success",
+            "end": 4.28,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_E"
+                }
+            ],
+            "start": 3.94,
+            "startOffset": 43,
+            "word": "Cliff"
+        },
+        {
+            "alignedWord": "area",
+            "case": "success",
+            "end": 4.73,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.29,
+            "startOffset": 49,
+            "word": "area"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 4.930000000000001,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.73,
+            "startOffset": 54,
+            "word": "of"
+        },
+        {
+            "alignedWord": "dallas",
+            "case": "success",
+            "end": 5.52,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.93,
+            "startOffset": 57,
+            "word": "Dallas"
+        },
+        {
+            "alignedWord": "during",
+            "case": "success",
+            "end": 6.33,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 5.94,
+            "startOffset": 64,
+            "word": "during"
+        },
+        {
+            "alignedWord": "daylight",
+            "case": "success",
+            "end": 6.84,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 6.33,
+            "startOffset": 71,
+            "word": "daylight"
+        },
+        {
+            "alignedWord": "hours",
+            "case": "success",
+            "end": 7.41,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.3,
+                    "phone": "aw_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.87,
+            "startOffset": 80,
+            "word": "hours"
+        }
+    ]
+}

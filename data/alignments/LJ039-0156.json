@@ -1,0 +1,89 @@
+{
+    "transcript": "to 7.9 seconds.",
+    "words": [
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 0.08,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "to"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.8999999999999999,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.82,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.08,
+            "startOffset": 3,
+            "word": "7"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.37,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.44,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.93,
+            "startOffset": 5,
+            "word": "9"
+        },
+        {
+            "alignedWord": "seconds",
+            "case": "success",
+            "end": 1.96,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.38,
+            "startOffset": 7,
+            "word": "seconds"
+        }
+    ]
+}

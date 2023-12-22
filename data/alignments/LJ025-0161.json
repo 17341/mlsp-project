@@ -1,0 +1,448 @@
+{
+    "transcript": "of the oily starchy saccharine and woody substances contained in the full-grown plant and its seeds",
+    "words": [
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 0.19,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 0.1,
+            "startOffset": 0,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.35,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.19,
+            "startOffset": 3,
+            "word": "the"
+        },
+        {
+            "alignedWord": "oily",
+            "case": "success",
+            "end": 0.98,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.28,
+                    "phone": "oy_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.25,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.36,
+            "startOffset": 7,
+            "word": "oily"
+        },
+        {
+            "alignedWord": "starchy",
+            "case": "success",
+            "end": 1.85,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.27,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.06,
+            "startOffset": 12,
+            "word": "starchy"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.7299999999999995,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.72,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.01,
+            "startOffset": 20,
+            "word": "saccharine"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 2.9699999999999998,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.76,
+            "startOffset": 31,
+            "word": "and"
+        },
+        {
+            "alignedWord": "woody",
+            "case": "success",
+            "end": 3.32,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.98,
+            "startOffset": 35,
+            "word": "woody"
+        },
+        {
+            "alignedWord": "substances",
+            "case": "success",
+            "end": 4.25,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.33,
+            "startOffset": 41,
+            "word": "substances"
+        },
+        {
+            "alignedWord": "contained",
+            "case": "success",
+            "end": 5.040000000000001,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.48,
+            "startOffset": 52,
+            "word": "contained"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.14,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.04,
+            "startOffset": 62,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 5.239999999999999,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 5.14,
+            "startOffset": 65,
+            "word": "the"
+        },
+        {
+            "alignedWord": "full",
+            "case": "success",
+            "end": 5.48,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 5.24,
+            "startOffset": 69,
+            "word": "full"
+        },
+        {
+            "alignedWord": "grown",
+            "case": "success",
+            "end": 5.79,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.48,
+            "startOffset": 74,
+            "word": "grown"
+        },
+        {
+            "alignedWord": "plant",
+            "case": "success",
+            "end": 6.260000000000001,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.82,
+            "startOffset": 80,
+            "word": "plant"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 6.54,
+            "endOffset": 89,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 6.29,
+            "startOffset": 86,
+            "word": "and"
+        },
+        {
+            "alignedWord": "its",
+            "case": "success",
+            "end": 6.72,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 6.54,
+            "startOffset": 90,
+            "word": "its"
+        },
+        {
+            "alignedWord": "seeds",
+            "case": "success",
+            "end": 7.16,
+            "endOffset": 99,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.72,
+            "startOffset": 94,
+            "word": "seeds"
+        }
+    ]
+}

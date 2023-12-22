@@ -1,0 +1,658 @@
+{
+    "transcript": "(2) the cartridge cases found near the scene of the shooting were fired from the revolver in the possession of Oswald at the time of his arrest",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.48,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.47,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 1,
+            "word": "2"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.12,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.0,
+            "startOffset": 4,
+            "word": "the"
+        },
+        {
+            "alignedWord": "cartridge",
+            "case": "success",
+            "end": 1.71,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "jh_E"
+                }
+            ],
+            "start": 1.12,
+            "startOffset": 8,
+            "word": "cartridge"
+        },
+        {
+            "alignedWord": "cases",
+            "case": "success",
+            "end": 2.31,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.71,
+            "startOffset": 18,
+            "word": "cases"
+        },
+        {
+            "alignedWord": "found",
+            "case": "success",
+            "end": 2.7399999999999998,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.32,
+            "startOffset": 24,
+            "word": "found"
+        },
+        {
+            "alignedWord": "near",
+            "case": "success",
+            "end": 3.11,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 2.75,
+            "startOffset": 30,
+            "word": "near"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.2399999999999998,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.11,
+            "startOffset": 35,
+            "word": "the"
+        },
+        {
+            "alignedWord": "scene",
+            "case": "success",
+            "end": 3.5300000000000002,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.24,
+            "startOffset": 39,
+            "word": "scene"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.6599999999999997,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.53,
+            "startOffset": 45,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.73,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.66,
+            "startOffset": 48,
+            "word": "the"
+        },
+        {
+            "alignedWord": "shooting",
+            "case": "success",
+            "end": 4.32,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 3.73,
+            "startOffset": 52,
+            "word": "shooting"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 4.78,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.59,
+            "startOffset": 61,
+            "word": "were"
+        },
+        {
+            "alignedWord": "fired",
+            "case": "success",
+            "end": 5.26,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.78,
+            "startOffset": 66,
+            "word": "fired"
+        },
+        {
+            "alignedWord": "from",
+            "case": "success",
+            "end": 5.45,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 5.26,
+            "startOffset": 72,
+            "word": "from"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 5.57,
+            "endOffset": 80,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 5.45,
+            "startOffset": 77,
+            "word": "the"
+        },
+        {
+            "alignedWord": "revolver",
+            "case": "success",
+            "end": 6.15,
+            "endOffset": 89,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.57,
+            "startOffset": 81,
+            "word": "revolver"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 6.33,
+            "endOffset": 92,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.17,
+            "startOffset": 90,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 6.43,
+            "endOffset": 96,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 6.33,
+            "startOffset": 93,
+            "word": "the"
+        },
+        {
+            "alignedWord": "possession",
+            "case": "success",
+            "end": 6.92,
+            "endOffset": 107,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.43,
+            "startOffset": 97,
+            "word": "possession"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 7.06,
+            "endOffset": 110,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 6.92,
+            "startOffset": 108,
+            "word": "of"
+        },
+        {
+            "alignedWord": "oswald",
+            "case": "success",
+            "end": 7.66,
+            "endOffset": 117,
+            "phones": [
+                {
+                    "duration": 0.22,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 7.08,
+            "startOffset": 111,
+            "word": "Oswald"
+        },
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 7.81,
+            "endOffset": 120,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 7.67,
+            "startOffset": 118,
+            "word": "at"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 7.909999999999999,
+            "endOffset": 124,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 7.81,
+            "startOffset": 121,
+            "word": "the"
+        },
+        {
+            "alignedWord": "time",
+            "case": "success",
+            "end": 8.21,
+            "endOffset": 129,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 7.91,
+            "startOffset": 125,
+            "word": "time"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 8.350000000000001,
+            "endOffset": 132,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 8.21,
+            "startOffset": 130,
+            "word": "of"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 8.579999,
+            "endOffset": 136,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 8.349999,
+            "startOffset": 133,
+            "word": "his"
+        },
+        {
+            "alignedWord": "arrest",
+            "case": "success",
+            "end": 8.98,
+            "endOffset": 143,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "er_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 8.58,
+            "startOffset": 137,
+            "word": "arrest"
+        }
+    ]
+}

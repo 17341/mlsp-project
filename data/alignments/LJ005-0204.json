@@ -1,0 +1,226 @@
+{
+    "transcript": "Clun in Shropshire had a lock-up under the town hall.",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.53,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.52,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Clun"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 0.74,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.56,
+            "startOffset": 5,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.47,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.73,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.74,
+            "startOffset": 8,
+            "word": "Shropshire"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 1.68,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.48,
+            "startOffset": 19,
+            "word": "had"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 1.74,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 1.68,
+            "startOffset": 23,
+            "word": "a"
+        },
+        {
+            "alignedWord": "lock",
+            "case": "success",
+            "end": 2.05,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 1.74,
+            "startOffset": 25,
+            "word": "lock"
+        },
+        {
+            "alignedWord": "up",
+            "case": "success",
+            "end": 2.1999999999999997,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 2.05,
+            "startOffset": 30,
+            "word": "up"
+        },
+        {
+            "alignedWord": "under",
+            "case": "success",
+            "end": 2.53,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.23,
+            "startOffset": 33,
+            "word": "under"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.6199999999999997,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.53,
+            "startOffset": 39,
+            "word": "the"
+        },
+        {
+            "alignedWord": "town",
+            "case": "success",
+            "end": 3.0,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.62,
+            "startOffset": 43,
+            "word": "town"
+        },
+        {
+            "alignedWord": "hall",
+            "case": "success",
+            "end": 3.22,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 3.0,
+            "startOffset": 48,
+            "word": "hall"
+        }
+    ]
+}

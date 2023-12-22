@@ -1,0 +1,596 @@
+{
+    "transcript": "To control traffic arrangements were made for the deployment of foot patrolmen and motorcycle police at various positions along the route.",
+    "words": [
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 0.16,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "To"
+        },
+        {
+            "alignedWord": "control",
+            "case": "success",
+            "end": 0.61,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.16,
+            "startOffset": 3,
+            "word": "control"
+        },
+        {
+            "alignedWord": "traffic",
+            "case": "success",
+            "end": 1.2999999999999998,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 0.61,
+            "startOffset": 11,
+            "word": "traffic"
+        },
+        {
+            "alignedWord": "arrangements",
+            "case": "success",
+            "end": 2.09,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "er_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.41,
+            "startOffset": 19,
+            "word": "arrangements"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 2.21,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.09,
+            "startOffset": 32,
+            "word": "were"
+        },
+        {
+            "alignedWord": "made",
+            "case": "success",
+            "end": 2.55,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.21,
+            "startOffset": 37,
+            "word": "made"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 2.67,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.55,
+            "startOffset": 42,
+            "word": "for"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.76,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.67,
+            "startOffset": 46,
+            "word": "the"
+        },
+        {
+            "alignedWord": "deployment",
+            "case": "success",
+            "end": 3.3299999999999996,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "oy_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.76,
+            "startOffset": 50,
+            "word": "deployment"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.44,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.33,
+            "startOffset": 61,
+            "word": "of"
+        },
+        {
+            "alignedWord": "foot",
+            "case": "success",
+            "end": 3.6799999999999997,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.44,
+            "startOffset": 64,
+            "word": "foot"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.32,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.6,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.72,
+            "startOffset": 69,
+            "word": "patrolmen"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 4.53,
+            "endOffset": 82,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.34,
+            "startOffset": 79,
+            "word": "and"
+        },
+        {
+            "alignedWord": "motorcycle",
+            "case": "success",
+            "end": 5.19,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 4.53,
+            "startOffset": 83,
+            "word": "motorcycle"
+        },
+        {
+            "alignedWord": "police",
+            "case": "success",
+            "end": 5.720000000000001,
+            "endOffset": 100,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 5.19,
+            "startOffset": 94,
+            "word": "police"
+        },
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 6.2,
+            "endOffset": 103,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 6.04,
+            "startOffset": 101,
+            "word": "at"
+        },
+        {
+            "alignedWord": "various",
+            "case": "success",
+            "end": 6.68,
+            "endOffset": 111,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 6.2,
+            "startOffset": 104,
+            "word": "various"
+        },
+        {
+            "alignedWord": "positions",
+            "case": "success",
+            "end": 7.2299999999999995,
+            "endOffset": 121,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.68,
+            "startOffset": 112,
+            "word": "positions"
+        },
+        {
+            "alignedWord": "along",
+            "case": "success",
+            "end": 7.57,
+            "endOffset": 127,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 7.23,
+            "startOffset": 122,
+            "word": "along"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 7.680000000000001,
+            "endOffset": 131,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 7.57,
+            "startOffset": 128,
+            "word": "the"
+        },
+        {
+            "alignedWord": "route",
+            "case": "success",
+            "end": 8.15,
+            "endOffset": 137,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 7.68,
+            "startOffset": 132,
+            "word": "route"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "transcript": "at 12:30 p.m",
+    "words": [
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 2,
+            "startOffset": 0,
+            "word": "at"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 5,
+            "startOffset": 3,
+            "word": "12"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.86,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.69,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.17,
+            "startOffset": 6,
+            "word": "30"
+        },
+        {
+            "alignedWord": "p",
+            "case": "success",
+            "end": 1.12,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.86,
+            "startOffset": 9,
+            "word": "p"
+        },
+        {
+            "alignedWord": "m",
+            "case": "success",
+            "end": 1.34,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 1.12,
+            "startOffset": 11,
+            "word": "m"
+        }
+    ]
+}

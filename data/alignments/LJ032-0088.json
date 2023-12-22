@@ -1,0 +1,159 @@
+{
+    "transcript": "Post Office Box 30016 New Orleans",
+    "words": [
+        {
+            "alignedWord": "post",
+            "case": "success",
+            "end": 0.32,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "Post"
+        },
+        {
+            "alignedWord": "office",
+            "case": "success",
+            "end": 0.78,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.35,
+            "startOffset": 5,
+            "word": "Office"
+        },
+        {
+            "alignedWord": "box",
+            "case": "success",
+            "end": 1.2,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.78,
+            "startOffset": 12,
+            "word": "Box"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.13,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 1.89,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.24,
+            "startOffset": 16,
+            "word": "30016"
+        },
+        {
+            "alignedWord": "new",
+            "case": "success",
+            "end": 3.68,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 3.49,
+            "startOffset": 22,
+            "word": "New"
+        },
+        {
+            "alignedWord": "orleans",
+            "case": "success",
+            "end": 4.03,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.68,
+            "startOffset": 26,
+            "word": "Orleans"
+        }
+    ]
+}

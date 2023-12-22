@@ -1,0 +1,450 @@
+{
+    "transcript": "145 are proposed for the field offices to handle the increased volume of security investigations",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.26,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 1.25,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "145"
+        },
+        {
+            "alignedWord": "are",
+            "case": "success",
+            "end": 1.33,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "er_S"
+                }
+            ],
+            "start": 1.26,
+            "startOffset": 4,
+            "word": "are"
+        },
+        {
+            "alignedWord": "proposed",
+            "case": "success",
+            "end": 1.87,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.33,
+            "startOffset": 8,
+            "word": "proposed"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 1.9800000000000002,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.87,
+            "startOffset": 17,
+            "word": "for"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.07,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.98,
+            "startOffset": 21,
+            "word": "the"
+        },
+        {
+            "alignedWord": "field",
+            "case": "success",
+            "end": 2.44,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.07,
+            "startOffset": 25,
+            "word": "field"
+        },
+        {
+            "alignedWord": "offices",
+            "case": "success",
+            "end": 3.09,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.44,
+            "startOffset": 31,
+            "word": "offices"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 3.21,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.09,
+            "startOffset": 39,
+            "word": "to"
+        },
+        {
+            "alignedWord": "handle",
+            "case": "success",
+            "end": 3.6,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 3.21,
+            "startOffset": 42,
+            "word": "handle"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.74,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.6,
+            "startOffset": 49,
+            "word": "the"
+        },
+        {
+            "alignedWord": "increased",
+            "case": "success",
+            "end": 4.27,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.75,
+            "startOffset": 53,
+            "word": "increased"
+        },
+        {
+            "alignedWord": "volume",
+            "case": "success",
+            "end": 4.78,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 4.29,
+            "startOffset": 63,
+            "word": "volume"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 4.930000000000001,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.78,
+            "startOffset": 70,
+            "word": "of"
+        },
+        {
+            "alignedWord": "security",
+            "case": "success",
+            "end": 5.54,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 4.93,
+            "startOffset": 73,
+            "word": "security"
+        },
+        {
+            "alignedWord": "investigations",
+            "case": "success",
+            "end": 6.52,
+            "endOffset": 96,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 5.54,
+            "startOffset": 82,
+            "word": "investigations"
+        }
+    ]
+}

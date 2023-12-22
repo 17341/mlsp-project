@@ -1,0 +1,398 @@
+{
+    "transcript": "Darius who besieged the rebellious city twice weakened it by destroying some of its walls.",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.57,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.48,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.09,
+            "startOffset": 0,
+            "word": "Darius"
+        },
+        {
+            "alignedWord": "who",
+            "case": "success",
+            "end": 0.71,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 0.6,
+            "startOffset": 7,
+            "word": "who"
+        },
+        {
+            "alignedWord": "besieged",
+            "case": "success",
+            "end": 1.4,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.71,
+            "startOffset": 11,
+            "word": "besieged"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.5699999999999998,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.44,
+            "startOffset": 20,
+            "word": "the"
+        },
+        {
+            "alignedWord": "rebellious",
+            "case": "success",
+            "end": 2.09,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.57,
+            "startOffset": 24,
+            "word": "rebellious"
+        },
+        {
+            "alignedWord": "city",
+            "case": "success",
+            "end": 2.46,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.1,
+            "startOffset": 35,
+            "word": "city"
+        },
+        {
+            "alignedWord": "twice",
+            "case": "success",
+            "end": 3.06,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 2.49,
+            "startOffset": 40,
+            "word": "twice"
+        },
+        {
+            "alignedWord": "weakened",
+            "case": "success",
+            "end": 3.9,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.46,
+            "startOffset": 46,
+            "word": "weakened"
+        },
+        {
+            "alignedWord": "it",
+            "case": "success",
+            "end": 4.04,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.9,
+            "startOffset": 55,
+            "word": "it"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 4.2299999999999995,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 4.05,
+            "startOffset": 58,
+            "word": "by"
+        },
+        {
+            "alignedWord": "destroying",
+            "case": "success",
+            "end": 4.960000000000001,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "oy_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 4.23,
+            "startOffset": 61,
+            "word": "destroying"
+        },
+        {
+            "alignedWord": "some",
+            "case": "success",
+            "end": 5.17,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 4.96,
+            "startOffset": 72,
+            "word": "some"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 5.3,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 5.17,
+            "startOffset": 77,
+            "word": "of"
+        },
+        {
+            "alignedWord": "its",
+            "case": "success",
+            "end": 5.5,
+            "endOffset": 83,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 5.3,
+            "startOffset": 80,
+            "word": "its"
+        },
+        {
+            "alignedWord": "walls",
+            "case": "success",
+            "end": 6.07,
+            "endOffset": 89,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 5.51,
+            "startOffset": 84,
+            "word": "walls"
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "transcript": "and who expiated his crime on the 8th September 1868.",
+    "words": [
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 0.46,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 0,
+            "word": "and"
+        },
+        {
+            "alignedWord": "who",
+            "case": "success",
+            "end": 0.97,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 0.78,
+            "startOffset": 4,
+            "word": "who"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.6800000000000002,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.68,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.0,
+            "startOffset": 8,
+            "word": "expiated"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 1.93,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.7,
+            "startOffset": 17,
+            "word": "his"
+        },
+        {
+            "alignedWord": "crime",
+            "case": "success",
+            "end": 2.36,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 1.93,
+            "startOffset": 21,
+            "word": "crime"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 2.56,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.4,
+            "startOffset": 27,
+            "word": "on"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.7,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.56,
+            "startOffset": 30,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.96,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.25,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.71,
+            "startOffset": 34,
+            "word": "8th"
+        },
+        {
+            "alignedWord": "september",
+            "case": "success",
+            "end": 3.68,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.97,
+            "startOffset": 38,
+            "word": "September"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.93,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 1.2,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.73,
+            "startOffset": 48,
+            "word": "1868"
+        }
+    ]
+}

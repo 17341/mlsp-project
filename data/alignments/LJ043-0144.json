@@ -1,0 +1,199 @@
+{
+    "transcript": "and the March 11 1963 issue of the Militant.",
+    "words": [
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 0.43,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 0,
+            "word": "and"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.83,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.71,
+            "startOffset": 4,
+            "word": "the"
+        },
+        {
+            "alignedWord": "march",
+            "case": "success",
+            "end": 1.15,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 0.83,
+            "startOffset": 8,
+            "word": "March"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 16,
+            "startOffset": 14,
+            "word": "11"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.8899999999999997,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 1.74,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.15,
+            "startOffset": 17,
+            "word": "1963"
+        },
+        {
+            "alignedWord": "issue",
+            "case": "success",
+            "end": 3.31,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 2.92,
+            "startOffset": 22,
+            "word": "issue"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.5999999999999996,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.34,
+            "startOffset": 28,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.79,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.66,
+            "startOffset": 31,
+            "word": "the"
+        },
+        {
+            "alignedWord": "militant",
+            "case": "success",
+            "end": 4.43,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.79,
+            "startOffset": 35,
+            "word": "Militant"
+        }
+    ]
+}

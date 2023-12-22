@@ -1,0 +1,157 @@
+{
+    "transcript": "On the morning of November 22 1963",
+    "words": [
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.15,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.13,
+            "startOffset": 0,
+            "word": "On"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.24,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.15,
+            "startOffset": 3,
+            "word": "the"
+        },
+        {
+            "alignedWord": "morning",
+            "case": "success",
+            "end": 0.61,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.24,
+            "startOffset": 7,
+            "word": "morning"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 0.73,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 0.61,
+            "startOffset": 15,
+            "word": "of"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 1.16,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.73,
+            "startOffset": 18,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.98,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 1.82,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.16,
+            "startOffset": 27,
+            "word": "22"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 34,
+            "startOffset": 30,
+            "word": "1963"
+        }
+    ]
+}

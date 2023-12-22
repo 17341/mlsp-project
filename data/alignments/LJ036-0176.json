@@ -1,0 +1,305 @@
+{
+    "transcript": "Earlene Roberts housekeeper for Mrs. A. C. Johnson at 1026 North Beckley",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.45,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.31,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 0,
+            "word": "Earlene"
+        },
+        {
+            "alignedWord": "roberts",
+            "case": "success",
+            "end": 1.18,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.46,
+            "startOffset": 8,
+            "word": "Roberts"
+        },
+        {
+            "alignedWord": "housekeeper",
+            "case": "success",
+            "end": 2.29,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.47,
+            "startOffset": 16,
+            "word": "housekeeper"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 2.43,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.29,
+            "startOffset": 28,
+            "word": "for"
+        },
+        {
+            "alignedWord": "mrs",
+            "case": "success",
+            "end": 2.8000000000000003,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.43,
+            "startOffset": 32,
+            "word": "Mrs"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 3.12,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.31,
+                    "phone": "ey_S"
+                }
+            ],
+            "start": 2.81,
+            "startOffset": 37,
+            "word": "A"
+        },
+        {
+            "alignedWord": "c",
+            "case": "success",
+            "end": 3.42,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.13,
+            "startOffset": 40,
+            "word": "C"
+        },
+        {
+            "alignedWord": "johnson",
+            "case": "success",
+            "end": 4.08,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.42,
+            "startOffset": 43,
+            "word": "Johnson"
+        },
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 4.3,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.09,
+            "startOffset": 51,
+            "word": "at"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.27,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.96,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.31,
+            "startOffset": 54,
+            "word": "1026"
+        },
+        {
+            "alignedWord": "north",
+            "case": "success",
+            "end": 5.65,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 5.29,
+            "startOffset": 59,
+            "word": "North"
+        },
+        {
+            "alignedWord": "beckley",
+            "case": "success",
+            "end": 5.9799999999999995,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 5.68,
+            "startOffset": 65,
+            "word": "Beckley"
+        }
+    ]
+}

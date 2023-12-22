@@ -1,0 +1,138 @@
+{
+    "transcript": "Chapter 4. The Assassin: Part 8.",
+    "words": [
+        {
+            "alignedWord": "chapter",
+            "case": "success",
+            "end": 0.42,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ch_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Chapter"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.97,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.55,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.42,
+            "startOffset": 8,
+            "word": "4"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.38,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.18,
+            "startOffset": 11,
+            "word": "The"
+        },
+        {
+            "alignedWord": "assassin",
+            "case": "success",
+            "end": 2.3,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.39,
+            "startOffset": 15,
+            "word": "Assassin"
+        },
+        {
+            "alignedWord": "part",
+            "case": "success",
+            "end": 3.0,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.67,
+            "startOffset": 25,
+            "word": "Part"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 31,
+            "startOffset": 30,
+            "word": "8"
+        }
+    ]
+}

@@ -1,0 +1,420 @@
+{
+    "transcript": "At approximately 9 p.m., on April 10, 1963, in Dallas, Texas, Maj. Gen. Edwin A. Walker,",
+    "words": [
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 0.11,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "At"
+        },
+        {
+            "alignedWord": "approximately",
+            "case": "success",
+            "end": 0.9299999999999999,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.11,
+            "startOffset": 3,
+            "word": "approximately"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.3,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.37,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.93,
+            "startOffset": 17,
+            "word": "9"
+        },
+        {
+            "alignedWord": "p",
+            "case": "success",
+            "end": 1.59,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.31,
+            "startOffset": 19,
+            "word": "p"
+        },
+        {
+            "alignedWord": "m",
+            "case": "success",
+            "end": 1.96,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 1.59,
+            "startOffset": 21,
+            "word": "m"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 2.21,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.99,
+            "startOffset": 25,
+            "word": "on"
+        },
+        {
+            "alignedWord": "april",
+            "case": "success",
+            "end": 2.66,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "ey_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 2.24,
+            "startOffset": 28,
+            "word": "April"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.0900000000000003,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.41,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.68,
+            "startOffset": 34,
+            "word": "10"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.42,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 1.29,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.13,
+            "startOffset": 38,
+            "word": "1963"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 4.62,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.43,
+            "startOffset": 44,
+            "word": "in"
+        },
+        {
+            "alignedWord": "dallas",
+            "case": "success",
+            "end": 5.08,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.62,
+            "startOffset": 47,
+            "word": "Dallas"
+        },
+        {
+            "alignedWord": "texas",
+            "case": "success",
+            "end": 5.69,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 5.11,
+            "startOffset": 55,
+            "word": "Texas"
+        },
+        {
+            "alignedWord": "maj",
+            "case": "success",
+            "end": 6.6499999999999995,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "jh_E"
+                }
+            ],
+            "start": 6.35,
+            "startOffset": 62,
+            "word": "Maj"
+        },
+        {
+            "alignedWord": "gen",
+            "case": "success",
+            "end": 7.010000000000001,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.78,
+            "startOffset": 67,
+            "word": "Gen"
+        },
+        {
+            "alignedWord": "edwin",
+            "case": "success",
+            "end": 7.6499999999999995,
+            "endOffset": 77,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 7.22,
+            "startOffset": 72,
+            "word": "Edwin"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 7.95,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.29,
+                    "phone": "ey_S"
+                }
+            ],
+            "start": 7.66,
+            "startOffset": 78,
+            "word": "A"
+        },
+        {
+            "alignedWord": "walker",
+            "case": "success",
+            "end": 8.49,
+            "endOffset": 87,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 7.95,
+            "startOffset": 81,
+            "word": "Walker"
+        }
+    ]
+}

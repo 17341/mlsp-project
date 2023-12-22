@@ -1,0 +1,364 @@
+{
+    "transcript": "Even when in the condemned cell with a shameful death within measurable distance",
+    "words": [
+        {
+            "alignedWord": "even",
+            "case": "success",
+            "end": 0.36,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "iy_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.04,
+            "startOffset": 0,
+            "word": "Even"
+        },
+        {
+            "alignedWord": "when",
+            "case": "success",
+            "end": 0.56,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.36,
+            "startOffset": 5,
+            "word": "when"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 0.75,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.57,
+            "startOffset": 10,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.86,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.75,
+            "startOffset": 13,
+            "word": "the"
+        },
+        {
+            "alignedWord": "condemned",
+            "case": "success",
+            "end": 1.43,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.86,
+            "startOffset": 17,
+            "word": "condemned"
+        },
+        {
+            "alignedWord": "cell",
+            "case": "success",
+            "end": 1.98,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 1.43,
+            "startOffset": 27,
+            "word": "cell"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 2.46,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "dh_E"
+                }
+            ],
+            "start": 2.29,
+            "startOffset": 32,
+            "word": "with"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 2.51,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 2.46,
+            "startOffset": 37,
+            "word": "a"
+        },
+        {
+            "alignedWord": "shameful",
+            "case": "success",
+            "end": 3.2399999999999998,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.2,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 2.51,
+            "startOffset": 39,
+            "word": "shameful"
+        },
+        {
+            "alignedWord": "death",
+            "case": "success",
+            "end": 3.61,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 3.25,
+            "startOffset": 48,
+            "word": "death"
+        },
+        {
+            "alignedWord": "within",
+            "case": "success",
+            "end": 4.0200000000000005,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "th_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.64,
+            "startOffset": 54,
+            "word": "within"
+        },
+        {
+            "alignedWord": "measurable",
+            "case": "success",
+            "end": 4.529999999999999,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "zh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 4.02,
+            "startOffset": 61,
+            "word": "measurable"
+        },
+        {
+            "alignedWord": "distance",
+            "case": "success",
+            "end": 5.119999999999999,
+            "endOffset": 80,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.56,
+            "startOffset": 72,
+            "word": "distance"
+        }
+    ]
+}

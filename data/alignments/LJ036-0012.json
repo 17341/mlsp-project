@@ -1,0 +1,256 @@
+{
+    "transcript": "(4) evidence establishing the ownership of a zipper jacket",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.6000000000000001,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.54,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.06,
+            "startOffset": 1,
+            "word": "4"
+        },
+        {
+            "alignedWord": "evidence",
+            "case": "success",
+            "end": 1.51,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.08,
+            "startOffset": 4,
+            "word": "evidence"
+        },
+        {
+            "alignedWord": "establishing",
+            "case": "success",
+            "end": 2.23,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 1.51,
+            "startOffset": 13,
+            "word": "establishing"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.36,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.23,
+            "startOffset": 26,
+            "word": "the"
+        },
+        {
+            "alignedWord": "ownership",
+            "case": "success",
+            "end": 2.9,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ow_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 2.38,
+            "startOffset": 30,
+            "word": "ownership"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.14,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.97,
+            "startOffset": 40,
+            "word": "of"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 3.25,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ey_S"
+                }
+            ],
+            "start": 3.14,
+            "startOffset": 43,
+            "word": "a"
+        },
+        {
+            "alignedWord": "zipper",
+            "case": "success",
+            "end": 3.67,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "z_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.26,
+            "startOffset": 45,
+            "word": "zipper"
+        },
+        {
+            "alignedWord": "jacket",
+            "case": "success",
+            "end": 4.24,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.68,
+            "startOffset": 52,
+            "word": "jacket"
+        }
+    ]
+}

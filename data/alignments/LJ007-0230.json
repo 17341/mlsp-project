@@ -1,0 +1,161 @@
+{
+    "transcript": "Newgate Giltspur St. Compter and the City Bridewell",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.52,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.51,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Newgate"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.7600000000000002,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.65,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.11,
+            "startOffset": 8,
+            "word": "Giltspur"
+        },
+        {
+            "alignedWord": "st",
+            "case": "success",
+            "end": 1.87,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.76,
+            "startOffset": 17,
+            "word": "St"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.53,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.64,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.89,
+            "startOffset": 21,
+            "word": "Compter"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 2.98,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.81,
+            "startOffset": 29,
+            "word": "and"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.06,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.98,
+            "startOffset": 33,
+            "word": "the"
+        },
+        {
+            "alignedWord": "city",
+            "case": "success",
+            "end": 3.42,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.06,
+            "startOffset": 37,
+            "word": "City"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.92,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.47,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.45,
+            "startOffset": 42,
+            "word": "Bridewell"
+        }
+    ]
+}

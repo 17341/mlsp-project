@@ -1,0 +1,488 @@
+{
+    "transcript": "This point was ably made in the 1902 debate by Senator George F. Hoar the sponsor of the Senate bill quote",
+    "words": [
+        {
+            "alignedWord": "this",
+            "case": "success",
+            "end": 0.24,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "This"
+        },
+        {
+            "alignedWord": "point",
+            "case": "success",
+            "end": 0.54,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "oy_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.24,
+            "startOffset": 5,
+            "word": "point"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 0.7799999999999999,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.57,
+            "startOffset": 11,
+            "word": "was"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.29,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.28,
+            "startOffset": 15,
+            "word": "ably"
+        },
+        {
+            "alignedWord": "made",
+            "case": "success",
+            "end": 1.69,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.3,
+            "startOffset": 20,
+            "word": "made"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 1.8,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.69,
+            "startOffset": 25,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.9100000000000001,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.8,
+            "startOffset": 28,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.83,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.92,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.91,
+            "startOffset": 32,
+            "word": "1902"
+        },
+        {
+            "alignedWord": "debate",
+            "case": "success",
+            "end": 3.42,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.86,
+            "startOffset": 37,
+            "word": "debate"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 3.86,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 3.69,
+            "startOffset": 44,
+            "word": "by"
+        },
+        {
+            "alignedWord": "senator",
+            "case": "success",
+            "end": 4.37,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.88,
+            "startOffset": 47,
+            "word": "Senator"
+        },
+        {
+            "alignedWord": "george",
+            "case": "success",
+            "end": 4.88,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "jh_E"
+                }
+            ],
+            "start": 4.38,
+            "startOffset": 55,
+            "word": "George"
+        },
+        {
+            "alignedWord": "f",
+            "case": "success",
+            "end": 5.26,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "f_E"
+                }
+            ],
+            "start": 4.95,
+            "startOffset": 62,
+            "word": "F"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.83,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.52,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.31,
+            "startOffset": 65,
+            "word": "Hoar"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 6.25,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 6.1,
+            "startOffset": 70,
+            "word": "the"
+        },
+        {
+            "alignedWord": "sponsor",
+            "case": "success",
+            "end": 6.8,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 6.25,
+            "startOffset": 74,
+            "word": "sponsor"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 6.91,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 6.8,
+            "startOffset": 82,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 7.04,
+            "endOffset": 88,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 6.92,
+            "startOffset": 85,
+            "word": "the"
+        },
+        {
+            "alignedWord": "senate",
+            "case": "success",
+            "end": 7.44,
+            "endOffset": 95,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 7.04,
+            "startOffset": 89,
+            "word": "Senate"
+        },
+        {
+            "alignedWord": "bill",
+            "case": "success",
+            "end": 7.92,
+            "endOffset": 100,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 7.47,
+            "startOffset": 96,
+            "word": "bill"
+        },
+        {
+            "alignedWord": "quote",
+            "case": "success",
+            "end": 8.43,
+            "endOffset": 106,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 8.09,
+            "startOffset": 101,
+            "word": "quote"
+        }
+    ]
+}

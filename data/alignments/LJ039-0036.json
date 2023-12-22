@@ -1,0 +1,76 @@
+{
+    "transcript": "On April 23 1963",
+    "words": [
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.32999999999999996,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.15,
+            "startOffset": 0,
+            "word": "On"
+        },
+        {
+            "alignedWord": "april",
+            "case": "success",
+            "end": 0.71,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ey_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.35,
+            "startOffset": 3,
+            "word": "April"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.74,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 2.02,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.72,
+            "startOffset": 9,
+            "word": "23"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 16,
+            "startOffset": 12,
+            "word": "1963"
+        }
+    ]
+}

@@ -1,0 +1,297 @@
+{
+    "transcript": "(4) carried the rifle into the Depository Building concealed in the bag;",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.54,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.53,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 1,
+            "word": "4"
+        },
+        {
+            "alignedWord": "carried",
+            "case": "success",
+            "end": 1.49,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.0,
+            "startOffset": 4,
+            "word": "carried"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.59,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.49,
+            "startOffset": 12,
+            "word": "the"
+        },
+        {
+            "alignedWord": "rifle",
+            "case": "success",
+            "end": 2.0,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 1.59,
+            "startOffset": 16,
+            "word": "rifle"
+        },
+        {
+            "alignedWord": "into",
+            "case": "success",
+            "end": 2.3099999999999996,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 2.03,
+            "startOffset": 22,
+            "word": "into"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.44,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.31,
+            "startOffset": 27,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.17,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.73,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.44,
+            "startOffset": 31,
+            "word": "Depository"
+        },
+        {
+            "alignedWord": "building",
+            "case": "success",
+            "end": 3.8,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 3.17,
+            "startOffset": 42,
+            "word": "Building"
+        },
+        {
+            "alignedWord": "concealed",
+            "case": "success",
+            "end": 4.51,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.87,
+            "startOffset": 51,
+            "word": "concealed"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 4.71,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.55,
+            "startOffset": 61,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.8,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.71,
+            "startOffset": 64,
+            "word": "the"
+        },
+        {
+            "alignedWord": "bag",
+            "case": "success",
+            "end": 5.1899999999999995,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.26,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "g_E"
+                }
+            ],
+            "start": 4.8,
+            "startOffset": 68,
+            "word": "bag"
+        }
+    ]
+}

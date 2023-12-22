@@ -1,0 +1,607 @@
+{
+    "transcript": "During the first week of an intensive 8-week training period he received instruction in sighting aiming and manipulation of the trigger.",
+    "words": [
+        {
+            "alignedWord": "during",
+            "case": "success",
+            "end": 0.3,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "During"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.38,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.3,
+            "startOffset": 7,
+            "word": "the"
+        },
+        {
+            "alignedWord": "first",
+            "case": "success",
+            "end": 0.8400000000000001,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.38,
+            "startOffset": 11,
+            "word": "first"
+        },
+        {
+            "alignedWord": "week",
+            "case": "success",
+            "end": 1.15,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 0.84,
+            "startOffset": 17,
+            "word": "week"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.27,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.16,
+            "startOffset": 22,
+            "word": "of"
+        },
+        {
+            "alignedWord": "an",
+            "case": "success",
+            "end": 1.37,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.27,
+            "startOffset": 25,
+            "word": "an"
+        },
+        {
+            "alignedWord": "intensive",
+            "case": "success",
+            "end": 2.08,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.37,
+            "startOffset": 28,
+            "word": "intensive"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.41,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.26,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.15,
+            "startOffset": 38,
+            "word": "8"
+        },
+        {
+            "alignedWord": "week",
+            "case": "success",
+            "end": 2.66,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 2.43,
+            "startOffset": 40,
+            "word": "week"
+        },
+        {
+            "alignedWord": "training",
+            "case": "success",
+            "end": 3.17,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 2.71,
+            "startOffset": 45,
+            "word": "training"
+        },
+        {
+            "alignedWord": "period",
+            "case": "success",
+            "end": 3.77,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.17,
+            "startOffset": 54,
+            "word": "period"
+        },
+        {
+            "alignedWord": "he",
+            "case": "success",
+            "end": 4.39,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.21,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 4.08,
+            "startOffset": 61,
+            "word": "he"
+        },
+        {
+            "alignedWord": "received",
+            "case": "success",
+            "end": 4.89,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.39,
+            "startOffset": 64,
+            "word": "received"
+        },
+        {
+            "alignedWord": "instruction",
+            "case": "success",
+            "end": 5.569999999999999,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.89,
+            "startOffset": 73,
+            "word": "instruction"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.7700000000000005,
+            "endOffset": 87,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.58,
+            "startOffset": 85,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.3999999999999995,
+            "endOffset": 96,
+            "phones": [
+                {
+                    "duration": 0.63,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.77,
+            "startOffset": 88,
+            "word": "sighting"
+        },
+        {
+            "alignedWord": "aiming",
+            "case": "success",
+            "end": 7.34,
+            "endOffset": 103,
+            "phones": [
+                {
+                    "duration": 0.25,
+                    "phone": "ey_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 6.74,
+            "startOffset": 97,
+            "word": "aiming"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 7.61,
+            "endOffset": 107,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 7.48,
+            "startOffset": 104,
+            "word": "and"
+        },
+        {
+            "alignedWord": "manipulation",
+            "case": "success",
+            "end": 8.48,
+            "endOffset": 120,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 7.65,
+            "startOffset": 108,
+            "word": "manipulation"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 8.620000000000001,
+            "endOffset": 123,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 8.48,
+            "startOffset": 121,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 8.74,
+            "endOffset": 127,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 8.63,
+            "startOffset": 124,
+            "word": "the"
+        },
+        {
+            "alignedWord": "trigger",
+            "case": "success",
+            "end": 9.11,
+            "endOffset": 135,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 8.74,
+            "startOffset": 128,
+            "word": "trigger"
+        }
+    ]
+}

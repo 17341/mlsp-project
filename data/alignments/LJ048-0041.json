@@ -1,0 +1,225 @@
+{
+    "transcript": "636 371 investigative matters during fiscal year 1963",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.73,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.65,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.08,
+            "startOffset": 0,
+            "word": "636"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.38,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 2.61,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.77,
+            "startOffset": 4,
+            "word": "371"
+        },
+        {
+            "alignedWord": "investigative",
+            "case": "success",
+            "end": 4.2700000000000005,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.43,
+            "startOffset": 8,
+            "word": "investigative"
+        },
+        {
+            "alignedWord": "matters",
+            "case": "success",
+            "end": 4.78,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.28,
+            "startOffset": 22,
+            "word": "matters"
+        },
+        {
+            "alignedWord": "during",
+            "case": "success",
+            "end": 5.1899999999999995,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 4.81,
+            "startOffset": 30,
+            "word": "during"
+        },
+        {
+            "alignedWord": "fiscal",
+            "case": "success",
+            "end": 5.65,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 5.19,
+            "startOffset": 37,
+            "word": "fiscal"
+        },
+        {
+            "alignedWord": "year",
+            "case": "success",
+            "end": 5.98,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "y_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 5.65,
+            "startOffset": 44,
+            "word": "year"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.12,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 1.14,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.98,
+            "startOffset": 49,
+            "word": "1963"
+        }
+    ]
+}

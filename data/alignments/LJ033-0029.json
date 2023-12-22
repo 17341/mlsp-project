@@ -1,0 +1,501 @@
+{
+    "transcript": "It would appear however that obtaining curtain rods was not the purpose of Oswald's trip to Irving on November 21.",
+    "words": [
+        {
+            "alignedWord": "it",
+            "case": "success",
+            "end": 0.13,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.06,
+            "startOffset": 0,
+            "word": "It"
+        },
+        {
+            "alignedWord": "would",
+            "case": "success",
+            "end": 0.29000000000000004,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.13,
+            "startOffset": 3,
+            "word": "would"
+        },
+        {
+            "alignedWord": "appear",
+            "case": "success",
+            "end": 0.7,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.29,
+            "startOffset": 9,
+            "word": "appear"
+        },
+        {
+            "alignedWord": "however",
+            "case": "success",
+            "end": 1.26,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.7,
+            "startOffset": 16,
+            "word": "however"
+        },
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 1.46,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.29,
+            "startOffset": 24,
+            "word": "that"
+        },
+        {
+            "alignedWord": "obtaining",
+            "case": "success",
+            "end": 1.95,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 1.46,
+            "startOffset": 29,
+            "word": "obtaining"
+        },
+        {
+            "alignedWord": "curtain",
+            "case": "success",
+            "end": 2.37,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.95,
+            "startOffset": 39,
+            "word": "curtain"
+        },
+        {
+            "alignedWord": "rods",
+            "case": "success",
+            "end": 2.73,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.37,
+            "startOffset": 47,
+            "word": "rods"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 2.94,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.76,
+            "startOffset": 52,
+            "word": "was"
+        },
+        {
+            "alignedWord": "not",
+            "case": "success",
+            "end": 3.1799999999999997,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.94,
+            "startOffset": 56,
+            "word": "not"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.2800000000000002,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.18,
+            "startOffset": 60,
+            "word": "the"
+        },
+        {
+            "alignedWord": "purpose",
+            "case": "success",
+            "end": 3.67,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.28,
+            "startOffset": 64,
+            "word": "purpose"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.82,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.67,
+            "startOffset": 72,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.38,
+            "endOffset": 83,
+            "phones": [
+                {
+                    "duration": 0.56,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.82,
+            "startOffset": 75,
+            "word": "Oswald's"
+        },
+        {
+            "alignedWord": "trip",
+            "case": "success",
+            "end": 4.74,
+            "endOffset": 88,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 4.44,
+            "startOffset": 84,
+            "word": "trip"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 4.91,
+            "endOffset": 91,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 4.74,
+            "startOffset": 89,
+            "word": "to"
+        },
+        {
+            "alignedWord": "irving",
+            "case": "success",
+            "end": 5.49,
+            "endOffset": 98,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "er_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 4.98,
+            "startOffset": 92,
+            "word": "Irving"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 6.01,
+            "endOffset": 101,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.79,
+            "startOffset": 99,
+            "word": "on"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 6.45,
+            "endOffset": 110,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 6.01,
+            "startOffset": 102,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.11,
+            "endOffset": 113,
+            "phones": [
+                {
+                    "duration": 0.66,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.45,
+            "startOffset": 111,
+            "word": "21"
+        }
+    ]
+}

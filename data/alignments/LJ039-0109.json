@@ -1,0 +1,201 @@
+{
+    "transcript": ".45 caliber pistol and 12-gauge riot gun.",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.62,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.61,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 1,
+            "word": "45"
+        },
+        {
+            "alignedWord": "caliber",
+            "case": "success",
+            "end": 1.15,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.65,
+            "startOffset": 4,
+            "word": "caliber"
+        },
+        {
+            "alignedWord": "pistol",
+            "case": "success",
+            "end": 1.8199999999999998,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 1.16,
+            "startOffset": 12,
+            "word": "pistol"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 2.25,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.04,
+            "startOffset": 19,
+            "word": "and"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.64,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.39,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.25,
+            "startOffset": 23,
+            "word": "12"
+        },
+        {
+            "alignedWord": "gauge",
+            "case": "success",
+            "end": 3.01,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "jh_E"
+                }
+            ],
+            "start": 2.65,
+            "startOffset": 26,
+            "word": "gauge"
+        },
+        {
+            "alignedWord": "riot",
+            "case": "success",
+            "end": 3.47,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.02,
+            "startOffset": 32,
+            "word": "riot"
+        },
+        {
+            "alignedWord": "gun",
+            "case": "success",
+            "end": 3.75,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.52,
+            "startOffset": 37,
+            "word": "gun"
+        }
+    ]
+}

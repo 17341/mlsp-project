@@ -1,0 +1,294 @@
+{
+    "transcript": "and that no more than 197 creditors recovered debts and costs.",
+    "words": [
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 0.51,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 0,
+            "word": "and"
+        },
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 0.92,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.67,
+            "startOffset": 4,
+            "word": "that"
+        },
+        {
+            "alignedWord": "no",
+            "case": "success",
+            "end": 1.26,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 1.04,
+            "startOffset": 9,
+            "word": "no"
+        },
+        {
+            "alignedWord": "more",
+            "case": "success",
+            "end": 1.51,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.26,
+            "startOffset": 12,
+            "word": "more"
+        },
+        {
+            "alignedWord": "than",
+            "case": "success",
+            "end": 1.69,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.02,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.51,
+            "startOffset": 17,
+            "word": "than"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.01,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 1.32,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.69,
+            "startOffset": 22,
+            "word": "197"
+        },
+        {
+            "alignedWord": "creditors",
+            "case": "success",
+            "end": 3.7699999999999996,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.03,
+            "startOffset": 26,
+            "word": "creditors"
+        },
+        {
+            "alignedWord": "recovered",
+            "case": "success",
+            "end": 4.32,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.77,
+            "startOffset": 36,
+            "word": "recovered"
+        },
+        {
+            "alignedWord": "debts",
+            "case": "success",
+            "end": 4.74,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.33,
+            "startOffset": 46,
+            "word": "debts"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 4.98,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.79,
+            "startOffset": 52,
+            "word": "and"
+        },
+        {
+            "alignedWord": "costs",
+            "case": "success",
+            "end": 5.4,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.26,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.98,
+            "startOffset": 56,
+            "word": "costs"
+        }
+    ]
+}

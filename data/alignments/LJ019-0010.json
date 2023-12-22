@@ -1,0 +1,340 @@
+{
+    "transcript": "As regards the first however Sir James Graham when Home Secretary in 1843",
+    "words": [
+        {
+            "alignedWord": "as",
+            "case": "success",
+            "end": 0.23,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 0,
+            "word": "As"
+        },
+        {
+            "alignedWord": "regards",
+            "case": "success",
+            "end": 0.73,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.23,
+            "startOffset": 3,
+            "word": "regards"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.85,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.73,
+            "startOffset": 11,
+            "word": "the"
+        },
+        {
+            "alignedWord": "first",
+            "case": "success",
+            "end": 1.35,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.85,
+            "startOffset": 15,
+            "word": "first"
+        },
+        {
+            "alignedWord": "however",
+            "case": "success",
+            "end": 1.8900000000000001,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.35,
+            "startOffset": 21,
+            "word": "however"
+        },
+        {
+            "alignedWord": "sir",
+            "case": "success",
+            "end": 2.58,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.31,
+            "startOffset": 29,
+            "word": "Sir"
+        },
+        {
+            "alignedWord": "james",
+            "case": "success",
+            "end": 3.05,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.59,
+            "startOffset": 33,
+            "word": "James"
+        },
+        {
+            "alignedWord": "graham",
+            "case": "success",
+            "end": 3.63,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 3.05,
+            "startOffset": 39,
+            "word": "Graham"
+        },
+        {
+            "alignedWord": "when",
+            "case": "success",
+            "end": 4.13,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.93,
+            "startOffset": 46,
+            "word": "when"
+        },
+        {
+            "alignedWord": "home",
+            "case": "success",
+            "end": 4.42,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 4.14,
+            "startOffset": 51,
+            "word": "Home"
+        },
+        {
+            "alignedWord": "secretary",
+            "case": "success",
+            "end": 5.1899999999999995,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 4.42,
+            "startOffset": 56,
+            "word": "Secretary"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.3500000000000005,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.19,
+            "startOffset": 66,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.609999999999999,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 1.26,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.35,
+            "startOffset": 69,
+            "word": "1843"
+        }
+    ]
+}

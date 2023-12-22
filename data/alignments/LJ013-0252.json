@@ -1,0 +1,498 @@
+{
+    "transcript": "One called his sister but supposed to be his wife had occupied a room in South Street Manchester Square",
+    "words": [
+        {
+            "alignedWord": "one",
+            "case": "success",
+            "end": 0.37,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.04,
+            "startOffset": 0,
+            "word": "One"
+        },
+        {
+            "alignedWord": "called",
+            "case": "success",
+            "end": 0.85,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.44,
+            "startOffset": 4,
+            "word": "called"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 1.06,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.85,
+            "startOffset": 11,
+            "word": "his"
+        },
+        {
+            "alignedWord": "sister",
+            "case": "success",
+            "end": 1.53,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.06,
+            "startOffset": 15,
+            "word": "sister"
+        },
+        {
+            "alignedWord": "but",
+            "case": "success",
+            "end": 1.73,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.53,
+            "startOffset": 22,
+            "word": "but"
+        },
+        {
+            "alignedWord": "supposed",
+            "case": "success",
+            "end": 2.37,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.74,
+            "startOffset": 26,
+            "word": "supposed"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 2.53,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 2.42,
+            "startOffset": 35,
+            "word": "to"
+        },
+        {
+            "alignedWord": "be",
+            "case": "success",
+            "end": 2.74,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.54,
+            "startOffset": 38,
+            "word": "be"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 2.9800000000000004,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.74,
+            "startOffset": 41,
+            "word": "his"
+        },
+        {
+            "alignedWord": "wife",
+            "case": "success",
+            "end": 3.55,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "f_E"
+                }
+            ],
+            "start": 2.98,
+            "startOffset": 45,
+            "word": "wife"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 4.07,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.87,
+            "startOffset": 50,
+            "word": "had"
+        },
+        {
+            "alignedWord": "occupied",
+            "case": "success",
+            "end": 4.65,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.07,
+            "startOffset": 54,
+            "word": "occupied"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 4.74,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 4.65,
+            "startOffset": 63,
+            "word": "a"
+        },
+        {
+            "alignedWord": "room",
+            "case": "success",
+            "end": 5.0200000000000005,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 4.74,
+            "startOffset": 65,
+            "word": "room"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.24,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.03,
+            "startOffset": 70,
+            "word": "in"
+        },
+        {
+            "alignedWord": "south",
+            "case": "success",
+            "end": 5.6000000000000005,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 5.24,
+            "startOffset": 73,
+            "word": "South"
+        },
+        {
+            "alignedWord": "street",
+            "case": "success",
+            "end": 6.1499999999999995,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.6,
+            "startOffset": 79,
+            "word": "Street"
+        },
+        {
+            "alignedWord": "manchester",
+            "case": "success",
+            "end": 7.12,
+            "endOffset": 96,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 6.38,
+            "startOffset": 86,
+            "word": "Manchester"
+        },
+        {
+            "alignedWord": "square",
+            "case": "success",
+            "end": 7.640000000000001,
+            "endOffset": 103,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 7.12,
+            "startOffset": 97,
+            "word": "Square"
+        }
+    ]
+}

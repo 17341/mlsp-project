@@ -1,0 +1,378 @@
+{
+    "transcript": "that their condition was more natural and approximated more nearly to that of daily life.",
+    "words": [
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 0.15,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.12,
+            "startOffset": 0,
+            "word": "that"
+        },
+        {
+            "alignedWord": "their",
+            "case": "success",
+            "end": 0.3,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.15,
+            "startOffset": 5,
+            "word": "their"
+        },
+        {
+            "alignedWord": "condition",
+            "case": "success",
+            "end": 0.8300000000000001,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.3,
+            "startOffset": 11,
+            "word": "condition"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 1.0,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.83,
+            "startOffset": 21,
+            "word": "was"
+        },
+        {
+            "alignedWord": "more",
+            "case": "success",
+            "end": 1.22,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.0,
+            "startOffset": 25,
+            "word": "more"
+        },
+        {
+            "alignedWord": "natural",
+            "case": "success",
+            "end": 1.85,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 1.22,
+            "startOffset": 30,
+            "word": "natural"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 2.33,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.13,
+            "startOffset": 38,
+            "word": "and"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.1100000000000003,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.72,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.39,
+            "startOffset": 42,
+            "word": "approximated"
+        },
+        {
+            "alignedWord": "more",
+            "case": "success",
+            "end": 3.35,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 3.14,
+            "startOffset": 55,
+            "word": "more"
+        },
+        {
+            "alignedWord": "nearly",
+            "case": "success",
+            "end": 3.9000000000000004,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.35,
+            "startOffset": 60,
+            "word": "nearly"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 4.05,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 3.92,
+            "startOffset": 67,
+            "word": "to"
+        },
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 4.27,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.05,
+            "startOffset": 70,
+            "word": "that"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 4.409999999999999,
+            "endOffset": 77,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.27,
+            "startOffset": 75,
+            "word": "of"
+        },
+        {
+            "alignedWord": "daily",
+            "case": "success",
+            "end": 4.79,
+            "endOffset": 83,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 4.41,
+            "startOffset": 78,
+            "word": "daily"
+        },
+        {
+            "alignedWord": "life",
+            "case": "success",
+            "end": 5.16,
+            "endOffset": 88,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "f_E"
+                }
+            ],
+            "start": 4.79,
+            "startOffset": 84,
+            "word": "life"
+        }
+    ]
+}

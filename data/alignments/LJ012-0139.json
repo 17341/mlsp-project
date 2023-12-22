@@ -1,0 +1,339 @@
+{
+    "transcript": "Solomons had sold bar gold to the value of \u00a31200 to certain bullion dealers.",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.8,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.73,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 0,
+            "word": "Solomons"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 1.31,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.09,
+            "startOffset": 9,
+            "word": "had"
+        },
+        {
+            "alignedWord": "sold",
+            "case": "success",
+            "end": 1.69,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.31,
+            "startOffset": 13,
+            "word": "sold"
+        },
+        {
+            "alignedWord": "bar",
+            "case": "success",
+            "end": 2.05,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.7,
+            "startOffset": 18,
+            "word": "bar"
+        },
+        {
+            "alignedWord": "gold",
+            "case": "success",
+            "end": 2.4899999999999998,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.05,
+            "startOffset": 22,
+            "word": "gold"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 2.68,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 2.56,
+            "startOffset": 27,
+            "word": "to"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.77,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.68,
+            "startOffset": 30,
+            "word": "the"
+        },
+        {
+            "alignedWord": "value",
+            "case": "success",
+            "end": 3.17,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 2.77,
+            "startOffset": 34,
+            "word": "value"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.19,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.17,
+            "startOffset": 40,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.35,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 2.16,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.19,
+            "startOffset": 44,
+            "word": "1200"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 5.83,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 5.66,
+            "startOffset": 49,
+            "word": "to"
+        },
+        {
+            "alignedWord": "certain",
+            "case": "success",
+            "end": 6.29,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.83,
+            "startOffset": 52,
+            "word": "certain"
+        },
+        {
+            "alignedWord": "bullion",
+            "case": "success",
+            "end": 6.76,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.3,
+            "startOffset": 60,
+            "word": "bullion"
+        },
+        {
+            "alignedWord": "dealers",
+            "case": "success",
+            "end": 7.3999999999999995,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.76,
+            "startOffset": 68,
+            "word": "dealers"
+        }
+    ]
+}

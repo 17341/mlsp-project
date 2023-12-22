@@ -1,0 +1,480 @@
+{
+    "transcript": "Congress passed a statute which in 1803 the Court said violated an express provision of the Constitution.",
+    "words": [
+        {
+            "alignedWord": "congress",
+            "case": "success",
+            "end": 0.52,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ng_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Congress"
+        },
+        {
+            "alignedWord": "passed",
+            "case": "success",
+            "end": 0.9500000000000001,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.56,
+            "startOffset": 9,
+            "word": "passed"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 1.03,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 0.95,
+            "startOffset": 16,
+            "word": "a"
+        },
+        {
+            "alignedWord": "statute",
+            "case": "success",
+            "end": 1.85,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.03,
+            "startOffset": 18,
+            "word": "statute"
+        },
+        {
+            "alignedWord": "which",
+            "case": "success",
+            "end": 2.46,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 2.0,
+            "startOffset": 26,
+            "word": "which"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 2.72,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.47,
+            "startOffset": 32,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.1,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 1.08,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.02,
+            "startOffset": 35,
+            "word": "1803"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.56,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.42,
+            "startOffset": 40,
+            "word": "the"
+        },
+        {
+            "alignedWord": "court",
+            "case": "success",
+            "end": 4.93,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.56,
+            "startOffset": 44,
+            "word": "Court"
+        },
+        {
+            "alignedWord": "said",
+            "case": "success",
+            "end": 5.38,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.93,
+            "startOffset": 50,
+            "word": "said"
+        },
+        {
+            "alignedWord": "violated",
+            "case": "success",
+            "end": 6.27,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.39,
+            "startOffset": 55,
+            "word": "violated"
+        },
+        {
+            "alignedWord": "an",
+            "case": "success",
+            "end": 6.58,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.41,
+            "startOffset": 64,
+            "word": "an"
+        },
+        {
+            "alignedWord": "express",
+            "case": "success",
+            "end": 7.19,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 6.58,
+            "startOffset": 67,
+            "word": "express"
+        },
+        {
+            "alignedWord": "provision",
+            "case": "success",
+            "end": 7.9,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "zh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 7.23,
+            "startOffset": 75,
+            "word": "provision"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 8.11,
+            "endOffset": 87,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 7.95,
+            "startOffset": 85,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 8.19,
+            "endOffset": 91,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 8.11,
+            "startOffset": 88,
+            "word": "the"
+        },
+        {
+            "alignedWord": "constitution",
+            "case": "success",
+            "end": 9.059999999999999,
+            "endOffset": 104,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                }
+            ],
+            "start": 8.19,
+            "startOffset": 92,
+            "word": "Constitution"
+        }
+    ]
+}

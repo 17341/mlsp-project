@@ -1,0 +1,372 @@
+{
+    "transcript": "and Susannah Evans, in October the same year, for 2 shillings, with costs of 6 shillings, 8 pence.",
+    "words": [
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 0.24000000000000002,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "and"
+        },
+        {
+            "alignedWord": "susannah",
+            "case": "success",
+            "end": 0.82,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.24,
+            "startOffset": 4,
+            "word": "Susannah"
+        },
+        {
+            "alignedWord": "evans",
+            "case": "success",
+            "end": 1.4,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.87,
+            "startOffset": 13,
+            "word": "Evans"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 1.79,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.58,
+            "startOffset": 20,
+            "word": "in"
+        },
+        {
+            "alignedWord": "october",
+            "case": "success",
+            "end": 2.34,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.79,
+            "startOffset": 23,
+            "word": "October"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.48,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.34,
+            "startOffset": 31,
+            "word": "the"
+        },
+        {
+            "alignedWord": "same",
+            "case": "success",
+            "end": 2.82,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 2.48,
+            "startOffset": 35,
+            "word": "same"
+        },
+        {
+            "alignedWord": "year",
+            "case": "success",
+            "end": 3.2600000000000002,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "y_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 2.83,
+            "startOffset": 40,
+            "word": "year"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 3.73,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 3.5,
+            "startOffset": 46,
+            "word": "for"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.59,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.84,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.75,
+            "startOffset": 50,
+            "word": "2"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 61,
+            "startOffset": 52,
+            "word": "shillings"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 5.19,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 4.96,
+            "startOffset": 63,
+            "word": "with"
+        },
+        {
+            "alignedWord": "costs",
+            "case": "success",
+            "end": 5.61,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 5.19,
+            "startOffset": 68,
+            "word": "costs"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 5.63,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 5.61,
+            "startOffset": 74,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.779999999999999,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 1.15,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.63,
+            "startOffset": 77,
+            "word": "6"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.67,
+            "endOffset": 88,
+            "phones": [
+                {
+                    "duration": 0.69,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.98,
+            "startOffset": 79,
+            "word": "shillings"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 91,
+            "startOffset": 90,
+            "word": "8"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 97,
+            "startOffset": 92,
+            "word": "pence"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "transcript": "This was in May 1842.",
+    "words": [
+        {
+            "alignedWord": "this",
+            "case": "success",
+            "end": 0.26,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 0,
+            "word": "This"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 0.42000000000000004,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.26,
+            "startOffset": 5,
+            "word": "was"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 0.65,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.42,
+            "startOffset": 9,
+            "word": "in"
+        },
+        {
+            "alignedWord": "may",
+            "case": "success",
+            "end": 1.19,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.44,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 0.65,
+            "startOffset": 12,
+            "word": "May"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.38,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 1.1,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.28,
+            "startOffset": 16,
+            "word": "1842"
+        }
+    ]
+}

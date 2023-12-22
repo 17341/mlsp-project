@@ -1,0 +1,194 @@
+{
+    "transcript": "The conversation on Monday November 18 1963",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.02,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "conversation",
+            "case": "success",
+            "end": 0.9299999999999999,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.1,
+            "startOffset": 4,
+            "word": "conversation"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 1.1,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.93,
+            "startOffset": 17,
+            "word": "on"
+        },
+        {
+            "alignedWord": "monday",
+            "case": "success",
+            "end": 1.5,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 1.1,
+            "startOffset": 20,
+            "word": "Monday"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 1.97,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.5,
+            "startOffset": 27,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.51,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.52,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.99,
+            "startOffset": 36,
+            "word": "18"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.91,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 1.36,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.55,
+            "startOffset": 39,
+            "word": "1963"
+        }
+    ]
+}

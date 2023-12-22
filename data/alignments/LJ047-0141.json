@@ -1,0 +1,116 @@
+{
+    "transcript": "in early October of 1963.",
+    "words": [
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 0.12,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.06,
+            "startOffset": 0,
+            "word": "in"
+        },
+        {
+            "alignedWord": "early",
+            "case": "success",
+            "end": 0.5700000000000001,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.21,
+                    "phone": "er_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.18,
+            "startOffset": 3,
+            "word": "early"
+        },
+        {
+            "alignedWord": "october",
+            "case": "success",
+            "end": 1.1099999999999999,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.57,
+            "startOffset": 9,
+            "word": "October"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.26,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.11,
+            "startOffset": 17,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.4,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 1.14,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.26,
+            "startOffset": 20,
+            "word": "1963"
+        }
+    ]
+}

@@ -1,0 +1,499 @@
+{
+    "transcript": "(2) persons under sentence of imprisonment for a fixed period or until they shall have paid certain fines;",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.5800000000000001,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.2,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.38,
+            "startOffset": 1,
+            "word": "2"
+        },
+        {
+            "alignedWord": "persons",
+            "case": "success",
+            "end": 1.31,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.81,
+            "startOffset": 4,
+            "word": "persons"
+        },
+        {
+            "alignedWord": "under",
+            "case": "success",
+            "end": 1.6400000000000001,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.36,
+            "startOffset": 12,
+            "word": "under"
+        },
+        {
+            "alignedWord": "sentence",
+            "case": "success",
+            "end": 2.12,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.64,
+            "startOffset": 18,
+            "word": "sentence"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 2.27,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.12,
+            "startOffset": 27,
+            "word": "of"
+        },
+        {
+            "alignedWord": "imprisonment",
+            "case": "success",
+            "end": 3.05,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.27,
+            "startOffset": 30,
+            "word": "imprisonment"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 3.36,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 3.13,
+            "startOffset": 43,
+            "word": "for"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 3.42,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 3.36,
+            "startOffset": 47,
+            "word": "a"
+        },
+        {
+            "alignedWord": "fixed",
+            "case": "success",
+            "end": 3.81,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.42,
+            "startOffset": 49,
+            "word": "fixed"
+        },
+        {
+            "alignedWord": "period",
+            "case": "success",
+            "end": 4.5200000000000005,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.85,
+            "startOffset": 55,
+            "word": "period"
+        },
+        {
+            "alignedWord": "or",
+            "case": "success",
+            "end": 5.13,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 4.89,
+            "startOffset": 62,
+            "word": "or"
+        },
+        {
+            "alignedWord": "until",
+            "case": "success",
+            "end": 5.47,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 5.13,
+            "startOffset": 65,
+            "word": "until"
+        },
+        {
+            "alignedWord": "they",
+            "case": "success",
+            "end": 5.63,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 5.47,
+            "startOffset": 71,
+            "word": "they"
+        },
+        {
+            "alignedWord": "shall",
+            "case": "success",
+            "end": 5.91,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 5.63,
+            "startOffset": 76,
+            "word": "shall"
+        },
+        {
+            "alignedWord": "have",
+            "case": "success",
+            "end": 6.1000000000000005,
+            "endOffset": 86,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 5.91,
+            "startOffset": 82,
+            "word": "have"
+        },
+        {
+            "alignedWord": "paid",
+            "case": "success",
+            "end": 6.51,
+            "endOffset": 91,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 6.1,
+            "startOffset": 87,
+            "word": "paid"
+        },
+        {
+            "alignedWord": "certain",
+            "case": "success",
+            "end": 6.9399999999999995,
+            "endOffset": 99,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.52,
+            "startOffset": 92,
+            "word": "certain"
+        },
+        {
+            "alignedWord": "fines",
+            "case": "success",
+            "end": 7.640000000000001,
+            "endOffset": 105,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.26,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.95,
+            "startOffset": 100,
+            "word": "fines"
+        }
+    ]
+}

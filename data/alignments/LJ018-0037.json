@@ -1,0 +1,384 @@
+{
+    "transcript": "In searching the prisoner's box Mr. Briggs' watch was found wrapped up in a piece of leather",
+    "words": [
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 0.30000000000000004,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 0,
+            "word": "In"
+        },
+        {
+            "alignedWord": "searching",
+            "case": "success",
+            "end": 0.73,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.3,
+            "startOffset": 3,
+            "word": "searching"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.85,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.73,
+            "startOffset": 13,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.38,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.53,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.85,
+            "startOffset": 17,
+            "word": "prisoner's"
+        },
+        {
+            "alignedWord": "box",
+            "case": "success",
+            "end": 1.91,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.4,
+            "startOffset": 28,
+            "word": "box"
+        },
+        {
+            "alignedWord": "mr",
+            "case": "success",
+            "end": 2.27,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.93,
+            "startOffset": 32,
+            "word": "Mr"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.75,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.48,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.27,
+            "startOffset": 36,
+            "word": "Briggs"
+        },
+        {
+            "alignedWord": "watch",
+            "case": "success",
+            "end": 3.1199999999999997,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 2.78,
+            "startOffset": 44,
+            "word": "watch"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 3.3400000000000003,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.12,
+            "startOffset": 50,
+            "word": "was"
+        },
+        {
+            "alignedWord": "found",
+            "case": "success",
+            "end": 3.9,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.34,
+            "startOffset": 54,
+            "word": "found"
+        },
+        {
+            "alignedWord": "wrapped",
+            "case": "success",
+            "end": 4.49,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.13,
+            "startOffset": 60,
+            "word": "wrapped"
+        },
+        {
+            "alignedWord": "up",
+            "case": "success",
+            "end": 4.69,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 4.49,
+            "startOffset": 68,
+            "word": "up"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 4.8999999999999995,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.72,
+            "startOffset": 71,
+            "word": "in"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 4.96,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 4.9,
+            "startOffset": 74,
+            "word": "a"
+        },
+        {
+            "alignedWord": "piece",
+            "case": "success",
+            "end": 5.23,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.96,
+            "startOffset": 76,
+            "word": "piece"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 5.430000000000001,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 5.23,
+            "startOffset": 82,
+            "word": "of"
+        },
+        {
+            "alignedWord": "leather",
+            "case": "success",
+            "end": 5.75,
+            "endOffset": 92,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.43,
+            "startOffset": 85,
+            "word": "leather"
+        }
+    ]
+}

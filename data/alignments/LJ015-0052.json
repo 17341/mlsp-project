@@ -1,0 +1,114 @@
+{
+    "transcript": "to the value of \u00a320 000.",
+    "words": [
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 0.12,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "to"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.24,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.12,
+            "startOffset": 3,
+            "word": "the"
+        },
+        {
+            "alignedWord": "value",
+            "case": "success",
+            "end": 0.69,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 0.24,
+            "startOffset": 7,
+            "word": "value"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 0.74,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 0.69,
+            "startOffset": 13,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.2199999999999998,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 1.48,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.74,
+            "startOffset": 17,
+            "word": "20"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 23,
+            "startOffset": 20,
+            "word": "000"
+        }
+    ]
+}

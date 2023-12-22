@@ -1,0 +1,340 @@
+{
+    "transcript": "as those followed in 1936 during a trip to Dallas by President Roosevelt",
+    "words": [
+        {
+            "alignedWord": "as",
+            "case": "success",
+            "end": 0.16,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.1,
+            "startOffset": 0,
+            "word": "as"
+        },
+        {
+            "alignedWord": "those",
+            "case": "success",
+            "end": 0.52,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.19,
+            "startOffset": 3,
+            "word": "those"
+        },
+        {
+            "alignedWord": "followed",
+            "case": "success",
+            "end": 0.95,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.52,
+            "startOffset": 9,
+            "word": "followed"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 1.0699999999999998,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.95,
+            "startOffset": 18,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.39,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 1.32,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.07,
+            "startOffset": 21,
+            "word": "1936"
+        },
+        {
+            "alignedWord": "during",
+            "case": "success",
+            "end": 2.81,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 2.4,
+            "startOffset": 26,
+            "word": "during"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 2.86,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 2.81,
+            "startOffset": 33,
+            "word": "a"
+        },
+        {
+            "alignedWord": "trip",
+            "case": "success",
+            "end": 3.11,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 2.86,
+            "startOffset": 35,
+            "word": "trip"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 3.2600000000000002,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 3.12,
+            "startOffset": 40,
+            "word": "to"
+        },
+        {
+            "alignedWord": "dallas",
+            "case": "success",
+            "end": 3.75,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.26,
+            "startOffset": 43,
+            "word": "Dallas"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 3.96,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 3.75,
+            "startOffset": 50,
+            "word": "by"
+        },
+        {
+            "alignedWord": "president",
+            "case": "success",
+            "end": 4.49,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.96,
+            "startOffset": 53,
+            "word": "President"
+        },
+        {
+            "alignedWord": "roosevelt",
+            "case": "success",
+            "end": 5.1899999999999995,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.51,
+            "startOffset": 63,
+            "word": "Roosevelt"
+        }
+    ]
+}

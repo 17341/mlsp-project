@@ -1,0 +1,251 @@
+{
+    "transcript": "On October 11 1962 the Employment Commission referred Oswald",
+    "words": [
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.22,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 0,
+            "word": "On"
+        },
+        {
+            "alignedWord": "october",
+            "case": "success",
+            "end": 0.85,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.25,
+            "startOffset": 3,
+            "word": "October"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 13,
+            "startOffset": 11,
+            "word": "11"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.72,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 1.84,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.88,
+            "startOffset": 14,
+            "word": "1962"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.15,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.0,
+            "startOffset": 19,
+            "word": "the"
+        },
+        {
+            "alignedWord": "employment",
+            "case": "success",
+            "end": 3.75,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "oy_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.15,
+            "startOffset": 23,
+            "word": "Employment"
+        },
+        {
+            "alignedWord": "commission",
+            "case": "success",
+            "end": 4.33,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.77,
+            "startOffset": 34,
+            "word": "Commission"
+        },
+        {
+            "alignedWord": "referred",
+            "case": "success",
+            "end": 4.83,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.33,
+            "startOffset": 45,
+            "word": "referred"
+        },
+        {
+            "alignedWord": "oswald",
+            "case": "success",
+            "end": 5.53,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.87,
+            "startOffset": 54,
+            "word": "Oswald"
+        }
+    ]
+}

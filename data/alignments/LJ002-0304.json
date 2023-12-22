@@ -1,0 +1,388 @@
+{
+    "transcript": "The sheriff demanded 4 shillings, 6 pence for his liberate, the jailer 6 shillings, 10 pence more, and the turnkey 2 shillings;",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.09,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "sheriff",
+            "case": "success",
+            "end": 0.6,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "f_E"
+                }
+            ],
+            "start": 0.09,
+            "startOffset": 4,
+            "word": "sheriff"
+        },
+        {
+            "alignedWord": "demanded",
+            "case": "success",
+            "end": 1.1400000000000001,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.6,
+            "startOffset": 12,
+            "word": "demanded"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 22,
+            "startOffset": 21,
+            "word": "4"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 32,
+            "startOffset": 23,
+            "word": "shillings"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 35,
+            "startOffset": 34,
+            "word": "6"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.67,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 1.5,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.17,
+            "startOffset": 36,
+            "word": "pence"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 2.85,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.68,
+            "startOffset": 42,
+            "word": "for"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 3.09,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.85,
+            "startOffset": 46,
+            "word": "his"
+        },
+        {
+            "alignedWord": "liberate",
+            "case": "success",
+            "end": 3.6799999999999997,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.09,
+            "startOffset": 50,
+            "word": "liberate"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.340000000000001,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.19,
+            "startOffset": 60,
+            "word": "the"
+        },
+        {
+            "alignedWord": "jailer",
+            "case": "success",
+            "end": 5.01,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.34,
+            "startOffset": 64,
+            "word": "jailer"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.6499999999999995,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 1.38,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.27,
+            "startOffset": 71,
+            "word": "6"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 82,
+            "startOffset": 73,
+            "word": "shillings"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 86,
+            "startOffset": 84,
+            "word": "10"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 92,
+            "startOffset": 87,
+            "word": "pence"
+        },
+        {
+            "alignedWord": "more",
+            "case": "success",
+            "end": 7.11,
+            "endOffset": 97,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 6.66,
+            "startOffset": 93,
+            "word": "more"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 7.74,
+            "endOffset": 102,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 7.55,
+            "startOffset": 99,
+            "word": "and"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 7.8500000000000005,
+            "endOffset": 106,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 7.74,
+            "startOffset": 103,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.51,
+            "endOffset": 114,
+            "phones": [
+                {
+                    "duration": 0.65,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.86,
+            "startOffset": 107,
+            "word": "turnkey"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 9.459999999999999,
+            "endOffset": 116,
+            "phones": [
+                {
+                    "duration": 0.77,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 8.69,
+            "startOffset": 115,
+            "word": "2"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 126,
+            "startOffset": 117,
+            "word": "shillings"
+        }
+    ]
+}

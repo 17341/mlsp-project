@@ -1,0 +1,398 @@
+{
+    "transcript": "On November 22, Fischer had apparently described the man as, quote, light-headed, end quote.",
+    "words": [
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.08,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "On"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 0.54,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.09,
+            "startOffset": 3,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.29,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.75,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.54,
+            "startOffset": 12,
+            "word": "22"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.99,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.31,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.68,
+            "startOffset": 16,
+            "word": "Fischer"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 2.15,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.0,
+            "startOffset": 24,
+            "word": "had"
+        },
+        {
+            "alignedWord": "apparently",
+            "case": "success",
+            "end": 2.7,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.15,
+            "startOffset": 28,
+            "word": "apparently"
+        },
+        {
+            "alignedWord": "described",
+            "case": "success",
+            "end": 3.1900000000000004,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.7,
+            "startOffset": 39,
+            "word": "described"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.3000000000000003,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.2,
+            "startOffset": 49,
+            "word": "the"
+        },
+        {
+            "alignedWord": "man",
+            "case": "success",
+            "end": 3.57,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.3,
+            "startOffset": 53,
+            "word": "man"
+        },
+        {
+            "alignedWord": "as",
+            "case": "success",
+            "end": 3.76,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.57,
+            "startOffset": 57,
+            "word": "as"
+        },
+        {
+            "alignedWord": "quote",
+            "case": "success",
+            "end": 4.02,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.76,
+            "startOffset": 61,
+            "word": "quote"
+        },
+        {
+            "alignedWord": "light",
+            "case": "success",
+            "end": 4.38,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.03,
+            "startOffset": 68,
+            "word": "light"
+        },
+        {
+            "alignedWord": "headed",
+            "case": "success",
+            "end": 4.83,
+            "endOffset": 80,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.38,
+            "startOffset": 74,
+            "word": "headed"
+        },
+        {
+            "alignedWord": "end",
+            "case": "success",
+            "end": 5.640000000000001,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.4,
+            "startOffset": 82,
+            "word": "end"
+        },
+        {
+            "alignedWord": "quote",
+            "case": "success",
+            "end": 5.99,
+            "endOffset": 91,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.65,
+            "startOffset": 86,
+            "word": "quote"
+        }
+    ]
+}

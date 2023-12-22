@@ -1,0 +1,322 @@
+{
+    "transcript": "In January 1964 Marina Oswald and her business manager James Martin",
+    "words": [
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 0.2,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.1,
+            "startOffset": 0,
+            "word": "In"
+        },
+        {
+            "alignedWord": "january",
+            "case": "success",
+            "end": 0.94,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.2,
+            "startOffset": 3,
+            "word": "January"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.45,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 1.49,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.96,
+            "startOffset": 11,
+            "word": "1964"
+        },
+        {
+            "alignedWord": "marina",
+            "case": "success",
+            "end": 3.37,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.85,
+            "startOffset": 16,
+            "word": "Marina"
+        },
+        {
+            "alignedWord": "oswald",
+            "case": "success",
+            "end": 4.06,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.21,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.42,
+            "startOffset": 23,
+            "word": "Oswald"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 4.279999999999999,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.1,
+            "startOffset": 30,
+            "word": "and"
+        },
+        {
+            "alignedWord": "her",
+            "case": "success",
+            "end": 4.42,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.28,
+            "startOffset": 34,
+            "word": "her"
+        },
+        {
+            "alignedWord": "business",
+            "case": "success",
+            "end": 4.93,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.42,
+            "startOffset": 38,
+            "word": "business"
+        },
+        {
+            "alignedWord": "manager",
+            "case": "success",
+            "end": 5.51,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.93,
+            "startOffset": 47,
+            "word": "manager"
+        },
+        {
+            "alignedWord": "james",
+            "case": "success",
+            "end": 6.0,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 5.52,
+            "startOffset": 55,
+            "word": "James"
+        },
+        {
+            "alignedWord": "martin",
+            "case": "success",
+            "end": 6.38,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.0,
+            "startOffset": 61,
+            "word": "Martin"
+        }
+    ]
+}

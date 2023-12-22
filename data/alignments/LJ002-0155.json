@@ -1,0 +1,158 @@
+{
+    "transcript": "for which the costs were 6 shillings 10 pence.",
+    "words": [
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 0.14,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "for"
+        },
+        {
+            "alignedWord": "which",
+            "case": "success",
+            "end": 0.41000000000000003,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 4,
+            "word": "which"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.51,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.41,
+            "startOffset": 10,
+            "word": "the"
+        },
+        {
+            "alignedWord": "costs",
+            "case": "success",
+            "end": 1.08,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.51,
+            "startOffset": 14,
+            "word": "costs"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 1.23,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.08,
+            "startOffset": 20,
+            "word": "were"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.16,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.93,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.23,
+            "startOffset": 25,
+            "word": "6"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.02,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.56,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.46,
+            "startOffset": 27,
+            "word": "shillings"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 39,
+            "startOffset": 37,
+            "word": "10"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 45,
+            "startOffset": 40,
+            "word": "pence"
+        }
+    ]
+}

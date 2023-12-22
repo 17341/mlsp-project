@@ -1,0 +1,226 @@
+{
+    "transcript": "by inserting say 1 before 500 and thus making it",
+    "words": [
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 0.18,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 0.1,
+            "startOffset": 0,
+            "word": "by"
+        },
+        {
+            "alignedWord": "inserting",
+            "case": "success",
+            "end": 0.8400000000000001,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.19,
+            "startOffset": 3,
+            "word": "inserting"
+        },
+        {
+            "alignedWord": "say",
+            "case": "success",
+            "end": 1.3599999999999999,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.36,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 0.84,
+            "startOffset": 13,
+            "word": "say"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.0,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.57,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.43,
+            "startOffset": 17,
+            "word": "1"
+        },
+        {
+            "alignedWord": "before",
+            "case": "success",
+            "end": 2.66,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 2.2,
+            "startOffset": 19,
+            "word": "before"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.44,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.77,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.67,
+            "startOffset": 26,
+            "word": "500"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 3.7199999999999998,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.53,
+            "startOffset": 30,
+            "word": "and"
+        },
+        {
+            "alignedWord": "thus",
+            "case": "success",
+            "end": 3.9200000000000004,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.02,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.72,
+            "startOffset": 34,
+            "word": "thus"
+        },
+        {
+            "alignedWord": "making",
+            "case": "success",
+            "end": 4.43,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 3.95,
+            "startOffset": 39,
+            "word": "making"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 48,
+            "startOffset": 46,
+            "word": "it"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "transcript": "to May 14 1963.",
+    "words": [
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 0.07,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "to"
+        },
+        {
+            "alignedWord": "may",
+            "case": "success",
+            "end": 0.4,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 0.08,
+            "startOffset": 3,
+            "word": "May"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.19,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.78,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.41,
+            "startOffset": 7,
+            "word": "14"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.59,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 1.01,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.58,
+            "startOffset": 10,
+            "word": "1963"
+        }
+    ]
+}

@@ -1,0 +1,288 @@
+{
+    "transcript": "by meeting squarely our modern social and economic conditions.",
+    "words": [
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 0.15,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "by"
+        },
+        {
+            "alignedWord": "meeting",
+            "case": "success",
+            "end": 0.59,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.16,
+            "startOffset": 3,
+            "word": "meeting"
+        },
+        {
+            "alignedWord": "squarely",
+            "case": "success",
+            "end": 1.3199999999999998,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.59,
+            "startOffset": 11,
+            "word": "squarely"
+        },
+        {
+            "alignedWord": "our",
+            "case": "success",
+            "end": 1.5,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "aw_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.32,
+            "startOffset": 20,
+            "word": "our"
+        },
+        {
+            "alignedWord": "modern",
+            "case": "success",
+            "end": 2.06,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.51,
+            "startOffset": 24,
+            "word": "modern"
+        },
+        {
+            "alignedWord": "social",
+            "case": "success",
+            "end": 2.7399999999999998,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.22,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 2.13,
+            "startOffset": 31,
+            "word": "social"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 2.9400000000000004,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.74,
+            "startOffset": 38,
+            "word": "and"
+        },
+        {
+            "alignedWord": "economic",
+            "case": "success",
+            "end": 3.6100000000000003,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 2.97,
+            "startOffset": 42,
+            "word": "economic"
+        },
+        {
+            "alignedWord": "conditions",
+            "case": "success",
+            "end": 4.21,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.62,
+            "startOffset": 51,
+            "word": "conditions"
+        }
+    ]
+}

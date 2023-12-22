@@ -1,0 +1,451 @@
+{
+    "transcript": "In 1811 Williams who murdered the Marrs in Ratcliffe Highway having committed suicide in jail to escape hanging",
+    "words": [
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 0.49,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.23,
+            "startOffset": 0,
+            "word": "In"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.58,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 1.08,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.5,
+            "startOffset": 3,
+            "word": "1811"
+        },
+        {
+            "alignedWord": "williams",
+            "case": "success",
+            "end": 2.5300000000000002,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.87,
+            "startOffset": 8,
+            "word": "Williams"
+        },
+        {
+            "alignedWord": "who",
+            "case": "success",
+            "end": 2.71,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 2.53,
+            "startOffset": 17,
+            "word": "who"
+        },
+        {
+            "alignedWord": "murdered",
+            "case": "success",
+            "end": 3.21,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.72,
+            "startOffset": 21,
+            "word": "murdered"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.31,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.21,
+            "startOffset": 30,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.7800000000000002,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.47,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.31,
+            "startOffset": 34,
+            "word": "Marrs"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 3.93,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.79,
+            "startOffset": 40,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.43,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.5,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.93,
+            "startOffset": 43,
+            "word": "Ratcliffe"
+        },
+        {
+            "alignedWord": "highway",
+            "case": "success",
+            "end": 5.130000000000001,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.26,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 4.44,
+            "startOffset": 53,
+            "word": "Highway"
+        },
+        {
+            "alignedWord": "having",
+            "case": "success",
+            "end": 5.78,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 5.48,
+            "startOffset": 61,
+            "word": "having"
+        },
+        {
+            "alignedWord": "committed",
+            "case": "success",
+            "end": 6.25,
+            "endOffset": 77,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.78,
+            "startOffset": 68,
+            "word": "committed"
+        },
+        {
+            "alignedWord": "suicide",
+            "case": "success",
+            "end": 6.87,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 6.25,
+            "startOffset": 78,
+            "word": "suicide"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 7.0200000000000005,
+            "endOffset": 88,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.87,
+            "startOffset": 86,
+            "word": "in"
+        },
+        {
+            "alignedWord": "jail",
+            "case": "success",
+            "end": 7.35,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 7.02,
+            "startOffset": 89,
+            "word": "jail"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 7.529999999999999,
+            "endOffset": 96,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 7.35,
+            "startOffset": 94,
+            "word": "to"
+        },
+        {
+            "alignedWord": "escape",
+            "case": "success",
+            "end": 7.92,
+            "endOffset": 103,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 7.53,
+            "startOffset": 97,
+            "word": "escape"
+        },
+        {
+            "alignedWord": "hanging",
+            "case": "success",
+            "end": 8.37,
+            "endOffset": 111,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 7.93,
+            "startOffset": 104,
+            "word": "hanging"
+        }
+    ]
+}

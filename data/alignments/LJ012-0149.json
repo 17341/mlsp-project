@@ -1,0 +1,386 @@
+{
+    "transcript": "\"\"Money Moses\"\" and Mrs. Abrahams imposed upon Moss as to the price paid by Solomons;",
+    "words": [
+        {
+            "alignedWord": "money",
+            "case": "success",
+            "end": 0.39,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 2,
+            "word": "Money"
+        },
+        {
+            "alignedWord": "moses",
+            "case": "success",
+            "end": 0.96,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.39,
+            "startOffset": 8,
+            "word": "Moses"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 1.13,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.96,
+            "startOffset": 16,
+            "word": "and"
+        },
+        {
+            "alignedWord": "mrs",
+            "case": "success",
+            "end": 1.48,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.14,
+            "startOffset": 20,
+            "word": "Mrs"
+        },
+        {
+            "alignedWord": "abrahams",
+            "case": "success",
+            "end": 2.31,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "ey_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "hh_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.52,
+            "startOffset": 25,
+            "word": "Abrahams"
+        },
+        {
+            "alignedWord": "imposed",
+            "case": "success",
+            "end": 3.18,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.6,
+            "startOffset": 34,
+            "word": "imposed"
+        },
+        {
+            "alignedWord": "upon",
+            "case": "success",
+            "end": 3.5300000000000002,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.18,
+            "startOffset": 42,
+            "word": "upon"
+        },
+        {
+            "alignedWord": "moss",
+            "case": "success",
+            "end": 3.88,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.53,
+            "startOffset": 47,
+            "word": "Moss"
+        },
+        {
+            "alignedWord": "as",
+            "case": "success",
+            "end": 4.13,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.91,
+            "startOffset": 52,
+            "word": "as"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 4.24,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 4.13,
+            "startOffset": 55,
+            "word": "to"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.34,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.24,
+            "startOffset": 58,
+            "word": "the"
+        },
+        {
+            "alignedWord": "price",
+            "case": "success",
+            "end": 4.74,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.34,
+            "startOffset": 62,
+            "word": "price"
+        },
+        {
+            "alignedWord": "paid",
+            "case": "success",
+            "end": 5.0600000000000005,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.74,
+            "startOffset": 68,
+            "word": "paid"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 5.260000000000001,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 5.07,
+            "startOffset": 73,
+            "word": "by"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.93,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.66,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.27,
+            "startOffset": 76,
+            "word": "Solomons"
+        }
+    ]
+}

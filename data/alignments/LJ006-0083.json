@@ -1,0 +1,213 @@
+{
+    "transcript": "\"\"So great is the authority exercised by him\" \"",
+    "words": [
+        {
+            "alignedWord": "so",
+            "case": "success",
+            "end": 0.35000000000000003,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 2,
+            "word": "So"
+        },
+        {
+            "alignedWord": "great",
+            "case": "success",
+            "end": 0.7,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.35,
+            "startOffset": 5,
+            "word": "great"
+        },
+        {
+            "alignedWord": "is",
+            "case": "success",
+            "end": 0.8999999999999999,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.72,
+            "startOffset": 11,
+            "word": "is"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.04,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.9,
+            "startOffset": 14,
+            "word": "the"
+        },
+        {
+            "alignedWord": "authority",
+            "case": "success",
+            "end": 1.55,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "th_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.04,
+            "startOffset": 18,
+            "word": "authority"
+        },
+        {
+            "alignedWord": "exercised",
+            "case": "success",
+            "end": 2.2800000000000002,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.58,
+            "startOffset": 28,
+            "word": "exercised"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 2.5199999999999996,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 2.28,
+            "startOffset": 38,
+            "word": "by"
+        },
+        {
+            "alignedWord": "him",
+            "case": "success",
+            "end": 2.75,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 2.52,
+            "startOffset": 41,
+            "word": "him"
+        }
+    ]
+}

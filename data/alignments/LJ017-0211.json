@@ -1,0 +1,427 @@
+{
+    "transcript": "which left London for Singapore on the 28th July 1863 with a cargo of wine and other goods.",
+    "words": [
+        {
+            "alignedWord": "which",
+            "case": "success",
+            "end": 0.22,
+            "endOffset": 5,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "which"
+        },
+        {
+            "alignedWord": "left",
+            "case": "success",
+            "end": 0.55,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.22,
+            "startOffset": 6,
+            "word": "left"
+        },
+        {
+            "alignedWord": "london",
+            "case": "success",
+            "end": 0.98,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.55,
+            "startOffset": 11,
+            "word": "London"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 1.15,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.98,
+            "startOffset": 18,
+            "word": "for"
+        },
+        {
+            "alignedWord": "singapore",
+            "case": "success",
+            "end": 1.89,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ng_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 1.15,
+            "startOffset": 22,
+            "word": "Singapore"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 2.05,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.93,
+            "startOffset": 32,
+            "word": "on"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.1599999999999997,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.05,
+            "startOffset": 35,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.79,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.63,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.16,
+            "startOffset": 39,
+            "word": "28th"
+        },
+        {
+            "alignedWord": "july",
+            "case": "success",
+            "end": 3.56,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.45,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 2.83,
+            "startOffset": 44,
+            "word": "July"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.33,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 1.43,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.9,
+            "startOffset": 49,
+            "word": "1863"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 5.93,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 5.71,
+            "startOffset": 54,
+            "word": "with"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 6.0,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 5.93,
+            "startOffset": 59,
+            "word": "a"
+        },
+        {
+            "alignedWord": "cargo",
+            "case": "success",
+            "end": 6.6,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 6.02,
+            "startOffset": 61,
+            "word": "cargo"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 6.72,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 6.6,
+            "startOffset": 67,
+            "word": "of"
+        },
+        {
+            "alignedWord": "wine",
+            "case": "success",
+            "end": 7.2,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.74,
+            "startOffset": 70,
+            "word": "wine"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 7.41,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 7.2,
+            "startOffset": 75,
+            "word": "and"
+        },
+        {
+            "alignedWord": "other",
+            "case": "success",
+            "end": 7.739999999999999,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 7.43,
+            "startOffset": 79,
+            "word": "other"
+        },
+        {
+            "alignedWord": "goods",
+            "case": "success",
+            "end": 8.3,
+            "endOffset": 90,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 7.74,
+            "startOffset": 85,
+            "word": "goods"
+        }
+    ]
+}

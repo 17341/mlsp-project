@@ -1,0 +1,168 @@
+{
+    "transcript": "By the 31 George III. c. 46, s. 5,",
+    "words": [
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 0.47,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 0.26,
+            "startOffset": 0,
+            "word": "By"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.61,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.48,
+            "startOffset": 3,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.37,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.33,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.04,
+            "startOffset": 7,
+            "word": "31"
+        },
+        {
+            "alignedWord": "george",
+            "case": "success",
+            "end": 1.7899999999999998,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "jh_E"
+                }
+            ],
+            "start": 1.38,
+            "startOffset": 10,
+            "word": "George"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.45,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.65,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.8,
+            "startOffset": 17,
+            "word": "III"
+        },
+        {
+            "alignedWord": "c",
+            "case": "success",
+            "end": 2.76,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.46,
+            "startOffset": 22,
+            "word": "c"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.65,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.89,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.76,
+            "startOffset": 25,
+            "word": "46"
+        },
+        {
+            "alignedWord": "s",
+            "case": "success",
+            "end": 4.08,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.75,
+            "startOffset": 29,
+            "word": "s"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.1,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.09,
+            "startOffset": 32,
+            "word": "5"
+        }
+    ]
+}

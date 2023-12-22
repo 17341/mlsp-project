@@ -1,0 +1,493 @@
+{
+    "transcript": "Ultimately more than 200 law enforcement officers mainly Dallas police but including 8 Secret Service agents",
+    "words": [
+        {
+            "alignedWord": "ultimately",
+            "case": "success",
+            "end": 0.6399999999999999,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 0,
+            "word": "Ultimately"
+        },
+        {
+            "alignedWord": "more",
+            "case": "success",
+            "end": 0.88,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.64,
+            "startOffset": 11,
+            "word": "more"
+        },
+        {
+            "alignedWord": "than",
+            "case": "success",
+            "end": 1.05,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.88,
+            "startOffset": 16,
+            "word": "than"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.55,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.5,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.05,
+            "startOffset": 21,
+            "word": "200"
+        },
+        {
+            "alignedWord": "law",
+            "case": "success",
+            "end": 1.8,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ao_E"
+                }
+            ],
+            "start": 1.56,
+            "startOffset": 25,
+            "word": "law"
+        },
+        {
+            "alignedWord": "enforcement",
+            "case": "success",
+            "end": 2.49,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.82,
+            "startOffset": 29,
+            "word": "enforcement"
+        },
+        {
+            "alignedWord": "officers",
+            "case": "success",
+            "end": 3.18,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.49,
+            "startOffset": 41,
+            "word": "officers"
+        },
+        {
+            "alignedWord": "mainly",
+            "case": "success",
+            "end": 3.9299999999999997,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.51,
+            "startOffset": 50,
+            "word": "mainly"
+        },
+        {
+            "alignedWord": "dallas",
+            "case": "success",
+            "end": 4.38,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.93,
+            "startOffset": 57,
+            "word": "Dallas"
+        },
+        {
+            "alignedWord": "police",
+            "case": "success",
+            "end": 4.95,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.41,
+            "startOffset": 64,
+            "word": "police"
+        },
+        {
+            "alignedWord": "but",
+            "case": "success",
+            "end": 5.39,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.18,
+            "startOffset": 71,
+            "word": "but"
+        },
+        {
+            "alignedWord": "including",
+            "case": "success",
+            "end": 6.01,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 5.42,
+            "startOffset": 75,
+            "word": "including"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.2700000000000005,
+            "endOffset": 86,
+            "phones": [
+                {
+                    "duration": 0.24,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.03,
+            "startOffset": 85,
+            "word": "8"
+        },
+        {
+            "alignedWord": "secret",
+            "case": "success",
+            "end": 6.71,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 6.29,
+            "startOffset": 87,
+            "word": "Secret"
+        },
+        {
+            "alignedWord": "service",
+            "case": "success",
+            "end": 7.12,
+            "endOffset": 101,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 6.71,
+            "startOffset": 94,
+            "word": "Service"
+        },
+        {
+            "alignedWord": "agents",
+            "case": "success",
+            "end": 7.6,
+            "endOffset": 108,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ey_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 7.12,
+            "startOffset": 102,
+            "word": "agents"
+        }
+    ]
+}

@@ -1,0 +1,352 @@
+{
+    "transcript": "The Science: History of the Universe Volume 5. Edited by Francis Rolt-Wheeler.",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.09,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "science",
+            "case": "success",
+            "end": 0.6799999999999999,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.09,
+            "startOffset": 4,
+            "word": "Science"
+        },
+        {
+            "alignedWord": "history",
+            "case": "success",
+            "end": 1.17,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.68,
+            "startOffset": 13,
+            "word": "History"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.28,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.17,
+            "startOffset": 21,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.3800000000000001,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.28,
+            "startOffset": 24,
+            "word": "the"
+        },
+        {
+            "alignedWord": "universe",
+            "case": "success",
+            "end": 1.91,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "y_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.38,
+            "startOffset": 28,
+            "word": "Universe"
+        },
+        {
+            "alignedWord": "volume",
+            "case": "success",
+            "end": 2.44,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 1.93,
+            "startOffset": 37,
+            "word": "Volume"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.94,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.5,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.44,
+            "startOffset": 44,
+            "word": "5"
+        },
+        {
+            "alignedWord": "edited",
+            "case": "success",
+            "end": 3.94,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.38,
+            "startOffset": 47,
+            "word": "Edited"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 4.19,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 3.95,
+            "startOffset": 54,
+            "word": "by"
+        },
+        {
+            "alignedWord": "francis",
+            "case": "success",
+            "end": 4.78,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.2,
+            "startOffset": 57,
+            "word": "Francis"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.15,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.36,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.79,
+            "startOffset": 65,
+            "word": "Rolt"
+        },
+        {
+            "alignedWord": "wheeler",
+            "case": "success",
+            "end": 5.55,
+            "endOffset": 77,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.2,
+            "startOffset": 70,
+            "word": "Wheeler"
+        }
+    ]
+}

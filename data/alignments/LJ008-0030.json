@@ -1,0 +1,342 @@
+{
+    "transcript": "The first affair of the kind on this spot was on the 3rd December 1783",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.11,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "first",
+            "case": "success",
+            "end": 0.45999999999999996,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.11,
+            "startOffset": 4,
+            "word": "first"
+        },
+        {
+            "alignedWord": "affair",
+            "case": "success",
+            "end": 0.88,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.46,
+            "startOffset": 10,
+            "word": "affair"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.02,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 0.88,
+            "startOffset": 17,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.1,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.02,
+            "startOffset": 20,
+            "word": "the"
+        },
+        {
+            "alignedWord": "kind",
+            "case": "success",
+            "end": 1.6400000000000001,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.28,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.1,
+            "startOffset": 24,
+            "word": "kind"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 1.8699999999999999,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.67,
+            "startOffset": 29,
+            "word": "on"
+        },
+        {
+            "alignedWord": "this",
+            "case": "success",
+            "end": 2.0900000000000003,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.87,
+            "startOffset": 32,
+            "word": "this"
+        },
+        {
+            "alignedWord": "spot",
+            "case": "success",
+            "end": 2.63,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.09,
+            "startOffset": 37,
+            "word": "spot"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 3.2,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.02,
+            "startOffset": 42,
+            "word": "was"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 3.3600000000000003,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.2,
+            "startOffset": 46,
+            "word": "on"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.4899999999999998,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.36,
+            "startOffset": 49,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.85,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.36,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.49,
+            "startOffset": 53,
+            "word": "3rd"
+        },
+        {
+            "alignedWord": "december",
+            "case": "success",
+            "end": 4.55,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.87,
+            "startOffset": 57,
+            "word": "December"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.26,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.7,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.56,
+            "startOffset": 66,
+            "word": "1783"
+        }
+    ]
+}

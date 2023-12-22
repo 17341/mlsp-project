@@ -1,0 +1,266 @@
+{
+    "transcript": "About 3.7 seconds after the President received this wound",
+    "words": [
+        {
+            "alignedWord": "about",
+            "case": "success",
+            "end": 0.34,
+            "endOffset": 5,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "About"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 7,
+            "startOffset": 6,
+            "word": "3"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.4200000000000002,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 1.08,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.34,
+            "startOffset": 8,
+            "word": "7"
+        },
+        {
+            "alignedWord": "seconds",
+            "case": "success",
+            "end": 1.92,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.42,
+            "startOffset": 10,
+            "word": "seconds"
+        },
+        {
+            "alignedWord": "after",
+            "case": "success",
+            "end": 2.27,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.92,
+            "startOffset": 18,
+            "word": "after"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.36,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.27,
+            "startOffset": 24,
+            "word": "the"
+        },
+        {
+            "alignedWord": "president",
+            "case": "success",
+            "end": 2.9,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.36,
+            "startOffset": 28,
+            "word": "President"
+        },
+        {
+            "alignedWord": "received",
+            "case": "success",
+            "end": 3.48,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.92,
+            "startOffset": 38,
+            "word": "received"
+        },
+        {
+            "alignedWord": "this",
+            "case": "success",
+            "end": 3.7699999999999996,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.51,
+            "startOffset": 47,
+            "word": "this"
+        },
+        {
+            "alignedWord": "wound",
+            "case": "success",
+            "end": 4.24,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.22,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.8,
+            "startOffset": 52,
+            "word": "wound"
+        }
+    ]
+}

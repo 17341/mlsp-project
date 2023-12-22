@@ -1,0 +1,535 @@
+{
+    "transcript": "One offers oppression the other poverty. Both offer imperialistic injustice tinted with two brands of slavery end quote.",
+    "words": [
+        {
+            "alignedWord": "one",
+            "case": "success",
+            "end": 0.25,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.03,
+            "startOffset": 0,
+            "word": "One"
+        },
+        {
+            "alignedWord": "offers",
+            "case": "success",
+            "end": 0.66,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.26,
+            "startOffset": 4,
+            "word": "offers"
+        },
+        {
+            "alignedWord": "oppression",
+            "case": "success",
+            "end": 1.45,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.72,
+            "startOffset": 11,
+            "word": "oppression"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.82,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.62,
+            "startOffset": 22,
+            "word": "the"
+        },
+        {
+            "alignedWord": "other",
+            "case": "success",
+            "end": 2.13,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.82,
+            "startOffset": 26,
+            "word": "other"
+        },
+        {
+            "alignedWord": "poverty",
+            "case": "success",
+            "end": 2.82,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.17,
+            "startOffset": 32,
+            "word": "poverty"
+        },
+        {
+            "alignedWord": "both",
+            "case": "success",
+            "end": 3.5,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 3.11,
+            "startOffset": 41,
+            "word": "Both"
+        },
+        {
+            "alignedWord": "offer",
+            "case": "success",
+            "end": 3.88,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.53,
+            "startOffset": 46,
+            "word": "offer"
+        },
+        {
+            "alignedWord": "imperialistic",
+            "case": "success",
+            "end": 4.91,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 3.9,
+            "startOffset": 52,
+            "word": "imperialistic"
+        },
+        {
+            "alignedWord": "injustice",
+            "case": "success",
+            "end": 5.72,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.92,
+            "startOffset": 66,
+            "word": "injustice"
+        },
+        {
+            "alignedWord": "tinted",
+            "case": "success",
+            "end": 6.4399999999999995,
+            "endOffset": 82,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.97,
+            "startOffset": 76,
+            "word": "tinted"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 6.67,
+            "endOffset": 87,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 6.46,
+            "startOffset": 83,
+            "word": "with"
+        },
+        {
+            "alignedWord": "two",
+            "case": "success",
+            "end": 6.970000000000001,
+            "endOffset": 91,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 6.7,
+            "startOffset": 88,
+            "word": "two"
+        },
+        {
+            "alignedWord": "brands",
+            "case": "success",
+            "end": 7.3999999999999995,
+            "endOffset": 98,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.97,
+            "startOffset": 92,
+            "word": "brands"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 7.550000000000001,
+            "endOffset": 101,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 7.4,
+            "startOffset": 99,
+            "word": "of"
+        },
+        {
+            "alignedWord": "slavery",
+            "case": "success",
+            "end": 8.28,
+            "endOffset": 109,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 7.55,
+            "startOffset": 102,
+            "word": "slavery"
+        },
+        {
+            "alignedWord": "end",
+            "case": "success",
+            "end": 8.75,
+            "endOffset": 113,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 8.48,
+            "startOffset": 110,
+            "word": "end"
+        },
+        {
+            "alignedWord": "quote",
+            "case": "success",
+            "end": 8.92,
+            "endOffset": 119,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ow_I"
+                }
+            ],
+            "start": 8.77,
+            "startOffset": 114,
+            "word": "quote"
+        }
+    ]
+}

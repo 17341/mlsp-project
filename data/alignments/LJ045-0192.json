@@ -1,0 +1,318 @@
+{
+    "transcript": "apparently will loop through the downtown area probably on Main Street",
+    "words": [
+        {
+            "alignedWord": "apparently",
+            "case": "success",
+            "end": 0.58,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.08,
+            "startOffset": 0,
+            "word": "apparently"
+        },
+        {
+            "alignedWord": "will",
+            "case": "success",
+            "end": 0.76,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.58,
+            "startOffset": 11,
+            "word": "will"
+        },
+        {
+            "alignedWord": "loop",
+            "case": "success",
+            "end": 1.04,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 0.76,
+            "startOffset": 16,
+            "word": "loop"
+        },
+        {
+            "alignedWord": "through",
+            "case": "success",
+            "end": 1.28,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "th_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 1.04,
+            "startOffset": 21,
+            "word": "through"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.3900000000000001,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.28,
+            "startOffset": 29,
+            "word": "the"
+        },
+        {
+            "alignedWord": "downtown",
+            "case": "success",
+            "end": 2.02,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.39,
+            "startOffset": 33,
+            "word": "downtown"
+        },
+        {
+            "alignedWord": "area",
+            "case": "success",
+            "end": 2.57,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.05,
+            "startOffset": 42,
+            "word": "area"
+        },
+        {
+            "alignedWord": "probably",
+            "case": "success",
+            "end": 3.4299999999999997,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.9,
+            "startOffset": 47,
+            "word": "probably"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 3.62,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.43,
+            "startOffset": 56,
+            "word": "on"
+        },
+        {
+            "alignedWord": "main",
+            "case": "success",
+            "end": 3.9000000000000004,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.62,
+            "startOffset": 59,
+            "word": "Main"
+        },
+        {
+            "alignedWord": "street",
+            "case": "success",
+            "end": 4.12,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.9,
+            "startOffset": 64,
+            "word": "Street"
+        }
+    ]
+}

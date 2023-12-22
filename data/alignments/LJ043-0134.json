@@ -1,0 +1,236 @@
+{
+    "transcript": "The Commission has concluded that on April 10 1963",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.1,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "commission",
+            "case": "success",
+            "end": 0.55,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.1,
+            "startOffset": 4,
+            "word": "Commission"
+        },
+        {
+            "alignedWord": "has",
+            "case": "success",
+            "end": 0.8,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.55,
+            "startOffset": 15,
+            "word": "has"
+        },
+        {
+            "alignedWord": "concluded",
+            "case": "success",
+            "end": 1.62,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.8,
+            "startOffset": 19,
+            "word": "concluded"
+        },
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 2.13,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.95,
+            "startOffset": 29,
+            "word": "that"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 2.27,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.13,
+            "startOffset": 34,
+            "word": "on"
+        },
+        {
+            "alignedWord": "april",
+            "case": "success",
+            "end": 2.72,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "ey_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 2.29,
+            "startOffset": 37,
+            "word": "April"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.21,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.46,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.75,
+            "startOffset": 43,
+            "word": "10"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.6,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 1.33,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.27,
+            "startOffset": 46,
+            "word": "1963"
+        }
+    ]
+}

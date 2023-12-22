@@ -1,0 +1,150 @@
+{
+    "transcript": "was on November 20 to 21 1963.",
+    "words": [
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 0.16,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "was"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.37,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.16,
+            "startOffset": 4,
+            "word": "on"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 0.8300000000000001,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.37,
+            "startOffset": 7,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.3399999999999999,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.5,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.84,
+            "startOffset": 16,
+            "word": "20"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 1.57,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 1.34,
+            "startOffset": 19,
+            "word": "to"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.9700000000000002,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.4,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.57,
+            "startOffset": 22,
+            "word": "21"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.0,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 1.04,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.96,
+            "startOffset": 25,
+            "word": "1963"
+        }
+    ]
+}

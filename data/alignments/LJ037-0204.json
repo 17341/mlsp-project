@@ -1,0 +1,352 @@
+{
+    "transcript": "was shipped on March 20 1963 to A. J. Hidell Post Office Box 2915 Dallas Texas.",
+    "words": [
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 0.25,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "was"
+        },
+        {
+            "alignedWord": "shipped",
+            "case": "success",
+            "end": 0.61,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.25,
+            "startOffset": 4,
+            "word": "shipped"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.77,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.61,
+            "startOffset": 12,
+            "word": "on"
+        },
+        {
+            "alignedWord": "march",
+            "case": "success",
+            "end": 1.09,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 0.78,
+            "startOffset": 15,
+            "word": "March"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 23,
+            "startOffset": 21,
+            "word": "20"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.92,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 1.81,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.11,
+            "startOffset": 24,
+            "word": "1963"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 3.5700000000000003,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 3.37,
+            "startOffset": 29,
+            "word": "to"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 3.8899999999999997,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.28,
+                    "phone": "ey_S"
+                }
+            ],
+            "start": 3.61,
+            "startOffset": 32,
+            "word": "A"
+        },
+        {
+            "alignedWord": "j",
+            "case": "success",
+            "end": 4.2299999999999995,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ey_E"
+                }
+            ],
+            "start": 3.9,
+            "startOffset": 35,
+            "word": "J"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.84,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.59,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.25,
+            "startOffset": 38,
+            "word": "Hidell"
+        },
+        {
+            "alignedWord": "post",
+            "case": "success",
+            "end": 5.56,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.22,
+            "startOffset": 45,
+            "word": "Post"
+        },
+        {
+            "alignedWord": "office",
+            "case": "success",
+            "end": 5.8999999999999995,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 5.56,
+            "startOffset": 50,
+            "word": "Office"
+        },
+        {
+            "alignedWord": "box",
+            "case": "success",
+            "end": 6.23,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 5.9,
+            "startOffset": 57,
+            "word": "Box"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.25,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.24,
+            "startOffset": 61,
+            "word": "2915"
+        },
+        {
+            "alignedWord": "dallas",
+            "case": "success",
+            "end": 8.129999999999999,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 7.64,
+            "startOffset": 66,
+            "word": "Dallas"
+        },
+        {
+            "alignedWord": "texas",
+            "case": "success",
+            "end": 8.700000000000001,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 8.15,
+            "startOffset": 73,
+            "word": "Texas"
+        }
+    ]
+}

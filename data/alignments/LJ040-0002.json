@@ -1,0 +1,309 @@
+{
+    "transcript": "Chapter 7. Lee Harvey Oswald: Background and Possible Motives Part 1.",
+    "words": [
+        {
+            "alignedWord": "chapter",
+            "case": "success",
+            "end": 0.4,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ch_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Chapter"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.0,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.6,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.4,
+            "startOffset": 8,
+            "word": "7"
+        },
+        {
+            "alignedWord": "lee",
+            "case": "success",
+            "end": 1.54,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.26,
+            "startOffset": 11,
+            "word": "Lee"
+        },
+        {
+            "alignedWord": "harvey",
+            "case": "success",
+            "end": 2.0,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.54,
+            "startOffset": 15,
+            "word": "Harvey"
+        },
+        {
+            "alignedWord": "oswald",
+            "case": "success",
+            "end": 2.8,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.24,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.03,
+            "startOffset": 22,
+            "word": "Oswald"
+        },
+        {
+            "alignedWord": "background",
+            "case": "success",
+            "end": 4.0,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.17,
+            "startOffset": 30,
+            "word": "Background"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 4.260000000000001,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.03,
+            "startOffset": 41,
+            "word": "and"
+        },
+        {
+            "alignedWord": "possible",
+            "case": "success",
+            "end": 4.77,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 4.26,
+            "startOffset": 45,
+            "word": "Possible"
+        },
+        {
+            "alignedWord": "motives",
+            "case": "success",
+            "end": 5.3999999999999995,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.77,
+            "startOffset": 54,
+            "word": "Motives"
+        },
+        {
+            "alignedWord": "part",
+            "case": "success",
+            "end": 5.87,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.57,
+            "startOffset": 62,
+            "word": "Part"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 68,
+            "startOffset": 67,
+            "word": "1"
+        }
+    ]
+}

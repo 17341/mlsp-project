@@ -1,0 +1,330 @@
+{
+    "transcript": "On the 14th June 1800 there were 199 debtors and 289 felons in the prison.",
+    "words": [
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.11,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "On"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.24,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.11,
+            "startOffset": 3,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.89,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.65,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.24,
+            "startOffset": 7,
+            "word": "14th"
+        },
+        {
+            "alignedWord": "june",
+            "case": "success",
+            "end": 1.38,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.94,
+            "startOffset": 12,
+            "word": "June"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.4299999999999997,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 1.02,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.41,
+            "startOffset": 17,
+            "word": "1800"
+        },
+        {
+            "alignedWord": "there",
+            "case": "success",
+            "end": 3.08,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 2.89,
+            "startOffset": 22,
+            "word": "there"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 3.24,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.08,
+            "startOffset": 28,
+            "word": "were"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.35,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.25,
+            "startOffset": 33,
+            "word": "199"
+        },
+        {
+            "alignedWord": "debtors",
+            "case": "success",
+            "end": 5.03,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.42,
+            "startOffset": 37,
+            "word": "debtors"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 5.41,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.19,
+            "startOffset": 45,
+            "word": "and"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.640000000000001,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.69,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.95,
+            "startOffset": 49,
+            "word": "289"
+        },
+        {
+            "alignedWord": "felons",
+            "case": "success",
+            "end": 7.19,
+            "endOffset": 59,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.65,
+            "startOffset": 53,
+            "word": "felons"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 7.33,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 7.19,
+            "startOffset": 60,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 7.42,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 7.33,
+            "startOffset": 63,
+            "word": "the"
+        },
+        {
+            "alignedWord": "prison",
+            "case": "success",
+            "end": 7.7,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 7.42,
+            "startOffset": 67,
+            "word": "prison"
+        }
+    ]
+}

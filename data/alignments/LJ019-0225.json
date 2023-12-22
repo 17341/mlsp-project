@@ -1,0 +1,26 @@
+{
+    "transcript": "In 1857",
+    "words": [
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 2,
+            "startOffset": 0,
+            "word": "In"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.51,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 1.33,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.18,
+            "startOffset": 3,
+            "word": "1857"
+        }
+    ]
+}

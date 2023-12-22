@@ -1,0 +1,173 @@
+{
+    "transcript": "and Daniel Lujan aged 26 was No. 4.",
+    "words": [
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 0.19,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.07,
+            "startOffset": 0,
+            "word": "and"
+        },
+        {
+            "alignedWord": "daniel",
+            "case": "success",
+            "end": 0.73,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.21,
+            "startOffset": 4,
+            "word": "Daniel"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.48,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.71,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.77,
+            "startOffset": 11,
+            "word": "Lujan"
+        },
+        {
+            "alignedWord": "aged",
+            "case": "success",
+            "end": 2.21,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "ey_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.89,
+            "startOffset": 17,
+            "word": "aged"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.19,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.94,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.25,
+            "startOffset": 22,
+            "word": "26"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 3.9000000000000004,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.66,
+            "startOffset": 25,
+            "word": "was"
+        },
+        {
+            "alignedWord": "no",
+            "case": "success",
+            "end": 4.05,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 3.9,
+            "startOffset": 29,
+            "word": "No"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.4399999999999995,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.39,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.05,
+            "startOffset": 33,
+            "word": "4"
+        }
+    ]
+}

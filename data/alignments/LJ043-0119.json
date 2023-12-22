@@ -1,0 +1,216 @@
+{
+    "transcript": "1963 almost a month after he lost his job.",
+    "words": [
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.3800000000000001,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 1.37,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "1963"
+        },
+        {
+            "alignedWord": "almost",
+            "case": "success",
+            "end": 2.16,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.65,
+            "startOffset": 5,
+            "word": "almost"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 2.22,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 2.16,
+            "startOffset": 12,
+            "word": "a"
+        },
+        {
+            "alignedWord": "month",
+            "case": "success",
+            "end": 2.6700000000000004,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 2.22,
+            "startOffset": 14,
+            "word": "month"
+        },
+        {
+            "alignedWord": "after",
+            "case": "success",
+            "end": 3.17,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.75,
+            "startOffset": 20,
+            "word": "after"
+        },
+        {
+            "alignedWord": "he",
+            "case": "success",
+            "end": 3.34,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 3.17,
+            "startOffset": 26,
+            "word": "he"
+        },
+        {
+            "alignedWord": "lost",
+            "case": "success",
+            "end": 3.73,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.34,
+            "startOffset": 29,
+            "word": "lost"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 3.84,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.73,
+            "startOffset": 34,
+            "word": "his"
+        },
+        {
+            "alignedWord": "job",
+            "case": "success",
+            "end": 4.42,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.25,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_E"
+                }
+            ],
+            "start": 3.97,
+            "startOffset": 38,
+            "word": "job"
+        }
+    ]
+}

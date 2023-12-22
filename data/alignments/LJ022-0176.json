@@ -1,0 +1,313 @@
+{
+    "transcript": "Finally the reestablishment of public confidence in the banks of the nation",
+    "words": [
+        {
+            "alignedWord": "finally",
+            "case": "success",
+            "end": 0.67,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.25,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "Finally"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.2799999999999998,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.13,
+            "startOffset": 8,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.39,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 1.11,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.28,
+            "startOffset": 12,
+            "word": "reestablishment"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 2.6500000000000004,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.49,
+            "startOffset": 28,
+            "word": "of"
+        },
+        {
+            "alignedWord": "public",
+            "case": "success",
+            "end": 3.08,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 2.68,
+            "startOffset": 31,
+            "word": "public"
+        },
+        {
+            "alignedWord": "confidence",
+            "case": "success",
+            "end": 3.7800000000000002,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 3.1,
+            "startOffset": 38,
+            "word": "confidence"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 3.92,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.78,
+            "startOffset": 49,
+            "word": "in"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.04,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.93,
+            "startOffset": 52,
+            "word": "the"
+        },
+        {
+            "alignedWord": "banks",
+            "case": "success",
+            "end": 4.43,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ng_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 4.04,
+            "startOffset": 56,
+            "word": "banks"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 4.569999999999999,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.43,
+            "startOffset": 62,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.640000000000001,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.57,
+            "startOffset": 65,
+            "word": "the"
+        },
+        {
+            "alignedWord": "nation",
+            "case": "success",
+            "end": 5.119999999999999,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.64,
+            "startOffset": 69,
+            "word": "nation"
+        }
+    ]
+}

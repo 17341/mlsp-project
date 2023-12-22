@@ -1,0 +1,117 @@
+{
+    "transcript": "bearing serial number C2766.",
+    "words": [
+        {
+            "alignedWord": "bearing",
+            "case": "success",
+            "end": 0.42,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "bearing"
+        },
+        {
+            "alignedWord": "serial",
+            "case": "success",
+            "end": 0.81,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.42,
+            "startOffset": 8,
+            "word": "serial"
+        },
+        {
+            "alignedWord": "number",
+            "case": "success",
+            "end": 1.11,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.81,
+            "startOffset": 15,
+            "word": "number"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.56,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.45,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.11,
+            "startOffset": 22,
+            "word": "C2766"
+        }
+    ]
+}

@@ -1,0 +1,449 @@
+{
+    "transcript": "by helicopter at 10:45 A.M., Eastern Standard Time, on November 21, 1963, for Andrews Air Force Base.",
+    "words": [
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 0.18,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 0.08,
+            "startOffset": 0,
+            "word": "by"
+        },
+        {
+            "alignedWord": "helicopter",
+            "case": "success",
+            "end": 0.9099999999999999,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.19,
+            "startOffset": 3,
+            "word": "helicopter"
+        },
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 1.13,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.94,
+            "startOffset": 14,
+            "word": "at"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 19,
+            "startOffset": 17,
+            "word": "10"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.11,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.98,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.13,
+            "startOffset": 20,
+            "word": "45"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 2.37,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.26,
+                    "phone": "ey_S"
+                }
+            ],
+            "start": 2.11,
+            "startOffset": 23,
+            "word": "A"
+        },
+        {
+            "alignedWord": "m",
+            "case": "success",
+            "end": 2.69,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 2.37,
+            "startOffset": 25,
+            "word": "M"
+        },
+        {
+            "alignedWord": "eastern",
+            "case": "success",
+            "end": 3.22,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "iy_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.77,
+            "startOffset": 29,
+            "word": "Eastern"
+        },
+        {
+            "alignedWord": "standard",
+            "case": "success",
+            "end": 3.68,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.22,
+            "startOffset": 37,
+            "word": "Standard"
+        },
+        {
+            "alignedWord": "time",
+            "case": "success",
+            "end": 4.04,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 3.68,
+            "startOffset": 46,
+            "word": "Time"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 4.29,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.09,
+            "startOffset": 52,
+            "word": "on"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 4.78,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.29,
+            "startOffset": 55,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.5200000000000005,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.74,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.78,
+            "startOffset": 64,
+            "word": "21"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.0,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 1.44,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.56,
+            "startOffset": 68,
+            "word": "1963"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 7.57,
+            "endOffset": 77,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 7.36,
+            "startOffset": 74,
+            "word": "for"
+        },
+        {
+            "alignedWord": "andrews",
+            "case": "success",
+            "end": 8.11,
+            "endOffset": 85,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 7.6,
+            "startOffset": 78,
+            "word": "Andrews"
+        },
+        {
+            "alignedWord": "air",
+            "case": "success",
+            "end": 8.329998999999999,
+            "endOffset": 89,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 8.139999,
+            "startOffset": 86,
+            "word": "Air"
+        },
+        {
+            "alignedWord": "force",
+            "case": "success",
+            "end": 8.63,
+            "endOffset": 95,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 8.33,
+            "startOffset": 90,
+            "word": "Force"
+        },
+        {
+            "alignedWord": "base",
+            "case": "success",
+            "end": 9.030000000000001,
+            "endOffset": 100,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 8.63,
+            "startOffset": 96,
+            "word": "Base"
+        }
+    ]
+}

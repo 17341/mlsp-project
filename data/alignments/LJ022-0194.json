@@ -1,0 +1,409 @@
+{
+    "transcript": "Never since my inauguration in March 1933 have I felt so unmistakably the atmosphere of recovery.",
+    "words": [
+        {
+            "alignedWord": "never",
+            "case": "success",
+            "end": 0.45,
+            "endOffset": 5,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "Never"
+        },
+        {
+            "alignedWord": "since",
+            "case": "success",
+            "end": 0.79,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.46,
+            "startOffset": 6,
+            "word": "since"
+        },
+        {
+            "alignedWord": "my",
+            "case": "success",
+            "end": 1.01,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 0.79,
+            "startOffset": 12,
+            "word": "my"
+        },
+        {
+            "alignedWord": "inauguration",
+            "case": "success",
+            "end": 1.92,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "y_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.01,
+            "startOffset": 15,
+            "word": "inauguration"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 2.11,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.92,
+            "startOffset": 28,
+            "word": "in"
+        },
+        {
+            "alignedWord": "march",
+            "case": "success",
+            "end": 2.5500000000000003,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 2.12,
+            "startOffset": 31,
+            "word": "March"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.1,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 1.54,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.56,
+            "startOffset": 37,
+            "word": "1933"
+        },
+        {
+            "alignedWord": "have",
+            "case": "success",
+            "end": 4.66,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.43,
+            "startOffset": 42,
+            "word": "have"
+        },
+        {
+            "alignedWord": "i",
+            "case": "success",
+            "end": 4.86,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.2,
+                    "phone": "ay_S"
+                }
+            ],
+            "start": 4.66,
+            "startOffset": 47,
+            "word": "I"
+        },
+        {
+            "alignedWord": "felt",
+            "case": "success",
+            "end": 5.21,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.87,
+            "startOffset": 49,
+            "word": "felt"
+        },
+        {
+            "alignedWord": "so",
+            "case": "success",
+            "end": 5.47,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 5.21,
+            "startOffset": 54,
+            "word": "so"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.64,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 1.13,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.51,
+            "startOffset": 57,
+            "word": "unmistakably"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 7.05,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 6.85,
+            "startOffset": 70,
+            "word": "the"
+        },
+        {
+            "alignedWord": "atmosphere",
+            "case": "success",
+            "end": 7.84,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 7.09,
+            "startOffset": 74,
+            "word": "atmosphere"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 7.99,
+            "endOffset": 87,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 7.84,
+            "startOffset": 85,
+            "word": "of"
+        },
+        {
+            "alignedWord": "recovery",
+            "case": "success",
+            "end": 8.48,
+            "endOffset": 96,
+            "phones": [
+                {
+                    "duration": 0.02,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 7.99,
+            "startOffset": 88,
+            "word": "recovery"
+        }
+    ]
+}

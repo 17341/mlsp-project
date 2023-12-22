@@ -1,0 +1,161 @@
+{
+    "transcript": "cap. 64 and 5 George IV. cap. 85",
+    "words": [
+        {
+            "alignedWord": "cap",
+            "case": "success",
+            "end": 0.31,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 0.02,
+            "startOffset": 0,
+            "word": "cap"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.2,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.86,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.34,
+            "startOffset": 5,
+            "word": "64"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 1.48,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.24,
+            "startOffset": 8,
+            "word": "and"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.04,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.54,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.5,
+            "startOffset": 12,
+            "word": "5"
+        },
+        {
+            "alignedWord": "george",
+            "case": "success",
+            "end": 2.4499999999999997,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "jh_E"
+                }
+            ],
+            "start": 2.05,
+            "startOffset": 14,
+            "word": "George"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.9699999999999998,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.51,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.46,
+            "startOffset": 21,
+            "word": "IV"
+        },
+        {
+            "alignedWord": "cap",
+            "case": "success",
+            "end": 3.33,
+            "endOffset": 28,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 3.02,
+            "startOffset": 25,
+            "word": "cap"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.17,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.78,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.39,
+            "startOffset": 30,
+            "word": "85"
+        }
+    ]
+}

@@ -1,0 +1,399 @@
+{
+    "transcript": "on November 22 1963. One of these pictures Exhibit No. 133-A shows most of the rifle's configuration.",
+    "words": [
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.16,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "on"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 0.58,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.16,
+            "startOffset": 3,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.3599999999999999,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.78,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.58,
+            "startOffset": 12,
+            "word": "22"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.94,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 1.21,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.73,
+            "startOffset": 15,
+            "word": "1963"
+        },
+        {
+            "alignedWord": "one",
+            "case": "success",
+            "end": 3.7,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.49,
+            "startOffset": 21,
+            "word": "One"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.81,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.7,
+            "startOffset": 25,
+            "word": "of"
+        },
+        {
+            "alignedWord": "these",
+            "case": "success",
+            "end": 4.1,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.81,
+            "startOffset": 28,
+            "word": "these"
+        },
+        {
+            "alignedWord": "pictures",
+            "case": "success",
+            "end": 4.83,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.12,
+            "startOffset": 34,
+            "word": "pictures"
+        },
+        {
+            "alignedWord": "exhibit",
+            "case": "success",
+            "end": 5.59,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.07,
+            "startOffset": 43,
+            "word": "Exhibit"
+        },
+        {
+            "alignedWord": "no",
+            "case": "success",
+            "end": 5.6499999999999995,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 5.59,
+            "startOffset": 51,
+            "word": "No"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.87,
+            "endOffset": 58,
+            "phones": [
+                {
+                    "duration": 0.22,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.65,
+            "startOffset": 55,
+            "word": "133"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 7.49,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.51,
+                    "phone": "ey_S"
+                }
+            ],
+            "start": 6.98,
+            "startOffset": 59,
+            "word": "A"
+        },
+        {
+            "alignedWord": "shows",
+            "case": "success",
+            "end": 8.0,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 7.68,
+            "startOffset": 61,
+            "word": "shows"
+        },
+        {
+            "alignedWord": "most",
+            "case": "success",
+            "end": 8.32,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 8.0,
+            "startOffset": 67,
+            "word": "most"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 8.450000000000001,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 8.32,
+            "startOffset": 72,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 8.549999999999999,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 8.45,
+            "startOffset": 75,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.91,
+            "endOffset": 86,
+            "phones": [
+                {
+                    "duration": 0.36,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 8.55,
+            "startOffset": 79,
+            "word": "rifle's"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 9.850000000000001,
+            "endOffset": 100,
+            "phones": [
+                {
+                    "duration": 0.89,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 8.96,
+            "startOffset": 87,
+            "word": "configuration"
+        }
+    ]
+}

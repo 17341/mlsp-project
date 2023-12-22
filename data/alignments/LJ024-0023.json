@@ -1,0 +1,337 @@
+{
+    "transcript": "ever since a similar proposal passed the House of Representatives in 1869.",
+    "words": [
+        {
+            "alignedWord": "ever",
+            "case": "success",
+            "end": 0.27,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.04,
+            "startOffset": 0,
+            "word": "ever"
+        },
+        {
+            "alignedWord": "since",
+            "case": "success",
+            "end": 0.63,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.27,
+            "startOffset": 5,
+            "word": "since"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 0.73,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 0.63,
+            "startOffset": 11,
+            "word": "a"
+        },
+        {
+            "alignedWord": "similar",
+            "case": "success",
+            "end": 1.17,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.74,
+            "startOffset": 13,
+            "word": "similar"
+        },
+        {
+            "alignedWord": "proposal",
+            "case": "success",
+            "end": 1.81,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 1.19,
+            "startOffset": 21,
+            "word": "proposal"
+        },
+        {
+            "alignedWord": "passed",
+            "case": "success",
+            "end": 2.37,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.86,
+            "startOffset": 30,
+            "word": "passed"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.53,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.4,
+            "startOffset": 37,
+            "word": "the"
+        },
+        {
+            "alignedWord": "house",
+            "case": "success",
+            "end": 2.8099999999999996,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 2.53,
+            "startOffset": 41,
+            "word": "House"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 2.98,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.81,
+            "startOffset": 47,
+            "word": "of"
+        },
+        {
+            "alignedWord": "representatives",
+            "case": "success",
+            "end": 3.89,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.98,
+            "startOffset": 50,
+            "word": "Representatives"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 4.08,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.89,
+            "startOffset": 66,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.2700000000000005,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.08,
+            "startOffset": 69,
+            "word": "1869"
+        }
+    ]
+}

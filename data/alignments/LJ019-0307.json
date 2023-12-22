@@ -1,0 +1,397 @@
+{
+    "transcript": "The result of the recommendation of the committee of 1862 was the Prison Act of 1865,",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.11,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.09,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "result",
+            "case": "success",
+            "end": 0.47,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.11,
+            "startOffset": 4,
+            "word": "result"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 0.57,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 0.47,
+            "startOffset": 11,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.6599999999999999,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.57,
+            "startOffset": 14,
+            "word": "the"
+        },
+        {
+            "alignedWord": "recommendation",
+            "case": "success",
+            "end": 1.4100000000000001,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.66,
+            "startOffset": 18,
+            "word": "recommendation"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.54,
+            "endOffset": 35,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.41,
+            "startOffset": 33,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.6300000000000001,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.54,
+            "startOffset": 36,
+            "word": "the"
+        },
+        {
+            "alignedWord": "committee",
+            "case": "success",
+            "end": 2.08,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.63,
+            "startOffset": 40,
+            "word": "committee"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 2.13,
+            "endOffset": 52,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.08,
+            "startOffset": 50,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.44,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 1.31,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.13,
+            "startOffset": 53,
+            "word": "1862"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 3.98,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.75,
+            "startOffset": 58,
+            "word": "was"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.07,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 3.98,
+            "startOffset": 62,
+            "word": "the"
+        },
+        {
+            "alignedWord": "prison",
+            "case": "success",
+            "end": 4.42,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.07,
+            "startOffset": 66,
+            "word": "Prison"
+        },
+        {
+            "alignedWord": "act",
+            "case": "success",
+            "end": 4.7299999999999995,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.42,
+            "startOffset": 73,
+            "word": "Act"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 4.859999999999999,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.76,
+            "startOffset": 77,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.23,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 1.37,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.86,
+            "startOffset": 80,
+            "word": "1865"
+        }
+    ]
+}

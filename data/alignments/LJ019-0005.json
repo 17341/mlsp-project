@@ -1,0 +1,444 @@
+{
+    "transcript": "There had been a pause in legislation except of a permissive kind. The 2nd and 3rd Victoria cap. 56",
+    "words": [
+        {
+            "alignedWord": "there",
+            "case": "success",
+            "end": 0.13,
+            "endOffset": 5,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "There"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 0.41000000000000003,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.13,
+            "startOffset": 6,
+            "word": "had"
+        },
+        {
+            "alignedWord": "been",
+            "case": "success",
+            "end": 0.62,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.41,
+            "startOffset": 10,
+            "word": "been"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 0.6799999999999999,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 0.62,
+            "startOffset": 15,
+            "word": "a"
+        },
+        {
+            "alignedWord": "pause",
+            "case": "success",
+            "end": 1.09,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.68,
+            "startOffset": 17,
+            "word": "pause"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 1.25,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.09,
+            "startOffset": 23,
+            "word": "in"
+        },
+        {
+            "alignedWord": "legislation",
+            "case": "success",
+            "end": 2.13,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.25,
+            "startOffset": 26,
+            "word": "legislation"
+        },
+        {
+            "alignedWord": "except",
+            "case": "success",
+            "end": 2.66,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.16,
+            "startOffset": 38,
+            "word": "except"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 2.79,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.66,
+            "startOffset": 45,
+            "word": "of"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 2.85,
+            "endOffset": 49,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 2.79,
+            "startOffset": 48,
+            "word": "a"
+        },
+        {
+            "alignedWord": "permissive",
+            "case": "success",
+            "end": 3.49,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.85,
+            "startOffset": 50,
+            "word": "permissive"
+        },
+        {
+            "alignedWord": "kind",
+            "case": "success",
+            "end": 4.09,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.52,
+            "startOffset": 61,
+            "word": "kind"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.75,
+            "endOffset": 70,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.6,
+            "startOffset": 67,
+            "word": "The"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.71,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.96,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.75,
+            "startOffset": 71,
+            "word": "2nd"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 78,
+            "startOffset": 75,
+            "word": "and"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 82,
+            "startOffset": 79,
+            "word": "3rd"
+        },
+        {
+            "alignedWord": "victoria",
+            "case": "success",
+            "end": 6.49,
+            "endOffset": 91,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 5.72,
+            "startOffset": 83,
+            "word": "Victoria"
+        },
+        {
+            "alignedWord": "cap",
+            "case": "success",
+            "end": 6.81,
+            "endOffset": 95,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 6.52,
+            "startOffset": 92,
+            "word": "cap"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.78,
+            "endOffset": 99,
+            "phones": [
+                {
+                    "duration": 0.96,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.82,
+            "startOffset": 97,
+            "word": "56"
+        }
+    ]
+}

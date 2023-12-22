@@ -1,0 +1,650 @@
+{
+    "transcript": "Both Dallas papers cited White House sources on September 26 as confirming the President's intention to visit Texas on November 21 and 22",
+    "words": [
+        {
+            "alignedWord": "both",
+            "case": "success",
+            "end": 0.25,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 0.1,
+            "startOffset": 0,
+            "word": "Both"
+        },
+        {
+            "alignedWord": "dallas",
+            "case": "success",
+            "end": 0.78,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.28,
+            "startOffset": 5,
+            "word": "Dallas"
+        },
+        {
+            "alignedWord": "papers",
+            "case": "success",
+            "end": 1.29,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.78,
+            "startOffset": 12,
+            "word": "papers"
+        },
+        {
+            "alignedWord": "cited",
+            "case": "success",
+            "end": 1.8599999999999999,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.38,
+            "startOffset": 19,
+            "word": "cited"
+        },
+        {
+            "alignedWord": "white",
+            "case": "success",
+            "end": 2.1,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.86,
+            "startOffset": 25,
+            "word": "White"
+        },
+        {
+            "alignedWord": "house",
+            "case": "success",
+            "end": 2.33,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 2.1,
+            "startOffset": 31,
+            "word": "House"
+        },
+        {
+            "alignedWord": "sources",
+            "case": "success",
+            "end": 2.8,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.33,
+            "startOffset": 37,
+            "word": "sources"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 2.9699999999999998,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 2.8,
+            "startOffset": 45,
+            "word": "on"
+        },
+        {
+            "alignedWord": "september",
+            "case": "success",
+            "end": 3.4800000000000004,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.97,
+            "startOffset": 48,
+            "word": "September"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.35,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.87,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.48,
+            "startOffset": 58,
+            "word": "26"
+        },
+        {
+            "alignedWord": "as",
+            "case": "success",
+            "end": 4.89,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.67,
+            "startOffset": 61,
+            "word": "as"
+        },
+        {
+            "alignedWord": "confirming",
+            "case": "success",
+            "end": 5.489999999999999,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 4.89,
+            "startOffset": 64,
+            "word": "confirming"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 5.57,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 5.49,
+            "startOffset": 75,
+            "word": "the"
+        },
+        {
+            "alignedWord": "president's",
+            "case": "success",
+            "end": 6.1000000000000005,
+            "endOffset": 90,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 5.57,
+            "startOffset": 79,
+            "word": "President's"
+        },
+        {
+            "alignedWord": "intention",
+            "case": "success",
+            "end": 6.68,
+            "endOffset": 100,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 6.1,
+            "startOffset": 91,
+            "word": "intention"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 6.79,
+            "endOffset": 103,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ih_E"
+                }
+            ],
+            "start": 6.68,
+            "startOffset": 101,
+            "word": "to"
+        },
+        {
+            "alignedWord": "visit",
+            "case": "success",
+            "end": 7.11,
+            "endOffset": 109,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 6.79,
+            "startOffset": 104,
+            "word": "visit"
+        },
+        {
+            "alignedWord": "texas",
+            "case": "success",
+            "end": 7.54,
+            "endOffset": 115,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 7.11,
+            "startOffset": 110,
+            "word": "Texas"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 7.77,
+            "endOffset": 118,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 7.59,
+            "startOffset": 116,
+            "word": "on"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 8.18,
+            "endOffset": 127,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 7.77,
+            "startOffset": 119,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.879999,
+            "endOffset": 130,
+            "phones": [
+                {
+                    "duration": 0.7,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 8.179999,
+            "startOffset": 128,
+            "word": "21"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 9.13,
+            "endOffset": 134,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 8.92,
+            "startOffset": 131,
+            "word": "and"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 9.520000000000001,
+            "endOffset": 137,
+            "phones": [
+                {
+                    "duration": 0.39,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 9.13,
+            "startOffset": 135,
+            "word": "22"
+        }
+    ]
+}

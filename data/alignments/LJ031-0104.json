@@ -1,0 +1,223 @@
+{
+    "transcript": "At approximately 12:45 p.m., Dr. Robert Shaw,",
+    "words": [
+        {
+            "alignedWord": "at",
+            "case": "success",
+            "end": 0.15,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.02,
+            "startOffset": 0,
+            "word": "At"
+        },
+        {
+            "alignedWord": "approximately",
+            "case": "success",
+            "end": 0.88,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.15,
+            "startOffset": 3,
+            "word": "approximately"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 19,
+            "startOffset": 17,
+            "word": "12"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.94,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 1.06,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.88,
+            "startOffset": 20,
+            "word": "45"
+        },
+        {
+            "alignedWord": "p",
+            "case": "success",
+            "end": 2.19,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.96,
+            "startOffset": 23,
+            "word": "p"
+        },
+        {
+            "alignedWord": "m",
+            "case": "success",
+            "end": 2.42,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 2.19,
+            "startOffset": 25,
+            "word": "m"
+        },
+        {
+            "alignedWord": "dr",
+            "case": "success",
+            "end": 2.76,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.42,
+            "startOffset": 29,
+            "word": "Dr"
+        },
+        {
+            "alignedWord": "robert",
+            "case": "success",
+            "end": 3.1399999999999997,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.76,
+            "startOffset": 33,
+            "word": "Robert"
+        },
+        {
+            "alignedWord": "shaw",
+            "case": "success",
+            "end": 3.5500000000000003,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "ao_E"
+                }
+            ],
+            "start": 3.14,
+            "startOffset": 40,
+            "word": "Shaw"
+        }
+    ]
+}

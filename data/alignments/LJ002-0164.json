@@ -1,0 +1,265 @@
+{
+    "transcript": "for the paltry sum of 4 pence with costs of 7 shillings 6 pence.",
+    "words": [
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 0.13,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "for"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.22,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.13,
+            "startOffset": 4,
+            "word": "the"
+        },
+        {
+            "alignedWord": "paltry",
+            "case": "success",
+            "end": 0.8099999999999999,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.22,
+            "startOffset": 8,
+            "word": "paltry"
+        },
+        {
+            "alignedWord": "sum",
+            "case": "success",
+            "end": 1.22,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 0.81,
+            "startOffset": 15,
+            "word": "sum"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 1.42,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 1.27,
+            "startOffset": 19,
+            "word": "of"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 23,
+            "startOffset": 22,
+            "word": "4"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.27,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.84,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.43,
+            "startOffset": 24,
+            "word": "pence"
+        },
+        {
+            "alignedWord": "with",
+            "case": "success",
+            "end": 2.91,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 2.7,
+            "startOffset": 30,
+            "word": "with"
+        },
+        {
+            "alignedWord": "costs",
+            "case": "success",
+            "end": 3.41,
+            "endOffset": 40,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 2.91,
+            "startOffset": 35,
+            "word": "costs"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.47,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.41,
+            "startOffset": 41,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.57,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 1.1,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.47,
+            "startOffset": 44,
+            "word": "7"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.06,
+            "endOffset": 55,
+            "phones": [
+                {
+                    "duration": 0.34,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.72,
+            "startOffset": 46,
+            "word": "shillings"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.31,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.22,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.09,
+            "startOffset": 56,
+            "word": "6"
+        },
+        {
+            "case": "not-found-in-audio",
+            "endOffset": 63,
+            "startOffset": 58,
+            "word": "pence"
+        }
+    ]
+}

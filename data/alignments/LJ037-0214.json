@@ -1,0 +1,432 @@
+{
+    "transcript": "When shown the revolver she stated that she recognized it as the one owned by her husband.",
+    "words": [
+        {
+            "alignedWord": "when",
+            "case": "success",
+            "end": 0.16,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "When"
+        },
+        {
+            "alignedWord": "shown",
+            "case": "success",
+            "end": 0.47,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.16,
+            "startOffset": 5,
+            "word": "shown"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.58,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.47,
+            "startOffset": 11,
+            "word": "the"
+        },
+        {
+            "alignedWord": "revolver",
+            "case": "success",
+            "end": 1.31,
+            "endOffset": 23,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.25,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.58,
+            "startOffset": 15,
+            "word": "revolver"
+        },
+        {
+            "alignedWord": "she",
+            "case": "success",
+            "end": 1.82,
+            "endOffset": 27,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 1.56,
+            "startOffset": 24,
+            "word": "she"
+        },
+        {
+            "alignedWord": "stated",
+            "case": "success",
+            "end": 2.29,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 1.82,
+            "startOffset": 28,
+            "word": "stated"
+        },
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 2.42,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.29,
+            "startOffset": 35,
+            "word": "that"
+        },
+        {
+            "alignedWord": "she",
+            "case": "success",
+            "end": 2.61,
+            "endOffset": 43,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.42,
+            "startOffset": 40,
+            "word": "she"
+        },
+        {
+            "alignedWord": "recognized",
+            "case": "success",
+            "end": 3.29,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.61,
+            "startOffset": 44,
+            "word": "recognized"
+        },
+        {
+            "alignedWord": "it",
+            "case": "success",
+            "end": 3.52,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.29,
+            "startOffset": 55,
+            "word": "it"
+        },
+        {
+            "alignedWord": "as",
+            "case": "success",
+            "end": 4.029999999999999,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.78,
+            "startOffset": 58,
+            "word": "as"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.13,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.03,
+            "startOffset": 61,
+            "word": "the"
+        },
+        {
+            "alignedWord": "one",
+            "case": "success",
+            "end": 4.42,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.13,
+            "startOffset": 65,
+            "word": "one"
+        },
+        {
+            "alignedWord": "owned",
+            "case": "success",
+            "end": 4.8,
+            "endOffset": 74,
+            "phones": [
+                {
+                    "duration": 0.19,
+                    "phone": "ow_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.45,
+            "startOffset": 69,
+            "word": "owned"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 5.0200000000000005,
+            "endOffset": 77,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 4.82,
+            "startOffset": 75,
+            "word": "by"
+        },
+        {
+            "alignedWord": "her",
+            "case": "success",
+            "end": 5.2,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.03,
+            "startOffset": 78,
+            "word": "her"
+        },
+        {
+            "alignedWord": "husband",
+            "case": "success",
+            "end": 5.71,
+            "endOffset": 89,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.2,
+            "startOffset": 82,
+            "word": "husband"
+        }
+    ]
+}

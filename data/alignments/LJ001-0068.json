@@ -1,0 +1,519 @@
+{
+    "transcript": "The characteristic Dutch type as represented by the excellent printer Gerard Leew is very pronounced and uncompromising Gothic.",
+    "words": [
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.1,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.02,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "The"
+        },
+        {
+            "alignedWord": "characteristic",
+            "case": "success",
+            "end": 1.03,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 0.1,
+            "startOffset": 4,
+            "word": "characteristic"
+        },
+        {
+            "alignedWord": "dutch",
+            "case": "success",
+            "end": 1.46,
+            "endOffset": 24,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 1.04,
+            "startOffset": 19,
+            "word": "Dutch"
+        },
+        {
+            "alignedWord": "type",
+            "case": "success",
+            "end": 1.88,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 1.46,
+            "startOffset": 25,
+            "word": "type"
+        },
+        {
+            "alignedWord": "as",
+            "case": "success",
+            "end": 2.1,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.88,
+            "startOffset": 30,
+            "word": "as"
+        },
+        {
+            "alignedWord": "represented",
+            "case": "success",
+            "end": 2.7600000000000002,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "p_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 2.1,
+            "startOffset": 33,
+            "word": "represented"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 2.9099999999999997,
+            "endOffset": 47,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 2.76,
+            "startOffset": 45,
+            "word": "by"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 3.06,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.91,
+            "startOffset": 48,
+            "word": "the"
+        },
+        {
+            "alignedWord": "excellent",
+            "case": "success",
+            "end": 3.62,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.08,
+            "startOffset": 52,
+            "word": "excellent"
+        },
+        {
+            "alignedWord": "printer",
+            "case": "success",
+            "end": 4.11,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.65,
+            "startOffset": 62,
+            "word": "printer"
+        },
+        {
+            "alignedWord": "gerard",
+            "case": "success",
+            "end": 5.01,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.39,
+            "startOffset": 70,
+            "word": "Gerard"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.630000000000001,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.56,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.07,
+            "startOffset": 77,
+            "word": "Leew"
+        },
+        {
+            "alignedWord": "is",
+            "case": "success",
+            "end": 6.24,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 6.03,
+            "startOffset": 82,
+            "word": "is"
+        },
+        {
+            "alignedWord": "very",
+            "case": "success",
+            "end": 6.54,
+            "endOffset": 89,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "v_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 6.24,
+            "startOffset": 85,
+            "word": "very"
+        },
+        {
+            "alignedWord": "pronounced",
+            "case": "success",
+            "end": 7.18,
+            "endOffset": 100,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 6.54,
+            "startOffset": 90,
+            "word": "pronounced"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 7.3999999999999995,
+            "endOffset": 104,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 7.18,
+            "startOffset": 101,
+            "word": "and"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.6,
+            "endOffset": 119,
+            "phones": [
+                {
+                    "duration": 1.15,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 7.45,
+            "startOffset": 105,
+            "word": "uncompromising"
+        },
+        {
+            "alignedWord": "gothic",
+            "case": "success",
+            "end": 8.95,
+            "endOffset": 126,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "th_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "ih_I"
+                }
+            ],
+            "start": 8.61,
+            "startOffset": 120,
+            "word": "Gothic"
+        }
+    ]
+}

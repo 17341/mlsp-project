@@ -1,0 +1,368 @@
+{
+    "transcript": "but it will by sustaining purchasing power cushion the shock of economic distress.",
+    "words": [
+        {
+            "alignedWord": "but",
+            "case": "success",
+            "end": 0.29000000000000004,
+            "endOffset": 3,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.26,
+            "startOffset": 0,
+            "word": "but"
+        },
+        {
+            "alignedWord": "it",
+            "case": "success",
+            "end": 0.33999999999999997,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.29,
+            "startOffset": 4,
+            "word": "it"
+        },
+        {
+            "alignedWord": "will",
+            "case": "success",
+            "end": 0.89,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.29,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.37,
+            "startOffset": 7,
+            "word": "will"
+        },
+        {
+            "alignedWord": "by",
+            "case": "success",
+            "end": 1.44,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ay_E"
+                }
+            ],
+            "start": 1.15,
+            "startOffset": 12,
+            "word": "by"
+        },
+        {
+            "alignedWord": "sustaining",
+            "case": "success",
+            "end": 2.1,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 1.46,
+            "startOffset": 15,
+            "word": "sustaining"
+        },
+        {
+            "alignedWord": "purchasing",
+            "case": "success",
+            "end": 2.71,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 2.1,
+            "startOffset": 26,
+            "word": "purchasing"
+        },
+        {
+            "alignedWord": "power",
+            "case": "success",
+            "end": 3.27,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.26,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 2.71,
+            "startOffset": 37,
+            "word": "power"
+        },
+        {
+            "alignedWord": "cushion",
+            "case": "success",
+            "end": 4.08,
+            "endOffset": 50,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "uh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.64,
+            "startOffset": 43,
+            "word": "cushion"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 4.21,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 4.08,
+            "startOffset": 51,
+            "word": "the"
+        },
+        {
+            "alignedWord": "shock",
+            "case": "success",
+            "end": 4.78,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "sh_B"
+                },
+                {
+                    "duration": 0.2,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 4.21,
+            "startOffset": 55,
+            "word": "shock"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 5.050000000000001,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 4.86,
+            "startOffset": 61,
+            "word": "of"
+        },
+        {
+            "alignedWord": "economic",
+            "case": "success",
+            "end": 5.74,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_E"
+                }
+            ],
+            "start": 5.07,
+            "startOffset": 64,
+            "word": "economic"
+        },
+        {
+            "alignedWord": "distress",
+            "case": "success",
+            "end": 6.55,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 5.77,
+            "startOffset": 73,
+            "word": "distress"
+        }
+    ]
+}

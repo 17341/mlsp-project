@@ -1,0 +1,477 @@
+{
+    "transcript": "There reigned through the whole edifice a chilly damp unwholesome atmosphere and the effluvia from the prisoners was so nauseous",
+    "words": [
+        {
+            "alignedWord": "there",
+            "case": "success",
+            "end": 0.44,
+            "endOffset": 5,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.2,
+            "startOffset": 0,
+            "word": "There"
+        },
+        {
+            "alignedWord": "reigned",
+            "case": "success",
+            "end": 0.87,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.44,
+            "startOffset": 6,
+            "word": "reigned"
+        },
+        {
+            "alignedWord": "through",
+            "case": "success",
+            "end": 1.1,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "th_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 0.89,
+            "startOffset": 14,
+            "word": "through"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.2000000000000002,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.1,
+            "startOffset": 22,
+            "word": "the"
+        },
+        {
+            "alignedWord": "whole",
+            "case": "success",
+            "end": 1.52,
+            "endOffset": 31,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 1.2,
+            "startOffset": 26,
+            "word": "whole"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.09,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.52,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.57,
+            "startOffset": 32,
+            "word": "edifice"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 2.27,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 2.13,
+            "startOffset": 40,
+            "word": "a"
+        },
+        {
+            "alignedWord": "chilly",
+            "case": "success",
+            "end": 2.87,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "ch_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.29,
+            "startOffset": 42,
+            "word": "chilly"
+        },
+        {
+            "alignedWord": "damp",
+            "case": "success",
+            "end": 3.6,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.2,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "p_E"
+                }
+            ],
+            "start": 2.97,
+            "startOffset": 49,
+            "word": "damp"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.42,
+            "endOffset": 65,
+            "phones": [
+                {
+                    "duration": 0.2,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.22,
+            "startOffset": 54,
+            "word": "unwholesome"
+        },
+        {
+            "alignedWord": "atmosphere",
+            "case": "success",
+            "end": 5.2700000000000005,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 4.48,
+            "startOffset": 66,
+            "word": "atmosphere"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 5.91,
+            "endOffset": 80,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.7,
+            "startOffset": 77,
+            "word": "and"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 6.08,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 5.91,
+            "startOffset": 81,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.68,
+            "endOffset": 93,
+            "phones": [
+                {
+                    "duration": 0.6,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.08,
+            "startOffset": 85,
+            "word": "effluvia"
+        },
+        {
+            "alignedWord": "from",
+            "case": "success",
+            "end": 6.91,
+            "endOffset": 98,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 6.69,
+            "startOffset": 94,
+            "word": "from"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 7.0,
+            "endOffset": 102,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 6.91,
+            "startOffset": 99,
+            "word": "the"
+        },
+        {
+            "alignedWord": "prisoners",
+            "case": "success",
+            "end": 7.6,
+            "endOffset": 112,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 7.01,
+            "startOffset": 103,
+            "word": "prisoners"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 7.81,
+            "endOffset": 116,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 7.6,
+            "startOffset": 113,
+            "word": "was"
+        },
+        {
+            "alignedWord": "so",
+            "case": "success",
+            "end": 8.08,
+            "endOffset": 119,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "ow_E"
+                }
+            ],
+            "start": 7.82,
+            "startOffset": 117,
+            "word": "so"
+        },
+        {
+            "alignedWord": "nauseous",
+            "case": "success",
+            "end": 8.72,
+            "endOffset": 128,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "sh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 8.08,
+            "startOffset": 120,
+            "word": "nauseous"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "transcript": "of which there are 65 throughout the country.",
+    "words": [
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 0.19,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "of"
+        },
+        {
+            "alignedWord": "which",
+            "case": "success",
+            "end": 0.44,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 0.19,
+            "startOffset": 3,
+            "word": "which"
+        },
+        {
+            "alignedWord": "there",
+            "case": "success",
+            "end": 0.67,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.44,
+            "startOffset": 9,
+            "word": "there"
+        },
+        {
+            "alignedWord": "are",
+            "case": "success",
+            "end": 0.92,
+            "endOffset": 18,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.67,
+            "startOffset": 15,
+            "word": "are"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.81,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.89,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.92,
+            "startOffset": 19,
+            "word": "65"
+        },
+        {
+            "alignedWord": "throughout",
+            "case": "success",
+            "end": 2.27,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "th_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.83,
+            "startOffset": 22,
+            "word": "throughout"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 2.38,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 2.27,
+            "startOffset": 33,
+            "word": "the"
+        },
+        {
+            "alignedWord": "country",
+            "case": "success",
+            "end": 2.7399999999999998,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 2.38,
+            "startOffset": 37,
+            "word": "country"
+        }
+    ]
+}

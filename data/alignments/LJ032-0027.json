@@ -1,0 +1,409 @@
+{
+    "transcript": "According to its microfilm records Klein's received an order for a rifle on March 13 1963",
+    "words": [
+        {
+            "alignedWord": "according",
+            "case": "success",
+            "end": 0.44,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.05,
+            "startOffset": 0,
+            "word": "According"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 0.5700000000000001,
+            "endOffset": 12,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 0.44,
+            "startOffset": 10,
+            "word": "to"
+        },
+        {
+            "alignedWord": "its",
+            "case": "success",
+            "end": 0.77,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.57,
+            "startOffset": 13,
+            "word": "its"
+        },
+        {
+            "alignedWord": "microfilm",
+            "case": "success",
+            "end": 1.46,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 0.77,
+            "startOffset": 17,
+            "word": "microfilm"
+        },
+        {
+            "alignedWord": "records",
+            "case": "success",
+            "end": 2.1,
+            "endOffset": 34,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.46,
+            "startOffset": 27,
+            "word": "records"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.01,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.46,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.55,
+            "startOffset": 35,
+            "word": "Klein's"
+        },
+        {
+            "alignedWord": "received",
+            "case": "success",
+            "end": 3.51,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.02,
+            "startOffset": 43,
+            "word": "received"
+        },
+        {
+            "alignedWord": "an",
+            "case": "success",
+            "end": 3.6199999999999997,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 3.51,
+            "startOffset": 52,
+            "word": "an"
+        },
+        {
+            "alignedWord": "order",
+            "case": "success",
+            "end": 3.91,
+            "endOffset": 60,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.62,
+            "startOffset": 55,
+            "word": "order"
+        },
+        {
+            "alignedWord": "for",
+            "case": "success",
+            "end": 4.19,
+            "endOffset": 64,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 3.91,
+            "startOffset": 61,
+            "word": "for"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 4.2700000000000005,
+            "endOffset": 66,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 4.19,
+            "startOffset": 65,
+            "word": "a"
+        },
+        {
+            "alignedWord": "rifle",
+            "case": "success",
+            "end": 4.859999999999999,
+            "endOffset": 72,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 4.27,
+            "startOffset": 67,
+            "word": "rifle"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 5.43,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.21,
+            "startOffset": 73,
+            "word": "on"
+        },
+        {
+            "alignedWord": "march",
+            "case": "success",
+            "end": 5.779999999999999,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 5.43,
+            "startOffset": 76,
+            "word": "March"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.48,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.69,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.79,
+            "startOffset": 82,
+            "word": "13"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.86,
+            "endOffset": 89,
+            "phones": [
+                {
+                    "duration": 1.32,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.54,
+            "startOffset": 85,
+            "word": "1963"
+        }
+    ]
+}

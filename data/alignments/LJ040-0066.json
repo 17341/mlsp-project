@@ -1,0 +1,420 @@
+{
+    "transcript": "It had its effect on Lee's mother Marguerite his brother Robert who had been born in 1934",
+    "words": [
+        {
+            "alignedWord": "it",
+            "case": "success",
+            "end": 0.02,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "It"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 0.41000000000000003,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 0.13,
+            "startOffset": 3,
+            "word": "had"
+        },
+        {
+            "alignedWord": "its",
+            "case": "success",
+            "end": 0.59,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.41,
+            "startOffset": 7,
+            "word": "its"
+        },
+        {
+            "alignedWord": "effect",
+            "case": "success",
+            "end": 1.04,
+            "endOffset": 17,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.59,
+            "startOffset": 11,
+            "word": "effect"
+        },
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 1.23,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "aa_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.04,
+            "startOffset": 18,
+            "word": "on"
+        },
+        {
+            "alignedWord": "lee's",
+            "case": "success",
+            "end": 1.55,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 1.23,
+            "startOffset": 21,
+            "word": "Lee's"
+        },
+        {
+            "alignedWord": "mother",
+            "case": "success",
+            "end": 2.08,
+            "endOffset": 33,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.55,
+            "startOffset": 27,
+            "word": "mother"
+        },
+        {
+            "alignedWord": "marguerite",
+            "case": "success",
+            "end": 2.9899999999999998,
+            "endOffset": 44,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "m_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "g_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.15,
+            "startOffset": 34,
+            "word": "Marguerite"
+        },
+        {
+            "alignedWord": "his",
+            "case": "success",
+            "end": 3.66,
+            "endOffset": 48,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.41,
+            "startOffset": 45,
+            "word": "his"
+        },
+        {
+            "alignedWord": "brother",
+            "case": "success",
+            "end": 4.05,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "dh_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 3.66,
+            "startOffset": 49,
+            "word": "brother"
+        },
+        {
+            "alignedWord": "robert",
+            "case": "success",
+            "end": 4.66,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.05,
+            "startOffset": 57,
+            "word": "Robert"
+        },
+        {
+            "alignedWord": "who",
+            "case": "success",
+            "end": 5.010000000000001,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "uw_E"
+                }
+            ],
+            "start": 4.86,
+            "startOffset": 64,
+            "word": "who"
+        },
+        {
+            "alignedWord": "had",
+            "case": "success",
+            "end": 5.1899999999999995,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.01,
+            "startOffset": 68,
+            "word": "had"
+        },
+        {
+            "alignedWord": "been",
+            "case": "success",
+            "end": 5.41,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.19,
+            "startOffset": 72,
+            "word": "been"
+        },
+        {
+            "alignedWord": "born",
+            "case": "success",
+            "end": 5.73,
+            "endOffset": 81,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "ao_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.41,
+            "startOffset": 77,
+            "word": "born"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 5.86,
+            "endOffset": 84,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 5.73,
+            "startOffset": 82,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 7.2,
+            "endOffset": 89,
+            "phones": [
+                {
+                    "duration": 1.34,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.86,
+            "startOffset": 85,
+            "word": "1934"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "transcript": "On the 18th December 1812",
+    "words": [
+        {
+            "alignedWord": "on",
+            "case": "success",
+            "end": 0.16,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 0.14,
+            "startOffset": 0,
+            "word": "On"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.26,
+            "endOffset": 6,
+            "phones": [
+                {
+                    "duration": 0.02,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 0.16,
+            "startOffset": 3,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 0.78,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.5,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.28,
+            "startOffset": 7,
+            "word": "18th"
+        },
+        {
+            "alignedWord": "december",
+            "case": "success",
+            "end": 1.5,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.82,
+            "startOffset": 12,
+            "word": "December"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.51,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.96,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.55,
+            "startOffset": 21,
+            "word": "1812"
+        }
+    ]
+}

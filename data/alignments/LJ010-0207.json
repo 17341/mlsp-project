@@ -1,0 +1,331 @@
+{
+    "transcript": "Thus among the presidents were those of Gowrie Justinian Aloman Colsman Kenneth and Godfrey;",
+    "words": [
+        {
+            "alignedWord": "thus",
+            "case": "success",
+            "end": 0.43000000000000005,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.01,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.26,
+            "startOffset": 0,
+            "word": "Thus"
+        },
+        {
+            "alignedWord": "among",
+            "case": "success",
+            "end": 1.1400000000000001,
+            "endOffset": 10,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 0.8,
+            "startOffset": 5,
+            "word": "among"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.23,
+            "endOffset": 14,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.14,
+            "startOffset": 11,
+            "word": "the"
+        },
+        {
+            "alignedWord": "presidents",
+            "case": "success",
+            "end": 1.8900000000000001,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.02,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 1.23,
+            "startOffset": 15,
+            "word": "presidents"
+        },
+        {
+            "alignedWord": "were",
+            "case": "success",
+            "end": 2.09,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 1.91,
+            "startOffset": 26,
+            "word": "were"
+        },
+        {
+            "alignedWord": "those",
+            "case": "success",
+            "end": 2.4299999999999997,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.09,
+            "startOffset": 31,
+            "word": "those"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 2.64,
+            "endOffset": 39,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 2.44,
+            "startOffset": 37,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.31,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.67,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.64,
+            "startOffset": 40,
+            "word": "Gowrie"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.49,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.93,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.56,
+            "startOffset": 47,
+            "word": "Justinian"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.71,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.76,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 4.95,
+            "startOffset": 57,
+            "word": "Aloman"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.84,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.8,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 6.04,
+            "startOffset": 64,
+            "word": "Colsman"
+        },
+        {
+            "alignedWord": "kenneth",
+            "case": "success",
+            "end": 7.68,
+            "endOffset": 79,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "th_E"
+                }
+            ],
+            "start": 7.16,
+            "startOffset": 72,
+            "word": "Kenneth"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 8.29,
+            "endOffset": 83,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 8.0,
+            "startOffset": 80,
+            "word": "and"
+        },
+        {
+            "alignedWord": "godfrey",
+            "case": "success",
+            "end": 8.86,
+            "endOffset": 91,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "g_B"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "aa_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.03,
+                    "phone": "iy_E"
+                }
+            ],
+            "start": 8.29,
+            "startOffset": 84,
+            "word": "Godfrey"
+        }
+    ]
+}

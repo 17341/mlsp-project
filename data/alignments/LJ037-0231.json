@@ -1,0 +1,316 @@
+{
+    "transcript": "or eight inches about 145 pounds end quote and wearing a white jacket.",
+    "words": [
+        {
+            "alignedWord": "or",
+            "case": "success",
+            "end": 0.17,
+            "endOffset": 2,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 0.1,
+            "startOffset": 0,
+            "word": "or"
+        },
+        {
+            "alignedWord": "eight",
+            "case": "success",
+            "end": 0.41000000000000003,
+            "endOffset": 8,
+            "phones": [
+                {
+                    "duration": 0.15,
+                    "phone": "ey_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.19,
+            "startOffset": 3,
+            "word": "eight"
+        },
+        {
+            "alignedWord": "inches",
+            "case": "success",
+            "end": 1.01,
+            "endOffset": 15,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 0.41,
+            "startOffset": 9,
+            "word": "inches"
+        },
+        {
+            "alignedWord": "about",
+            "case": "success",
+            "end": 1.6099999999999999,
+            "endOffset": 21,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.26,
+            "startOffset": 16,
+            "word": "about"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.79,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 1.18,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.61,
+            "startOffset": 22,
+            "word": "145"
+        },
+        {
+            "alignedWord": "pounds",
+            "case": "success",
+            "end": 3.3499999999999996,
+            "endOffset": 32,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.21,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.84,
+            "startOffset": 26,
+            "word": "pounds"
+        },
+        {
+            "alignedWord": "end",
+            "case": "success",
+            "end": 3.58,
+            "endOffset": 36,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "eh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 3.35,
+            "startOffset": 33,
+            "word": "end"
+        },
+        {
+            "alignedWord": "quote",
+            "case": "success",
+            "end": 4.03,
+            "endOffset": 42,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "k_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.59,
+            "startOffset": 37,
+            "word": "quote"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 4.390000000000001,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.19,
+            "startOffset": 43,
+            "word": "and"
+        },
+        {
+            "alignedWord": "wearing",
+            "case": "success",
+            "end": 4.739999999999999,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 4.39,
+            "startOffset": 47,
+            "word": "wearing"
+        },
+        {
+            "alignedWord": "a",
+            "case": "success",
+            "end": 4.8,
+            "endOffset": 56,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "ah_S"
+                }
+            ],
+            "start": 4.74,
+            "startOffset": 55,
+            "word": "a"
+        },
+        {
+            "alignedWord": "white",
+            "case": "success",
+            "end": 5.12,
+            "endOffset": 62,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ay_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.8,
+            "startOffset": 57,
+            "word": "white"
+        },
+        {
+            "alignedWord": "jacket",
+            "case": "success",
+            "end": 5.7,
+            "endOffset": 69,
+            "phones": [
+                {
+                    "duration": 0.13,
+                    "phone": "jh_B"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 5.16,
+            "startOffset": 63,
+            "word": "jacket"
+        }
+    ]
+}

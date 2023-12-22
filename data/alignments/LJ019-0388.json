@@ -1,0 +1,463 @@
+{
+    "transcript": "This bill reintroduced in 1877 became law that year after which the whole of the prisons including Newgate",
+    "words": [
+        {
+            "alignedWord": "this",
+            "case": "success",
+            "end": 0.23,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "This"
+        },
+        {
+            "alignedWord": "bill",
+            "case": "success",
+            "end": 0.7,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.24,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.26,
+            "startOffset": 5,
+            "word": "bill"
+        },
+        {
+            "alignedWord": "reintroduced",
+            "case": "success",
+            "end": 1.85,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "iy_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.17,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 0.93,
+            "startOffset": 10,
+            "word": "reintroduced"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 2.06,
+            "endOffset": 25,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 1.87,
+            "startOffset": 23,
+            "word": "in"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 3.56,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 1.46,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 2.1,
+            "startOffset": 26,
+            "word": "1877"
+        },
+        {
+            "alignedWord": "became",
+            "case": "success",
+            "end": 4.29,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ey_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "m_E"
+                }
+            ],
+            "start": 3.83,
+            "startOffset": 31,
+            "word": "became"
+        },
+        {
+            "alignedWord": "law",
+            "case": "success",
+            "end": 4.5600000000000005,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.18,
+                    "phone": "ao_E"
+                }
+            ],
+            "start": 4.29,
+            "startOffset": 38,
+            "word": "law"
+        },
+        {
+            "alignedWord": "that",
+            "case": "success",
+            "end": 4.8500000000000005,
+            "endOffset": 46,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ae_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 4.57,
+            "startOffset": 42,
+            "word": "that"
+        },
+        {
+            "alignedWord": "year",
+            "case": "success",
+            "end": 5.27,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "y_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.19,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 4.88,
+            "startOffset": 47,
+            "word": "year"
+        },
+        {
+            "alignedWord": "after",
+            "case": "success",
+            "end": 6.08,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.18,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "f_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 5.67,
+            "startOffset": 52,
+            "word": "after"
+        },
+        {
+            "alignedWord": "which",
+            "case": "success",
+            "end": 6.36,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ch_E"
+                }
+            ],
+            "start": 6.08,
+            "startOffset": 58,
+            "word": "which"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 6.51,
+            "endOffset": 67,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 6.38,
+            "startOffset": 64,
+            "word": "the"
+        },
+        {
+            "alignedWord": "whole",
+            "case": "success",
+            "end": 6.88,
+            "endOffset": 73,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.14,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 6.51,
+            "startOffset": 68,
+            "word": "whole"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 6.99,
+            "endOffset": 76,
+            "phones": [
+                {
+                    "duration": 0.03,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 6.88,
+            "startOffset": 74,
+            "word": "of"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 7.07,
+            "endOffset": 80,
+            "phones": [
+                {
+                    "duration": 0.01,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 6.99,
+            "startOffset": 77,
+            "word": "the"
+        },
+        {
+            "alignedWord": "prisons",
+            "case": "success",
+            "end": 7.630000000000001,
+            "endOffset": 88,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "r_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "z_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 7.07,
+            "startOffset": 81,
+            "word": "prisons"
+        },
+        {
+            "alignedWord": "including",
+            "case": "success",
+            "end": 8.32,
+            "endOffset": 98,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "uw_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "d_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ng_E"
+                }
+            ],
+            "start": 7.72,
+            "startOffset": 89,
+            "word": "including"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 8.81,
+            "endOffset": 106,
+            "phones": [
+                {
+                    "duration": 0.48,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 8.33,
+            "startOffset": 99,
+            "word": "Newgate"
+        }
+    ]
+}

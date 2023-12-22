@@ -1,0 +1,313 @@
+{
+    "transcript": "However the 1964 to 65 budget request was submitted in November 1963",
+    "words": [
+        {
+            "alignedWord": "however",
+            "case": "success",
+            "end": 0.42,
+            "endOffset": 7,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "hh_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "aw_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 0.01,
+            "startOffset": 0,
+            "word": "However"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 0.61,
+            "endOffset": 11,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 0.46,
+            "startOffset": 8,
+            "word": "the"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.77,
+            "endOffset": 16,
+            "phones": [
+                {
+                    "duration": 1.16,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 0.61,
+            "startOffset": 12,
+            "word": "1964"
+        },
+        {
+            "alignedWord": "to",
+            "case": "success",
+            "end": 1.93,
+            "endOffset": 19,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.77,
+            "startOffset": 17,
+            "word": "to"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 2.62,
+            "endOffset": 22,
+            "phones": [
+                {
+                    "duration": 0.69,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.93,
+            "startOffset": 20,
+            "word": "65"
+        },
+        {
+            "alignedWord": "budget",
+            "case": "success",
+            "end": 2.9899999999999998,
+            "endOffset": 29,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "b_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "jh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.63,
+            "startOffset": 23,
+            "word": "budget"
+        },
+        {
+            "alignedWord": "request",
+            "case": "success",
+            "end": 3.62,
+            "endOffset": 37,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "r_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "k_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "w_I"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.15,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 3.02,
+            "startOffset": 30,
+            "word": "request"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 4.15,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 3.94,
+            "startOffset": 38,
+            "word": "was"
+        },
+        {
+            "alignedWord": "submitted",
+            "case": "success",
+            "end": 4.67,
+            "endOffset": 51,
+            "phones": [
+                {
+                    "duration": 0.04,
+                    "phone": "s_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 4.15,
+            "startOffset": 42,
+            "word": "submitted"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 4.880000000000001,
+            "endOffset": 54,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 4.69,
+            "startOffset": 52,
+            "word": "in"
+        },
+        {
+            "alignedWord": "november",
+            "case": "success",
+            "end": 5.359999999999999,
+            "endOffset": 63,
+            "phones": [
+                {
+                    "duration": 0.06,
+                    "phone": "n_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "v_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "m_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "b_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "er_E"
+                }
+            ],
+            "start": 4.88,
+            "startOffset": 55,
+            "word": "November"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 5.78,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.42,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.36,
+            "startOffset": 64,
+            "word": "1963"
+        }
+    ]
+}

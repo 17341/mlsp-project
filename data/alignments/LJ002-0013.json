@@ -1,0 +1,380 @@
+{
+    "transcript": "till 1808 the lowest point was touched of 197 debtors and 182 felons or 379 in all.",
+    "words": [
+        {
+            "alignedWord": "till",
+            "case": "success",
+            "end": 0.39,
+            "endOffset": 4,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ih_I"
+                },
+                {
+                    "duration": 0.23,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 0.0,
+            "startOffset": 0,
+            "word": "till"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 1.3599999999999999,
+            "endOffset": 9,
+            "phones": [
+                {
+                    "duration": 0.2,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 1.16,
+            "startOffset": 5,
+            "word": "1808"
+        },
+        {
+            "alignedWord": "the",
+            "case": "success",
+            "end": 1.8299999999999998,
+            "endOffset": 13,
+            "phones": [
+                {
+                    "duration": 0.08,
+                    "phone": "dh_B"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_E"
+                }
+            ],
+            "start": 1.67,
+            "startOffset": 10,
+            "word": "the"
+        },
+        {
+            "alignedWord": "lowest",
+            "case": "success",
+            "end": 2.2600000000000002,
+            "endOffset": 20,
+            "phones": [
+                {
+                    "duration": 0.12,
+                    "phone": "l_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "ow_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "s_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 1.83,
+            "startOffset": 14,
+            "word": "lowest"
+        },
+        {
+            "alignedWord": "point",
+            "case": "success",
+            "end": 2.59,
+            "endOffset": 26,
+            "phones": [
+                {
+                    "duration": 0.1,
+                    "phone": "p_B"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "oy_I"
+                },
+                {
+                    "duration": 0.04,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.28,
+            "startOffset": 21,
+            "word": "point"
+        },
+        {
+            "alignedWord": "was",
+            "case": "success",
+            "end": 2.77,
+            "endOffset": 30,
+            "phones": [
+                {
+                    "duration": 0.05,
+                    "phone": "w_B"
+                },
+                {
+                    "duration": 0.05,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 2.61,
+            "startOffset": 27,
+            "word": "was"
+        },
+        {
+            "alignedWord": "touched",
+            "case": "success",
+            "end": 3.21,
+            "endOffset": 38,
+            "phones": [
+                {
+                    "duration": 0.07,
+                    "phone": "t_B"
+                },
+                {
+                    "duration": 0.11,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "ch_I"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "t_E"
+                }
+            ],
+            "start": 2.8,
+            "startOffset": 31,
+            "word": "touched"
+        },
+        {
+            "alignedWord": "of",
+            "case": "success",
+            "end": 3.41,
+            "endOffset": 41,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ah_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "v_E"
+                }
+            ],
+            "start": 3.25,
+            "startOffset": 39,
+            "word": "of"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 4.74,
+            "endOffset": 45,
+            "phones": [
+                {
+                    "duration": 1.33,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 3.41,
+            "startOffset": 42,
+            "word": "197"
+        },
+        {
+            "alignedWord": "debtors",
+            "case": "success",
+            "end": 5.26,
+            "endOffset": 53,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "d_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.08,
+                    "phone": "t_I"
+                },
+                {
+                    "duration": 0.16,
+                    "phone": "er_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 4.74,
+            "startOffset": 46,
+            "word": "debtors"
+        },
+        {
+            "alignedWord": "and",
+            "case": "success",
+            "end": 5.89,
+            "endOffset": 57,
+            "phones": [
+                {
+                    "duration": 0.09,
+                    "phone": "ae_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "d_E"
+                }
+            ],
+            "start": 5.64,
+            "startOffset": 54,
+            "word": "and"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 6.99,
+            "endOffset": 61,
+            "phones": [
+                {
+                    "duration": 1.1,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 5.89,
+            "startOffset": 58,
+            "word": "182"
+        },
+        {
+            "alignedWord": "felons",
+            "case": "success",
+            "end": 7.68,
+            "endOffset": 68,
+            "phones": [
+                {
+                    "duration": 0.17,
+                    "phone": "f_B"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "eh_I"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "l_I"
+                },
+                {
+                    "duration": 0.09,
+                    "phone": "ah_I"
+                },
+                {
+                    "duration": 0.13,
+                    "phone": "n_I"
+                },
+                {
+                    "duration": 0.12,
+                    "phone": "z_E"
+                }
+            ],
+            "start": 7.02,
+            "startOffset": 62,
+            "word": "felons"
+        },
+        {
+            "alignedWord": "or",
+            "case": "success",
+            "end": 8.01,
+            "endOffset": 71,
+            "phones": [
+                {
+                    "duration": 0.14,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.06,
+                    "phone": "r_E"
+                }
+            ],
+            "start": 7.81,
+            "startOffset": 69,
+            "word": "or"
+        },
+        {
+            "alignedWord": "<unk>",
+            "case": "success",
+            "end": 9.39,
+            "endOffset": 75,
+            "phones": [
+                {
+                    "duration": 1.38,
+                    "phone": "oov_S"
+                }
+            ],
+            "start": 8.01,
+            "startOffset": 72,
+            "word": "379"
+        },
+        {
+            "alignedWord": "in",
+            "case": "success",
+            "end": 9.609999,
+            "endOffset": 78,
+            "phones": [
+                {
+                    "duration": 0.11,
+                    "phone": "ih_B"
+                },
+                {
+                    "duration": 0.07,
+                    "phone": "n_E"
+                }
+            ],
+            "start": 9.429999,
+            "startOffset": 76,
+            "word": "in"
+        },
+        {
+            "alignedWord": "all",
+            "case": "success",
+            "end": 9.87,
+            "endOffset": 82,
+            "phones": [
+                {
+                    "duration": 0.16,
+                    "phone": "ao_B"
+                },
+                {
+                    "duration": 0.1,
+                    "phone": "l_E"
+                }
+            ],
+            "start": 9.61,
+            "startOffset": 79,
+            "word": "all"
+        }
+    ]
+}
