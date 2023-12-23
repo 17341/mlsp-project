@@ -21,4 +21,4 @@ Ils se présentent de cette manière : % de mots ayant été définis par l'util
 
 ## Commentaires
 
-Globalement, les résultats ne sont pas significativement différents. Cependant, on peut conjecturer le fait que le calcul de similarité cosinus est plus sensible à des données qui contiennent moins de valeurs nulles par rapport à d'autres. Cela se trauduit par le fait qu'avec des données on l'on a ajouté la moyenne le modèle va (malgré un
+Globalement, les résultats ne sont pas significativement différents. Cependant, on peut conjecturer le fait que le calcul de similarité cosinus est plus sensible à des données qui contiennent moins de valeurs nulles par rapport à d'autres. Cela se trauduit par le fait qu'avec des données auxquelles on a ajouté une moyenne le modèle va (malgré une censure des mots non nécessaire) globalement en "raté" moins.
