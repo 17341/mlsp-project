@@ -21,6 +21,6 @@ Ils se présentent de cette manière : % de mots ayant été définis par l'util
 
 ## Commentaires
 
-Globalement, les résultats ne sont pas significativement différents. Cependant, on peut conjecturer le fait que le calcul de similarité cosinus est plus sensible à des données qui contiennent moins de valeurs nulles par rapport à d'autres. Cela se trauduit par le fait qu'avec des données auxquelles on a ajouté une moyenne le modèle va (malgré une censure des mots non nécessaire) globalement en "raté" moins.
+Globalement, les résultats ne sont pas significativement différents. Cependant, on peut conjecturer le fait que le calcul de similarité cosinus est plus sensible à des données qui contiennent moins de valeurs nulles par rapport à d'autres. Cela se trauduit par le fait qu'avec des données auxquelles on a ajouté une moyenne le modèle va (malgré une censure des mots non nécessaire) globalement en "raté" moins. Le constat le plus marquant est le fait que le modèle dans environ 40% des cas, ne va pas censurer des mots ayant été choisis par l'utilisateur.
 
 (Le résultat des tests présenté ci-dessus a été obtenu de manière expérimentale)
