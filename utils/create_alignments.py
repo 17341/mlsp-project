@@ -13,7 +13,7 @@ if parent_dir not in sys.path:
 
 # Need the wav, transcription files and to run the docker container for the alignment model "docker run -P lowerquality/gentle"
 
-# Directory paths
+
 audio_dir = f"{parent_dir}\data\wavs"
 transcript_dir = f"{parent_dir}\data\\transcriptions"
 alignment_dir= f"{parent_dir}\data\\alignments"
@@ -28,7 +28,7 @@ audio_paths = [os.path.join(audio_dir, file) for file in audio_files]
 transcript_paths = [os.path.join(transcript_dir, file) for file in transcript_files]
 
 # URL for POST request
-url = "http://localhost:32768/transcriptions?async=false"
+url = "http://localhost:32768/transcriptions?async=false" # Verify the port first in docker
 
 # Iterate and send requests
 for audio_path in audio_paths[8000:]:

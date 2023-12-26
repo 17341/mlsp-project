@@ -46,7 +46,7 @@ try:
 
             # features = extract_stft(numpy_data.copy(), RATE, fixed_length=100)
             features = extract_embedding(numpy_data.copy(), RATE)
-            print(features.shape)
+            print(features.squeeze(0).squeeze(0))
 
 except KeyboardInterrupt:
     # Stop stream

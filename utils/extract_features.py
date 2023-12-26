@@ -5,8 +5,7 @@ from transformers import Wav2Vec2FeatureExtractor
 feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained('facebook/wav2vec2-large-xlsr-53') 
 
 def extract_stft(chunk, sample_rate:int, target_sample_rate:int=22050, fixed_length:int = None):
-    # Convert the chunk to a PyTorch tensor and add a new axis to match the expected shape
-    waveform = torch.from_numpy(chunk).float()
+    waveform = chunk.float()
     waveform = waveform.unsqueeze(0)
 
     if waveform.shape[0] == 2:
@@ -29,13 +28,11 @@ def extract_stft(chunk, sample_rate:int, target_sample_rate:int=22050, fixed_len
             padding = fixed_length - wav_stft.size(-1)
             wav_stft = torch.nn.functional.pad(wav_stft, (0, padding))
         else:
-            # Truncate
             wav_stft = wav_stft[..., :fixed_length]
-
     return wav_stft.squeeze(0)
 
 def extract_embedding(chunk, sample_rate:int):
-    waveform = torch.from_numpy(chunk).float()
+    waveform = chunk.float()
     waveform = waveform.unsqueeze(0)
 
     if waveform.shape[0] == 2:
